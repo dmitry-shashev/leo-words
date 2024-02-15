@@ -1,1 +1,0 @@
-Load images for words
