@@ -57,6 +57,7 @@ export const wordsSlice: Slice<
   name: 'wordsSlice',
   initialState,
   reducers: {
+    //----------------------------------------------------------------
     setAllWords(state, action) {
       state.isCheckState = false
       state.isByWrongWords = false
@@ -65,15 +66,15 @@ export const wordsSlice: Slice<
       state.allWords = action.payload
       state.currentWord = state.allWords[0]!
     },
+    //----------------------------------------------------------------
     goToCheckState(state) {
       state.isCheckState = true
     },
+    //----------------------------------------------------------------
     checkOk(state) {
       state.isCheckState = false
 
       if (state.isByWrongWords) {
-        state.finishedWords.push(state.currentWord)
-
         if (state.wrongWords.length === 1) {
           state.isByWrongWords = false
           state.wrongWords = []
@@ -90,10 +91,10 @@ export const wordsSlice: Slice<
           state.currentWord,
           state.wrongWords
         )
-        state.currentWord = value
         state.wrongWords = state.wrongWords.filter(
           (v) => v.id !== state.currentWord.id
         )
+        state.currentWord = value
         return
       }
 
@@ -117,6 +118,7 @@ export const wordsSlice: Slice<
         state.finishedWords = []
       }
     },
+    //----------------------------------------------------------------
     checkNo(state) {
       state.isCheckState = false
 
@@ -130,6 +132,7 @@ export const wordsSlice: Slice<
       }
 
       state.wrongWords.push(state.currentWord)
+      state.finishedWords.push(state.currentWord)
       const { value, reset } = getNextCircledValue(
         state.currentWord,
         state.allWords
@@ -149,6 +152,7 @@ export const wordsSlice: Slice<
         state.finishedWords = []
       }
     },
+    //----------------------------------------------------------------
     goBack(state) {
       state.isCheckState = false
       const { value } = getPrevCircledValue(state.currentWord, state.allWords)
@@ -160,6 +164,7 @@ export const wordsSlice: Slice<
         (v: Word) => v.id !== state.currentWord.id
       )
     },
+    //----------------------------------------------------------------
     toggleByWrongWords(state) {
       if (state.wrongWords.length === 0) {
         return
