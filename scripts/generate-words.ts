@@ -9,10 +9,16 @@ import { WORDS_PATH } from '@/utils/constants'
 const ACCOUNT_EMAIL = process.env.ACCOUNT_EMAIL ?? ''
 const ACCOUNT_PASSWORD = process.env.ACCOUNT_PASSWORD ?? ''
 
+if (!ACCOUNT_EMAIL || !ACCOUNT_PASSWORD) {
+  throw new Error('Leo account data was not found')
+}
+
 const WORDS_PATH_FULL = `${path.resolve('./')}/${WORDS_PATH}`
 
 // main
 ;(async function (): Promise<void> {
+  const oldWords: Array<Word> = (await import(WORDS_PATH_FULL)).default
+
   const accessToken = await login(ACCOUNT_EMAIL, ACCOUNT_PASSWORD)
 
   // get all words
@@ -30,14 +36,13 @@ const WORDS_PATH_FULL = `${path.resolve('./')}/${WORDS_PATH}`
     lastWordInSet = words.at(-1)?.id ?? null
   } while (lastWordInSet)
 
-  const oldWords: Array<Word> = (await import(WORDS_PATH_FULL)).default
-
   // try to apply images from old words
   const wordsWithoutImg = result.filter(
     (v) => !v.picture || v.picture.endsWith('f714.png')
   )
+
   for (let w of wordsWithoutImg) {
-    const oldImg = oldWords.find((v) => v.id === w.id)?.picture ?? ''
+    const oldImg = oldWords.find((old) => old.id === w.id)?.picture ?? ''
     if (oldImg && !oldImg.endsWith('f714.png')) {
       // @ts-ignore
       w['picture'] = oldImg
@@ -45,5 +50,6 @@ const WORDS_PATH_FULL = `${path.resolve('./')}/${WORDS_PATH}`
       console.log(`Apply to ${w.wordValue}[${w.id}] image: ${oldImg}`)
     }
   }
+
   saveWords(result)
 })()
