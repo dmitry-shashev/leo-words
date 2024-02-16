@@ -1,5 +1,53 @@
 [
   {
+    "id": 1822,
+    "combinedTranslation": "сращиваться",
+    "wordValue": "accrete",
+    "transcription": "əkrˈiːt",
+    "picture": "https://img.freepik.com/free-photo/abstract-red-spinning-swirl_1409-6446.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YWNjcmV0ZQ==e83e43fd.mp3"
+  },
+  {
+    "id": 1649,
+    "combinedTranslation": "отвращение",
+    "wordValue": "abomination",
+    "transcription": "əbɒmɪnˈeɪːʃən",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/586444.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YWJvbWluYXRpb24=66619a57.mp3"
+  },
+  {
+    "id": 1138039392,
+    "combinedTranslation": "демонтаж",
+    "wordValue": "teardown",
+    "transcription": null,
+    "picture": "https://img.freepik.com/free-vector/product-development-concept-illustration_114360-21580.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dGVhcmRvd24=6cccbc50.mp3"
+  },
+  {
+    "id": 1944295417,
+    "combinedTranslation": "описательная",
+    "wordValue": "descriptive",
+    "transcription": "dɪskrˈɪptɪv",
+    "picture": "https://img.freepik.com/free-vector/alt-tag-optimization-abstract-illustration-flat-style_335657-4532.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZGVzY3JpcHRpdmU=8ef58cfb.mp3"
+  },
+  {
+    "id": 122259,
+    "combinedTranslation": "листовка",
+    "wordValue": "paperback",
+    "transcription": "ˈpeɪpərˌbæk",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/438359.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cGFwZXJiYWNrd0f588ce.mp3"
+  },
+  {
+    "id": 5789,
+    "combinedTranslation": "благословение",
+    "wordValue": "boon",
+    "transcription": "bˈuːn",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/269798.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Ym9vbg==67a3ca20.mp3"
+  },
+  {
     "id": 44528,
     "combinedTranslation": "пачка",
     "wordValue": "wad",

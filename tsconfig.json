@@ -17,6 +17,7 @@
     "noUncheckedIndexedAccess": true,
     "noImplicitAny": true,
     "noImplicitReturns": true,
+    "target": "ESNext",
     "plugins": [
       {
         "name": "next"
