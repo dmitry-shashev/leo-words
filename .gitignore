@@ -37,3 +37,5 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+scripts/extra/add-to-block-list.json
