@@ -27,9 +27,14 @@ function getWords(text: string): Array<string> {
     // remove getters and setters
     .filter((w) => !/^get.*/.test(w))
     .filter((w) => !/^set.*/.test(w))
+    // can not have 4 consonants in a row
+    .filter((w) => !/[bcdfghjklmnpqrstvwxyz]{4,}/.test(w))
+    // can not have 3 same letters in a row
+    .filter((w) => !/([a-zA-Z])(?=(?:.*?\1){2})/.test(w))
     .filter((w) => /^[a-z]/.test(w))
     .filter((w) => /[a-z]$/.test(w))
-    .filter((w) => w.length > 2)
+    // more than 3 letters
+    .filter((w) => w.length > 3)
     .filter((w) => !!w)
     .filter((w) => !/'/.test(w))
   result = Array.from(new Set(result))

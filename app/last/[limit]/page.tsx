@@ -6,14 +6,14 @@ import { BottomControl } from '@/components/complex/BottomControl/BottomControl'
 import { SoundControl } from '@/components/complex/SoundControl/SoundControl'
 
 interface Props {
-  param: {
-    wordsLimit: number
+  params: {
+    limit: string
   }
 }
 
-const LastPage: FC<Props> = ({ params: { wordsLimit } }: any) => {
+const LastPage: FC<Props> = ({ params: { limit } }) => {
   return (
-    <App wordsLimit={wordsLimit}>
+    <App limit={+limit}>
       <TopMenu />
       <WordView />
       <BottomControl />
