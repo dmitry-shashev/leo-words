@@ -1,5 +1,29 @@
 [
   {
+    "id": 1406487300,
+    "combinedTranslation": "переусердствуйте",
+    "wordValue": "overthink",
+    "transcription": "ˈevəθɪŋk",
+    "picture": "https://img.freepik.com/free-vector/overthinking-concept-illustration_114360-21445.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/b3ZlcnRoaW5rbf46d456.mp3"
+  },
+  {
+    "id": 27995,
+    "combinedTranslation": "обидчик",
+    "wordValue": "offender",
+    "transcription": "əˈfɛndə",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/0.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/b2ZmZW5kZXI=d200afdd.mp3"
+  },
+  {
+    "id": 11484,
+    "combinedTranslation": "стереть",
+    "wordValue": "delete",
+    "transcription": "dɪˈlit",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/479720.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZGVsZXRl63e6fcce.mp3"
+  },
+  {
     "id": 1822,
     "combinedTranslation": "сращиваться",
     "wordValue": "accrete",

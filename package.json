@@ -1,6 +1,6 @@
 {
   "name": "leo-words",
-  "version": "0.0.13",
+  "version": "0.0.17",
   "private": true,
   "scripts": {
     "prepare": "husky",
@@ -11,7 +11,9 @@
     "prettier-format": "prettier --write .",
     "generate-words": "tsx ./scripts/generate-words.ts",
     "generate-extra-img": "tsx ./scripts/generate-extra-img.ts",
-    "sync-words": "tsx ./scripts/generate-words.ts && tsx ./scripts/generate-extra-img.ts"
+    "sync": "tsx ./scripts/generate-words.ts && tsx ./scripts/generate-extra-img.ts",
+    "parse-text": "tsx scripts/parse-text.ts",
+    "parse-youtube": "tsx scripts/parse-youtube.ts"
   },
   "dependencies": {
     "@reduxjs/toolkit": "2.2.0",
@@ -27,6 +29,7 @@
   },
   "devDependencies": {
     "@types/node": "^20.11.19",
+    "@types/pluralize": "0.0.33",
     "@types/react": "^18.2.55",
     "@types/react-dom": "^18.2.19",
     "@typescript-eslint/eslint-plugin": "7.0.1",
@@ -38,11 +41,13 @@
     "i": "0.3.7",
     "node-html-parser": "6.1.12",
     "npm": "10.4.0",
+    "pluralize": "8.0.0",
     "postcss": "^8.4.35",
     "prettier": "3.2.5",
     "tailwindcss": "^3.4.1",
     "tsx": "4.7.1",
-    "typescript": "^5.3.3"
+    "typescript": "^5.3.3",
+    "youtube-caption-extractor": "1.4.3"
   },
   "prettier": {
     "arrowParens": "always",
