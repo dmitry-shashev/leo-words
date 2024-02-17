@@ -17,8 +17,18 @@ function getWords(text: string): Array<string> {
     .replace(/[^a-zA-Z\-']/g, ' ')
     .split(/[\n\s]/)
     .map((w) => w.trim())
+    // get rid of camelcase
+    .filter((w) => !/[a-z][A-Z]/.test(w))
     .map((w) => w.toLowerCase())
+    // no vowels
+    .filter((w) => /[aeiouy]/.test(w))
+    // no consonants
+    .filter((w) => /[bcdfghjklmnpqrstvwxyz]/.test(w))
+    // remove getters and setters
+    .filter((w) => !/^get.*/.test(w))
+    .filter((w) => !/^set.*/.test(w))
     .filter((w) => /^[a-z]/.test(w))
+    .filter((w) => /[a-z]$/.test(w))
     .filter((w) => w.length > 2)
     .filter((w) => !!w)
     .filter((w) => !/'/.test(w))
