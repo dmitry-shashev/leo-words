@@ -9,21 +9,29 @@ import { persistor, useAppDispatch } from '@/store/store'
 
 interface Props {
   children: ReactNode
-  wordsLimit?: number
+  limit?: number
+  offset?: number
 }
 
-export const App: FC<Props> = ({ children, wordsLimit }) => {
+export const App: FC<Props> = ({ children, limit, offset }) => {
   const dispatch = useAppDispatch()
   const allWords = useSelector(getWordsAll)
 
   useEffect(() => {
-    let parsedWords = (parsedWordsPure as Array<Word>).slice(0, wordsLimit)
+    const currentOffset: number = offset ?? 0
+    const currentLimit: number | undefined = limit
+      ? limit + currentOffset
+      : undefined
+    let parsedWords = (parsedWordsPure as Array<Word>).slice(
+      currentOffset,
+      currentLimit
+    )
     if (allWords.length !== parsedWords.length) {
       persistor.purge().then(() => {
         dispatch(setAllWords(parsedWords))
       })
     }
-  }, [dispatch, allWords, wordsLimit])
+  }, [dispatch, allWords, limit, offset])
 
   if (allWords.length === 0) {
     return (
