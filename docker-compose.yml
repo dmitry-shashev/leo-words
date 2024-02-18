@@ -1,0 +1,14 @@
+version: '3.5'
+# to start it
+#   COMMAND="pnpm run lint" docker-compose up
+services:
+  temp-node:
+    container_name: leo-words
+    user: 1000:1000
+    build: .
+    ports:
+      - '3000:3000'
+    volumes:
+      - './:/app'
+    working_dir: /app
+    command: ${COMMAND}
