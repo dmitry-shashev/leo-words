@@ -38,4 +38,4 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-scripts/extra/add-to-block-list.json
+scripts/extra/FOUND.json

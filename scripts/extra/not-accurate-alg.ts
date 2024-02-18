@@ -43,3 +43,21 @@ export function getPossibleContinuosPresentForms(word: string): Array<string> {
 
   return []
 }
+
+export function printParseResult(result: Record<string, Array<string>>): void {
+  let total = 0
+  // eslint-disable-next-line no-console
+  console.log('Done')
+  // eslint-disable-next-line no-console
+  console.log('-----------------------------------------')
+  Object.entries(result).forEach(([key, values]) => {
+    // @#$
+    // eslint-disable-next-line no-console
+    console.log(`${key}: ${values.length}`)
+    total += values.length
+  })
+  // eslint-disable-next-line no-console
+  console.log('-----------------------------------------')
+  // eslint-disable-next-line no-console
+  console.log(`Total: ${total}`)
+}
