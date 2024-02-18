@@ -19,7 +19,7 @@ if (!videoID) {
   })
 
   const text = subtitles.map((v) => v.text).join(' ')
-  const newWords = await parseWords(text)
+  const newWords = parseWords(text)
 
   writeFileSync(ADD_TO_BLOCK_LIST_PATH, JSON.stringify(newWords, null, 2))
 

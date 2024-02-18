@@ -13,13 +13,10 @@ if (!existsSync(fileSource)) {
   throw new Error('The source file was not found')
 }
 
-// main
-;(async function (): Promise<void> {
-  const text = readFileSync(fileSource!, 'utf-8')
-  const newWords = await parseWords(text)
+const text = readFileSync(fileSource!, 'utf-8')
+const newWords = parseWords(text)
 
-  writeFileSync(ADD_TO_BLOCK_LIST_PATH, JSON.stringify(newWords, null, 2))
+writeFileSync(ADD_TO_BLOCK_LIST_PATH, JSON.stringify(newWords, null, 2))
 
-  // eslint-disable-next-line no-console
-  console.log(`New words: ${newWords.length}`)
-})()
+// eslint-disable-next-line no-console
+console.log(`New words: ${newWords.length}`)
