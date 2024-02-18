@@ -3,9 +3,10 @@ import path from 'path'
 import { parseWords } from '@/scripts/extra/parse-words'
 // @ts-ignore
 import { PdfDataParser } from 'pdf-data-parser'
+import { printParseResult } from '@/scripts/extra/not-accurate-alg'
 
 const PROJECT_PATH = path.resolve('./')
-const ADD_TO_BLOCK_LIST_PATH = `${PROJECT_PATH}/scripts/extra/add-to-block-list.json`
+const ADD_TO_BLOCK_LIST_PATH = `${PROJECT_PATH}/scripts/extra/FOUND.json`
 
 const fileSource: string | undefined = process.argv[2]
 if (!fileSource) {
@@ -24,10 +25,12 @@ async function loadPdfText(path: string): Promise<string> {
 // main
 ;(async function (): Promise<void> {
   const text = await loadPdfText(fileSource!)
-  const newWords = await parseWords(text)
+  const parsedWordsData = parseWords(text)
 
-  writeFileSync(ADD_TO_BLOCK_LIST_PATH, JSON.stringify(newWords, null, 2))
+  writeFileSync(
+    ADD_TO_BLOCK_LIST_PATH,
+    JSON.stringify(parsedWordsData, null, 2)
+  )
 
-  // eslint-disable-next-line no-console
-  console.log(`New words: ${newWords.length}`)
+  printParseResult(parsedWordsData)
 })()
