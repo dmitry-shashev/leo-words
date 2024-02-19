@@ -7,13 +7,13 @@ import { SoundControl } from '@/components/complex/SoundControl/SoundControl'
 
 interface Props {
   params: {
-    limit: string
+    last: string
   }
 }
 
-const LastPage: FC<Props> = ({ params: { limit } }) => {
+const LastPage: FC<Props> = ({ params: { last } }) => {
   return (
-    <App limit={+limit}>
+    <App last={+last}>
       <TopMenu />
       <WordView />
       <BottomControl />
