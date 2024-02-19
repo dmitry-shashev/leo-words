@@ -20,6 +20,12 @@ Then download words
 pnpm run generate-words
 ```
 
+> It will update words and apply images if they don't exist
+
+```bash
+pnpm run sync
+```
+
 #### How to repeat words
 
 Start
@@ -38,4 +44,32 @@ In order to repeat last 20 words for example
 
 ```bash
 http://localhost:3000/last/20
+```
+
+Repeat first 2000 words
+
+```bash
+http://localhost:3000/offsetlimit/0/2000
+```
+
+#### Parse resources
+
+> In all cases it will create a new file `FOUND.json`
+
+Parse youtube video
+
+```bash
+pnpm run parse-youtube <id>
+```
+
+Parse txt file
+
+```bash
+p parse-text <path>
+```
+
+Parse pdf
+
+```bash
+p parse-pdf <path>
 ```
