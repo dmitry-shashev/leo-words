@@ -1,5 +1,61 @@
 [
   {
+    "id": 45378,
+    "combinedTranslation": "двигаться",
+    "wordValue": "wiggle",
+    "transcription": "wˈɪgl",
+    "picture": "https://img.freepik.com/free-vector/pink-ribbon-flow-breast-cancer-awareness-symbol_587448-937.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/d2lnZ2xl0fb80e55.mp3"
+  },
+  {
+    "id": 7728,
+    "combinedTranslation": "дерзкий",
+    "wordValue": "cheeky",
+    "transcription": "ˈtʃiːki",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/804917.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y2hlZWt5c2ea84fd.mp3"
+  },
+  {
+    "id": 40193,
+    "combinedTranslation": "обобщение",
+    "wordValue": "synopsis",
+    "transcription": "sɪˈnɑpsɪs",
+    "picture": "https://img.freepik.com/free-photo/online-star-films-sponsored-book-review_482257-76503.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c3lub3BzaXM=4b377a51.mp3"
+  },
+  {
+    "id": 35563,
+    "combinedTranslation": "дикий",
+    "wordValue": "savage",
+    "transcription": "ˈsævəʤ",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/431741.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c2F2YWdlbbf1cd2d.mp3"
+  },
+  {
+    "id": 43741,
+    "combinedTranslation": "направленный или движущийся вверх",
+    "wordValue": "upward",
+    "transcription": "ˈʌpwəd",
+    "picture": "https://img.freepik.com/free-vector/financial-stock-graph-background-with-upward-growth-arrow_1017-42918.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dXB3YXJk7da19737.mp3"
+  },
+  {
+    "id": 17451,
+    "combinedTranslation": "(амер. разг.) человек, живущий врозь с женой; гусак; болван, простак",
+    "wordValue": "gander",
+    "transcription": "gˈændə",
+    "picture": "https://img.freepik.com/free-photo/flying-through-fall-forest-canadian-goose_91128-3757.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Z2FuZGVy36c82cf7.mp3"
+  },
+  {
+    "id": 10946,
+    "combinedTranslation": "штопать",
+    "wordValue": "darn",
+    "transcription": "dˈɑːn",
+    "picture": "https://img.freepik.com/free-vector/isometric-damn-good-vector-italic-font-typography_53876-177126.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZGFybg==b1325b4e.mp3"
+  },
+  {
     "id": 223764,
     "combinedTranslation": "стриптиз клуб",
     "wordValue": "strip joints",

@@ -11,9 +11,10 @@ interface Props {
   children: ReactNode
   limit?: number
   offset?: number
+  last?: number
 }
 
-export const App: FC<Props> = ({ children, limit, offset }) => {
+export const App: FC<Props> = ({ children, limit, offset, last }) => {
   const dispatch = useAppDispatch()
   const allWords = useSelector(getWordsAll)
 
@@ -22,10 +23,17 @@ export const App: FC<Props> = ({ children, limit, offset }) => {
     const currentLimit: number | undefined = limit
       ? limit + currentOffset
       : undefined
-    let parsedWords = (parsedWordsPure as Array<Word>).slice(
-      currentOffset,
-      currentLimit
-    )
+    let parsedWords = parsedWordsPure as Array<Word>
+
+    if (limit !== undefined && offset !== undefined) {
+      parsedWords = [...parsedWords]
+        .reverse()
+        .slice(currentOffset, currentLimit)
+    }
+    if (last) {
+      parsedWords = parsedWords.slice(0, last)
+    }
+
     if (allWords.length !== parsedWords.length) {
       persistor.purge().then(() => {
         dispatch(setAllWords(parsedWords))
