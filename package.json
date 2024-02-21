@@ -1,6 +1,6 @@
 {
   "name": "leo-words",
-  "version": "0.0.32",
+  "version": "0.0.35",
   "private": true,
   "scripts": {
     "prepare": "husky",
@@ -14,7 +14,8 @@
     "sync": "tsx ./scripts/generate-words.ts && tsx ./scripts/generate-extra-img.ts",
     "parse-text": "tsx scripts/parse-text.ts",
     "parse-youtube": "tsx scripts/parse-youtube.ts",
-    "parse-pdf": "tsx scripts/parse-pdf.ts"
+    "parse-pdf": "tsx scripts/parse-pdf.ts",
+    "parse-url": "tsx scripts/parse-url.ts"
   },
   "dependencies": {
     "@reduxjs/toolkit": "2.2.0",
@@ -43,6 +44,7 @@
     "node-html-parser": "6.1.12",
     "npm": "10.4.0",
     "pdf-data-parser": "1.1.3",
+    "playwright": "1.41.2",
     "pluralize": "8.0.0",
     "postcss": "^8.4.35",
     "prettier": "3.2.5",
