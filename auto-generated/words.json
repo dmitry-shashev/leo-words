@@ -1,5 +1,85 @@
 [
   {
+    "id": 23771,
+    "combinedTranslation": "обязанность",
+    "wordValue": "liability",
+    "transcription": "ˌlaɪəˈbɪlɪti",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/712940.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bGlhYmlsaXR56efc0907.mp3"
+  },
+  {
+    "id": 31805,
+    "combinedTranslation": "предрассудок",
+    "wordValue": "prejudice",
+    "transcription": "ˈprɛʤʊdɪs",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/852158.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cHJlanVkaWNl1c1055a4.mp3"
+  },
+  {
+    "id": 2033,
+    "combinedTranslation": "примесь",
+    "wordValue": "admixture",
+    "transcription": "ædmˈɪkstʃə",
+    "picture": "https://img.freepik.com/premium-photo/white-grunge-wall-background_875825-66647.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YWRtaXh0dXJl35781b64.mp3"
+  },
+  {
+    "id": 45787,
+    "combinedTranslation": "крушение",
+    "wordValue": "wreck",
+    "transcription": "rˈek",
+    "picture": "https://img.freepik.com/free-vector/shipwreck-accident-ship-run-aground-sink-ocean_33099-2210.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/d3JlY2s=ba930504.mp3"
+  },
+  {
+    "id": 1417912951,
+    "combinedTranslation": "развалиться",
+    "wordValue": "fall apart",
+    "transcription": "fɔl əˈpɑrt",
+    "picture": "https://img.freepik.com/free-vector/overwhelmed-concept-illustration_114360-9374.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZmFsbCBhcGFydA==8e1d6951.mp3"
+  },
+  {
+    "id": 251525,
+    "combinedTranslation": "бросать (учёбу, работу), отчислиться",
+    "wordValue": "drop out of",
+    "transcription": "drˈɒp ˈaʊːt ɒv",
+    "picture": "",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZHJvcCBvdXQgb2Y=4024d89a.mp3"
+  },
+  {
+    "id": 174350,
+    "combinedTranslation": "терпеть",
+    "wordValue": "put up with",
+    "transcription": "pʊt ʌp wɪð",
+    "picture": "",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cHV0IHVwIHdpdGg=a0a2f9fe.mp3"
+  },
+  {
+    "id": 177941,
+    "combinedTranslation": "сойти с рук, избежать",
+    "wordValue": "get away with",
+    "transcription": "gɛt əˈweɪ wɪð",
+    "picture": "https://img.freepik.com/free-vector/subway-concept-illustration_114360-2419.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Z2V0IGF3YXkgd2l0aA==3a597113.mp3"
+  },
+  {
+    "id": 1340252578,
+    "combinedTranslation": "реабилитация",
+    "wordValue": "rehab",
+    "transcription": "rihæb",
+    "picture": "",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cmVoYWI=57995f05.mp3"
+  },
+  {
+    "id": 172145,
+    "combinedTranslation": "разочарованный",
+    "wordValue": "disabused",
+    "transcription": "dɪsəbjˈuːzd",
+    "picture": "https://img.freepik.com/free-photo/no-thanks-serious-reluctant-woman-shake-hand-reject-decline-some-bad-uninteresting-offer-blocking-someone-dont-come-any-closer-gesture-white-background_176420-45646.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZGlzYWJ1c2Vk9aced083.mp3"
+  },
+  {
     "id": 58604,
     "combinedTranslation": "муражки",
     "wordValue": "crawling",
@@ -558,14 +638,6 @@
     "transcription": "prˈesɪdənt",
     "picture": "https://img.freepik.com/free-vector/palm-sunday-concept-illustration_114360-24949.jpg",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cHJlY2VkZW5025cfef3f.mp3"
-  },
-  {
-    "id": 172145,
-    "combinedTranslation": "освобождать от иллюзий",
-    "wordValue": "disabused",
-    "transcription": "dɪsəbjˈuːzd",
-    "picture": "https://img.freepik.com/free-photo/no-thanks-serious-reluctant-woman-shake-hand-reject-decline-some-bad-uninteresting-offer-blocking-someone-dont-come-any-closer-gesture-white-background_176420-45646.jpg",
-    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZGlzYWJ1c2Vk9aced083.mp3"
   },
   {
     "id": 30252,

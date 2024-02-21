@@ -36,7 +36,13 @@ export const App: FC<Props> = ({ children, limit, offset, last }) => {
     }
 
     const currenVersion = localStorage.getItem('version')
-    if (!currenVersion || currenVersion !== version) {
+    // we reset store in case of updating the version
+    // or changing the range of words from the UI
+    if (
+      !currenVersion ||
+      currenVersion !== version ||
+      allWords.length !== parsedWords.length
+    ) {
       localStorage.setItem('version', version)
       persistor.purge().then(() => {
         dispatch(setAllWords(parsedWords))
