@@ -3,8 +3,10 @@
 import { FC } from 'react'
 import {
   getSettingsLang,
+  getSettingsShowImage,
   getSettingsSound,
   toggleLang,
+  toggleShowImage,
   toggleSound,
 } from '@/store/slices/settingsSlice'
 import { useSelector } from 'react-redux'
@@ -25,6 +27,7 @@ export const TopMenu: FC = () => {
   const dispatch = useAppDispatch()
   const sound = useSelector(getSettingsSound)
   const lang = useSelector(getSettingsLang)
+  const showImage = useSelector(getSettingsShowImage)
 
   const allWords = useSelector(getWordsAll)
   const wrongWords = useSelector(getWordsWrong)
@@ -39,6 +42,10 @@ export const TopMenu: FC = () => {
     dispatch(toggleLang())
   }
 
+  const onShowImage = (): void => {
+    dispatch(toggleShowImage())
+  }
+
   const onWrongWords = (): void => {
     dispatch(toggleByWrongWords())
   }
@@ -50,12 +57,13 @@ export const TopMenu: FC = () => {
 
   return (
     <div className="flex flex-row justify-between p-1 mb-1 border-b">
-      <div className="flex flex-row gap-4">
+      <div className="flex flex-row gap-2">
         <div className="mr-4 border-r">
           <SquareBtn onClick={onShuffle} label="🪃" />
         </div>
         <SquareBtn onClick={onSound} label={sound.icon} />
         <SquareBtn onClick={onLang} label={lang.icon} />
+        <SquareBtn onClick={onShowImage} label={showImage.icon} />
       </div>
       <WordsBtn
         hoverMode={isByWrongWords}

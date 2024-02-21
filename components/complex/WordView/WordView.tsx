@@ -9,12 +9,15 @@ import {
   getIsCheckState,
   getNextPrev10Words,
 } from '@/store/slices/wordsSlice'
+import { getSettingsShowImage } from '@/store/slices/settingsSlice'
+import { ShowImage } from '@/types/show-image'
 
 export const WordView: FC = () => {
   const wordValue = useSelector(getCurrentWordValue)
   const wordTranslation = useSelector(getCurrentWordTranslation)
   const wordPicture = useSelector(getCurrentWordPicture)
   const isCheckState = useSelector(getIsCheckState)
+  const showImage = useSelector(getSettingsShowImage)
   // for optimization purposes - not to wait the next pic
   const nextPrev10Words = useSelector(getNextPrev10Words)
 
@@ -35,8 +38,6 @@ export const WordView: FC = () => {
     translationFontSize = 'text-lg'
   }
 
-  let blurClass = isCheckState ? '' : 'blur'
-
   return (
     <div className="mb-10">
       <div className={`${valueFontSize} font-semibold h-24 text-center p-1`}>
@@ -48,11 +49,25 @@ export const WordView: FC = () => {
       <div className="flex justify-center align-middle">
         <div className="w-80 h-80 flex justify-center align-middle bg-blue-50 shadow">
           {wordPicture && (
-            <img
-              src={wordPicture}
-              className={`${blurClass} object-contain`}
-              alt="Word Image"
-            />
+            <>
+              {isCheckState ? (
+                <img
+                  src={wordPicture}
+                  className="object-contain"
+                  alt="Word Image"
+                />
+              ) : (
+                <>
+                  {ShowImage.YES.value === showImage.value && (
+                    <img
+                      src={wordPicture}
+                      className="blur object-contain"
+                      alt="Word Image"
+                    />
+                  )}
+                </>
+              )}
+            </>
           )}
         </div>
       </div>
