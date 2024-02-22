@@ -1,5 +1,101 @@
 [
   {
+    "id": 45371,
+    "combinedTranslation": "владеть",
+    "wordValue": "wield",
+    "transcription": "wiːld",
+    "picture": "https://img.freepik.com/free-photo/medieval-knight-armor-wields-sword-bravely-generated-by-ai_188544-37243.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/d2llbGQ=0cc2de8c.mp3"
+  },
+  {
+    "id": 45556,
+    "combinedTranslation": "увядать",
+    "wordValue": "wither",
+    "transcription": "wˈɪðə",
+    "picture": "https://img.freepik.com/free-vector/dark-line-gradient-background_1409-1642.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/d2l0aGVye615baba.mp3"
+  },
+  {
+    "id": 14143,
+    "combinedTranslation": "обнять",
+    "wordValue": "embrace",
+    "transcription": "ɪmˈbreɪs",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/763709.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZW1icmFjZQ==ad5e9039.mp3"
+  },
+  {
+    "id": 4948,
+    "combinedTranslation": "лишённый (of smth.)",
+    "wordValue": "bereft",
+    "transcription": "bɪrˈeft",
+    "picture": "https://img.freepik.com/premium-photo/sorrowful-young-boy-with-tears-streaming-down-his-face-concept-emotional-portraits-tears-sadness-childhood-anguish_864588-39901.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YmVyZWZ0abf2c661.mp3"
+  },
+  {
+    "id": 24343,
+    "combinedTranslation": "светлость",
+    "wordValue": "Lordship",
+    "transcription": "lˈɔːdʃɪp",
+    "picture": "https://img.freepik.com/premium-vector/gift-jesus-tshirt-designfunny-god-gift-tshirt-design-crosstshirt-design_858036-387.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bG9yZHNoaXA=39441ae2.mp3"
+  },
+  {
+    "id": 1998519045,
+    "combinedTranslation": "ты",
+    "wordValue": "thou",
+    "transcription": "ðaʊ",
+    "picture": "https://img.freepik.com/free-photo/handsome-boyfriend-suit-going-romantic-date-holding-bouquet-red-roses-looking-left-thou_1258-173531.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dGhvdQ==a3bd4691.mp3"
+  },
+  {
+    "id": 1205977864,
+    "combinedTranslation": "отпускать грехи",
+    "wordValue": "shrive",
+    "transcription": "ʃrˈaɪv",
+    "picture": "https://img.freepik.com/premium-photo/shrive-text-effect-gold-jpg-attractive-background-card-photo_873925-529692.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c2hyaXZl58de19b1.mp3"
+  },
+  {
+    "id": 1689871525,
+    "combinedTranslation": "сияющий",
+    "wordValue": "radiant",
+    "transcription": "ˈreɪdiənt",
+    "picture": "https://img.freepik.com/free-photo/planes-wing-cuts-through-sky-cotton-candy-clouds-during-radiant-sunset_91128-4456.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cmFkaWFudA==cdf72558.mp3"
+  },
+  {
+    "id": 769324,
+    "combinedTranslation": "груша для сноса зданий",
+    "wordValue": "wrecking ball",
+    "transcription": "rˈekɪŋ bˈɔːl",
+    "picture": "https://img.freepik.com/free-vector/hand-drawn-football-background_1176-68.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/d3JlY2tpbmcgYmFsbA==4a23a569.mp3"
+  },
+  {
+    "id": 1508459077,
+    "combinedTranslation": "едкий",
+    "wordValue": "pungent",
+    "transcription": "pˈʌndʒənt",
+    "picture": "https://img.freepik.com/free-psd/jalapeno-isolated-transparent-background_191095-40103.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cHVuZ2VudA==571fc0a7.mp3"
+  },
+  {
+    "id": 33197,
+    "combinedTranslation": "неровный",
+    "wordValue": "ragged",
+    "transcription": "rˈægɪd",
+    "picture": "https://img.freepik.com/free-psd/tablecloth-isolated-with-clipping-path_7939-4227.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cmFnZ2Vkb9fd8cdc.mp3"
+  },
+  {
+    "id": 20209,
+    "combinedTranslation": "раздражать",
+    "wordValue": "huff",
+    "transcription": "hˈʌf",
+    "picture": "https://img.freepik.com/premium-photo/four-adorable-puppies-sitting-front-multicolored-background_605022-19062.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aHVmZg==d5af5a7e.mp3"
+  },
+  {
     "id": 23771,
     "combinedTranslation": "обязанность",
     "wordValue": "liability",
@@ -44,7 +140,7 @@
     "combinedTranslation": "бросать (учёбу, работу), отчислиться",
     "wordValue": "drop out of",
     "transcription": "drˈɒp ˈaʊːt ɒv",
-    "picture": "",
+    "picture": "https://img.freepik.com/free-photo/colorful-drop-falling-water_23-2147748882.jpg",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZHJvcCBvdXQgb2Y=4024d89a.mp3"
   },
   {
@@ -52,7 +148,7 @@
     "combinedTranslation": "терпеть",
     "wordValue": "put up with",
     "transcription": "pʊt ʌp wɪð",
-    "picture": "",
+    "picture": "https://img.freepik.com/free-vector/mission-impossible-concept-illustration_114360-559.jpg",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cHV0IHVwIHdpdGg=a0a2f9fe.mp3"
   },
   {
@@ -68,7 +164,7 @@
     "combinedTranslation": "реабилитация",
     "wordValue": "rehab",
     "transcription": "rihæb",
-    "picture": "",
+    "picture": "https://img.freepik.com/free-photo/covid-recovery-center-female-doctor-holding-older-patient-s-hands_23-2148847832.jpg",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cmVoYWI=57995f05.mp3"
   },
   {
