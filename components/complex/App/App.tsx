@@ -12,7 +12,7 @@ interface Props {
   children: ReactNode
   limit?: number
   offset?: number
-  last?: number
+  last?: string
 }
 
 export const App: FC<Props> = ({ children, limit, offset, last }) => {
@@ -31,8 +31,38 @@ export const App: FC<Props> = ({ children, limit, offset, last }) => {
         .reverse()
         .slice(currentOffset, currentLimit)
     }
+
     if (last) {
-      parsedWords = parsedWords.slice(0, last)
+      let time = Date.now() / 1000
+      switch (last) {
+        case 'day':
+          time -= 24 * 60 * 60
+          parsedWords = parsedWords.filter((v) => v.created > time)
+          break
+
+        case 'week':
+          time -= 7 * 24 * 60 * 60
+          parsedWords = parsedWords.filter((v) => v.created > time)
+          break
+
+        case 'month':
+          time -= 30 * 24 * 60 * 60
+          parsedWords = parsedWords.filter((v) => v.created > time)
+          break
+
+        case 'year':
+          time -= 365 * 24 * 60 * 60
+          parsedWords = parsedWords.filter((v) => v.created > time)
+          break
+
+        // here we suppose it is a number
+        default:
+          const parsedLast = parseInt(last)
+          if (!isNaN(parsedLast) && parsedLast) {
+            parsedWords = parsedWords.slice(0, parsedLast)
+          }
+          break
+      }
     }
 
     const currenVersion = localStorage.getItem('version')

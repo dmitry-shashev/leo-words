@@ -20,6 +20,7 @@ function getEmptyWord(): Word {
     picture: '',
     combinedTranslation: '',
     transcription: '',
+    created: 0,
   }
 }
 

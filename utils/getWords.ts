@@ -63,6 +63,7 @@ export async function getWords(
           transcription: word.transcription,
           picture: word.picture,
           pronunciation: word.pronunciation,
+          created: word.created,
         })
       }
     })
