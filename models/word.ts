@@ -3,6 +3,7 @@ export interface Word {
   readonly combinedTranslation: string
   readonly wordValue: string
   readonly transcription: string
+  readonly created: number
   // png
   readonly picture: string
   // mp3

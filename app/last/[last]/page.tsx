@@ -13,7 +13,7 @@ interface Props {
 
 const LastPage: FC<Props> = ({ params: { last } }) => {
   return (
-    <App last={+last}>
+    <App last={last}>
       <TopMenu />
       <WordView />
       <BottomControl />
