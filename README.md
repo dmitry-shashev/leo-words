@@ -54,7 +54,7 @@ http://localhost:3000/offsetlimit/0/2000
 
 #### Parse resources
 
-> In all cases it will create a new file `FOUND.json`
+> In all cases it will create a new file `./content/FOUND.json`
 
 Parse youtube video
 
