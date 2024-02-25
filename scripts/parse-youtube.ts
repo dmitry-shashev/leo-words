@@ -5,7 +5,7 @@ import { getSubtitles } from 'youtube-caption-extractor'
 import { printParseResult } from '@/scripts/extra/not-accurate-alg'
 
 const PROJECT_PATH = path.resolve('./')
-const ADD_TO_BLOCK_LIST_PATH = `${PROJECT_PATH}/scripts/extra/FOUND.json`
+const ADD_TO_BLOCK_LIST_PATH = `${PROJECT_PATH}/content/FOUND.json`
 
 const videoID: string | undefined = process.argv[2]
 if (!videoID) {

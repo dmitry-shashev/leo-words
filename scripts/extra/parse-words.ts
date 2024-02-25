@@ -19,7 +19,7 @@ export function parseWords(text: string): {
     readFileSync(`${PROJECT_PATH}/${WORDS_PATH}`, 'utf-8')
   ).map((w: Word) => w.wordValue.toLowerCase().trim())
   const blockList: ReadonlyArray<string> = JSON.parse(
-    readFileSync(`${PROJECT_PATH}/scripts/extra/block-list.json`, 'utf-8')
+    readFileSync(`${PROJECT_PATH}/content/block-list.json`, 'utf-8')
   )
   const irregularVerbs: ReadonlyArray<string> = JSON.parse(
     readFileSync(`${PROJECT_PATH}/scripts/extra/irregular-verbs.json`, 'utf-8')
