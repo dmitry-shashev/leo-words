@@ -1,5 +1,50 @@
 [
   {
+    "id": 11531,
+    "combinedTranslation": "углубиться",
+    "wordValue": "delve",
+    "transcription": "dˈelv",
+    "picture": "https://contentcdn.lingualeo.com/uploads/1611_1361481210.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZGVsdmU=43a6c5cc.mp3",
+    "created": 1708808987
+  },
+  {
+    "id": 30986,
+    "combinedTranslation": "драматург",
+    "wordValue": "playwright",
+    "transcription": "ˈpleɪraɪt",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3547153.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cGxheXdyaWdodA==59734b10.mp3",
+    "created": 1708799940
+  },
+  {
+    "id": 10236,
+    "combinedTranslation": "трещина, щель",
+    "wordValue": "cranny",
+    "transcription": "krˈæni",
+    "picture": "",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y3Jhbm55f0041a43.mp3",
+    "created": 1708781999
+  },
+  {
+    "id": 9184,
+    "combinedTranslation": "состряпать",
+    "wordValue": "concoct",
+    "transcription": "kəŋkˈɒkt",
+    "picture": "",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y29uY29jdA==50e09e9a.mp3",
+    "created": 1708781841
+  },
+  {
+    "id": 40300,
+    "combinedTranslation": "адаптированный",
+    "wordValue": "tailored",
+    "transcription": "tˈeɪːləd",
+    "picture": "",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dGFpbG9yZWQ=48f35bf6.mp3",
+    "created": 1708779464
+  },
+  {
     "id": 39295,
     "combinedTranslation": "шаг",
     "wordValue": "stride",
