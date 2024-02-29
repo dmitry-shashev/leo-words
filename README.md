@@ -65,11 +65,11 @@ pnpm run parse-youtube <id>
 Parse txt file
 
 ```bash
-p parse-text <path>
+pnpm parse-text <path>
 ```
 
 Parse pdf
 
 ```bash
-p parse-pdf <path>
+pnpm parse-pdf <path>
 ```
