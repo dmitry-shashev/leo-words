@@ -1,18 +1,15 @@
 import { Word } from '@/models/word'
 import { WORDS_PATH } from '@/utils/constants'
 import path from 'path'
-import { parse } from 'node-html-parser'
 import { saveWords } from '@/utils/saveWords'
 
 const WORDS_PATH_FULL = `${path.resolve('./')}/${WORDS_PATH}`
 
 async function findImg(search: string): Promise<string> {
-  const str = await fetch(
-    `https://www.freepik.com/search?format=search&query=${encodeURIComponent(search)}`
-  ).then((v) => v.text())
-  const root = parse(str)
-  const img = root.querySelector('.js-detail-data-link img')
-  return img?.getAttribute('src')?.split('?')?.[0] ?? ''
+  const data: { items: Array<{ url: string }> } = await fetch(
+    `https://www.freepik.com/api/regular/search?locale=en&term=${encodeURIComponent(search)}`
+  ).then((v) => v.json())
+  return data.items[0]?.url ?? ''
 }
 
 // main
