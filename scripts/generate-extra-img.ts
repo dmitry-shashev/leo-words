@@ -3,13 +3,21 @@ import { WORDS_PATH } from '@/utils/constants'
 import path from 'path'
 import { saveWords } from '@/utils/saveWords'
 
+interface FoundImgResult {
+  items: Array<{
+    preview?: {
+      url?: string
+    }
+  }>
+}
+
 const WORDS_PATH_FULL = `${path.resolve('./')}/${WORDS_PATH}`
 
 async function findImg(search: string): Promise<string> {
-  const data: { items: Array<{ url: string }> } = await fetch(
-    `https://www.freepik.com/api/regular/search?locale=en&term=${encodeURIComponent(search)}`
-  ).then((v) => v.json())
-  return data.items[0]?.url ?? ''
+  const searchEnc = encodeURIComponent(search.replace('/', ' '))
+  const url = `https://www.freepik.com/api/regular/search?locale=en&term=${searchEnc}`
+  const data: FoundImgResult = await fetch(url).then((v) => v.json())
+  return data?.items[0]?.preview?.url ?? ''
 }
 
 // main
@@ -18,7 +26,10 @@ async function findImg(search: string): Promise<string> {
 
   // mutate found words in order to add images
   const wordsWithoutImg = words.filter(
-    (v) => !v.picture || v.picture.endsWith('f714.png')
+    (v) =>
+      !v.picture ||
+      v.picture.endsWith('f714.png') ||
+      v.picture.endsWith('/0.png')
   )
 
   for (let w of wordsWithoutImg) {
