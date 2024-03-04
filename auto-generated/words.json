@@ -1,5 +1,95 @@
 [
   {
+    "id": 2050070460,
+    "combinedTranslation": "на ходу",
+    "wordValue": "underway",
+    "transcription": "ˊʌndəweɪ",
+    "picture": "https://img.freepik.com/free-photo/call-while-driving-unexpected-call-disturbs-while-driving_169016-38627.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dW5kZXJ3YXk=7036c189.mp3",
+    "created": 1709554179
+  },
+  {
+    "id": 28808,
+    "combinedTranslation": "устаревший",
+    "wordValue": "overhaul",
+    "transcription": "ouvəhɔːl",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/78594.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/b3ZlcmhhdWw=203258f8.mp3",
+    "created": 1709553858
+  },
+  {
+    "id": 1847143712,
+    "combinedTranslation": "упорство",
+    "wordValue": "persistence",
+    "transcription": "pəsˈɪstəns",
+    "picture": "https://img.freepik.com/free-vector/tug-war-competition-two-teams-pull-rope_107791-12344.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cGVyc2lzdGVuY2U=387343cd.mp3",
+    "created": 1709553128
+  },
+  {
+    "id": 44155,
+    "combinedTranslation": "корабль",
+    "wordValue": "vessel",
+    "transcription": "ˈvɛsəl",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/7981.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dmVzc2Vs7fb754ce.mp3",
+    "created": 1709416177
+  },
+  {
+    "id": 2067138769,
+    "combinedTranslation": "пыл",
+    "wordValue": "fervour",
+    "transcription": "fˈɜːvə",
+    "picture": "https://img.freepik.com/premium-photo/baking-cookies-your-local-fire-department-background_987764-11207.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZmVydm91cg==fbc48b2c.mp3",
+    "created": 1709416126
+  },
+  {
+    "id": 2016082221,
+    "combinedTranslation": "сточные воды",
+    "wordValue": "sewage",
+    "transcription": "sjˈuːɪdʒ",
+    "picture": "https://img.freepik.com/free-vector/plumber-service-flat-icons-collection_98292-2236.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c2V3YWdld1c57182.mp3",
+    "created": 1709289831
+  },
+  {
+    "id": 65966,
+    "combinedTranslation": "земельные участки",
+    "wordValue": "plots",
+    "transcription": "plɑts",
+    "picture": "https://img.freepik.com/free-vector/land-piece-with-green-grass-realistic-garden-plot_107791-12832.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cGxvdHM=06dc7aba.mp3",
+    "created": 1709289788
+  },
+  {
+    "id": 29702,
+    "combinedTranslation": "проложить",
+    "wordValue": "pave",
+    "transcription": "pˈeɪːv",
+    "picture": "https://img.freepik.com/free-photo/batako-wall-texture-street_272375-3178.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cGF2ZQ==6954031b.mp3",
+    "created": 1709289706
+  },
+  {
+    "id": 21163,
+    "combinedTranslation": "навлечь на себя",
+    "wordValue": "incur",
+    "transcription": "ɪŋkˈɜː",
+    "picture": "https://img.freepik.com/premium-photo/close-up-doctor-touching-patient-hand-encouragement-empathy-hospital-cheering-support-patient-bad-news-medical-examination-trust-ethics_1149265-10365.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aW5jdXI=ecf0c528.mp3",
+    "created": 1709288611
+  },
+  {
+    "id": 14255,
+    "combinedTranslation": "полностью закрывать",
+    "wordValue": "encase",
+    "transcription": "ɪŋkˈeɪːs",
+    "picture": "https://img.freepik.com/free-photo/3d-render-hourglass-with-gold-coins-wallpaper_1409-7174.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZW5jYXNl6eb5958b.mp3",
+    "created": 1709288443
+  },
+  {
     "id": 1209675757,
     "combinedTranslation": "мучительно",
     "wordValue": "excruciatingly",
@@ -1666,7 +1756,7 @@
   },
   {
     "id": 1318124223,
-    "combinedTranslation": "почти",
+    "combinedTranslation": "почти; почти",
     "wordValue": "nigh",
     "transcription": "nˈaɪ",
     "picture": "https://img.freepik.com/free-photo/galaxy-nature-aesthetic-background-starry-sky-mountain-remixed-media_53876-126761.jpg",
@@ -23368,7 +23458,7 @@
     "combinedTranslation": "подделывать",
     "wordValue": "forge",
     "transcription": "fɔrʤ",
-    "picture": "https://img.freepik.com/free-photo/dark-stithy-workshop-with-hammer-anvil-firs-plan-fire-stove-background_613910-17439.jpg",
+    "picture": "https://img.freepik.com/free-photo/viking-forges-weapons-swords-smithy-man-warrior-s-clothes-is-smithy_471681-4.jpg",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Zm9yZ2U=e1580c95.mp3",
     "created": 1473379200
   },
@@ -24619,7 +24709,7 @@
     "combinedTranslation": "взволнованный",
     "wordValue": "excited",
     "transcription": "ɪkˈsaɪtəd",
-    "picture": "https://img.freepik.com/free-photo/girl-deciding-what-product-better-look-up-thoughtful-touch-chin-thinking-smiling-shopping-alone-making-choice-considering-proposals_176420-44746.jpg",
+    "picture": "https://img.freepik.com/free-photo/surprised-woman-pink-hoodie-looking-into-camera-purple-background-emotiolnal-cheerful-blonde-girl-denim-skirt-posing-isolated_197531-29171.jpg",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZXhjaXRlZA==7d17f361.mp3",
     "created": 1472083200
   },
@@ -32215,7 +32305,7 @@
     "combinedTranslation": "кража",
     "wordValue": "theft",
     "transcription": "θɛft",
-    "picture": "https://img.freepik.com/free-vector/anonymous-hacker-with-flat-design_23-2147880788.jpg",
+    "picture": "https://img.freepik.com/free-vector/thief-running-man-carrying-stolen-bicycle-male-criminal-mask-hoodie-stealing-bike-from-parking-with-lock-flat-vector-illustration-theft-surveillance-park-crime-robbery-concept_74855-20954.jpg",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dGhlZnQ=c82b19f6.mp3",
     "created": 1462147200
   },
@@ -46210,7 +46300,7 @@
     "combinedTranslation": "привлекательный",
     "wordValue": "attractive",
     "transcription": "əˈtræktɪv",
-    "picture": "https://img.freepik.com/free-vector/cartoon-amusement-park-attractions-set-ferris-wheel-merry-go-round-horse-carousel_33099-211.jpg",
+    "picture": "https://img.freepik.com/free-vector/amusement-park-attractions-flat-set-with-people-having-fun-roller-coaster-carousels-isolated-color-background-vector-illustration_1284-84264.jpg",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YXR0cmFjdGl2ZQ==79f0f2c6.mp3",
     "created": 1435190400
   },
@@ -47344,7 +47434,7 @@
     "combinedTranslation": "тренер",
     "wordValue": "coach",
     "transcription": "koʊʧ",
-    "picture": "https://img.freepik.com/free-vector/leadership-concept-illustration_114360-10760.jpg",
+    "picture": "https://img.freepik.com/free-vector/hand-drawn-life-coaching-illustration_23-2150257296.jpg",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y29hY2g=d67c89a9.mp3",
     "created": 1435190400
   },
@@ -47623,7 +47713,7 @@
     "combinedTranslation": "многонациональный",
     "wordValue": "cosmopolitan",
     "transcription": "ˌkɒzməʊˈpɒlɪtən",
-    "picture": "https://img.freepik.com/free-photo/two-pax-alcohol-red-cosmopolitan_114579-2304.jpg",
+    "picture": "https://img.freepik.com/free-photo/side-view-cosmopolitan-cocktail-with-liquor-slice-lemon_141793-3623.jpg",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y29zbW9wb2xpdGFua1fe6544.mp3",
     "created": 1435190400
   },
@@ -49495,7 +49585,7 @@
     "combinedTranslation": "галерея",
     "wordValue": "gallery",
     "transcription": "ˈgæləri",
-    "picture": "https://img.freepik.com/free-psd/collection-motivational-posters-wall_53876-65875.jpg",
+    "picture": "https://img.freepik.com/free-vector/yellow-rectangular-niche-mockup-with-lamp-lights-vector-realistic-illustration-modern-interior-design-home-office-art-gallery-shop-museum-wall-with-abstract-product-presentation-platform_107791-24142.jpg",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Z2FsbGVyeQ==8ae88590.mp3",
     "created": 1435190400
   },
@@ -65281,7 +65371,7 @@
     "combinedTranslation": "пара",
     "wordValue": "couple",
     "transcription": "ˈkʌpəl",
-    "picture": "https://img.freepik.com/free-photo/couple-living-room-sitting-couch_23-2148450222.jpg",
+    "picture": "https://img.freepik.com/free-photo/young-couple-love-drinking-coffee-garden_23-2147986365.jpg",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y291cGxla5ee74e9.mp3",
     "created": 1433721600
   },
@@ -65542,7 +65632,7 @@
     "combinedTranslation": "решение",
     "wordValue": "decision",
     "transcription": "dɪˈsɪʒ(ə)n",
-    "picture": "https://img.freepik.com/free-vector/thoughtful-people-making-difficult-choice-two-options-isolated-flat-illustration_74855-11083.jpg",
+    "picture": "https://img.freepik.com/free-vector/choice-isometric-concept_98292-131.jpg",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZGVjaXNpb24=e7ed85b9.mp3",
     "created": 1433721600
   },
@@ -69970,7 +70060,7 @@
     "combinedTranslation": "правило",
     "wordValue": "rule",
     "transcription": "rul",
-    "picture": "https://img.freepik.com/free-vector/brand-manual-template-design_23-2149878159.jpg",
+    "picture": "https://img.freepik.com/free-vector/privacy-policy-concept-illustration_114360-7478.jpg",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cnVsZQ==26b08123.mp3",
     "created": 1433721600
   },
@@ -71671,7 +71761,7 @@
     "combinedTranslation": "тренироваться; поезд",
     "wordValue": "train",
     "transcription": "treɪn",
-    "picture": "https://img.freepik.com/free-photo/view-3d-modern-train-model_23-2150905501.jpg",
+    "picture": "https://img.freepik.com/free-photo/highspeed-train-blurring-past-tracks-sunset_157027-4228.jpg",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dHJhaW4=d398abee.mp3",
     "created": 1433721600
   },
