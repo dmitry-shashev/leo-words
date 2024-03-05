@@ -1,12 +1,13 @@
 {
   "name": "leo-words",
-  "version": "0.0.48",
+  "version": "0.0.49",
   "private": true,
   "scripts": {
     "prepare": "husky",
     "dev": "next dev",
     "test": "vitest",
     "test-ui": "vitest --ui",
+    "test-ci": "vitest run",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
