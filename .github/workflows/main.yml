@@ -20,6 +20,7 @@ jobs:
       - run: pnpm install
       - run: pnpm tsc
       - run: pnpm lint
+      - run: pnpm test-ci
 
   build:
     runs-on: ubuntu-latest

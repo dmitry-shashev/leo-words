@@ -2,6 +2,7 @@ import { Word } from '@/models/word'
 import { WORDS_PATH } from '@/utils/constants'
 import path from 'path'
 import { saveWords } from '@/utils/saveWords'
+import { isWordPictureInvalid } from '@/utils/isPictureValid'
 
 interface FoundImgResult {
   items: Array<{
@@ -25,12 +26,7 @@ async function findImg(search: string): Promise<string> {
   const words: Array<Word> = (await import(WORDS_PATH_FULL)).default
 
   // mutate found words in order to add images
-  const wordsWithoutImg = words.filter(
-    (v) =>
-      !v.picture ||
-      v.picture.endsWith('f714.png') ||
-      v.picture.endsWith('/0.png')
-  )
+  const wordsWithoutImg = words.filter(isWordPictureInvalid)
 
   for (let w of wordsWithoutImg) {
     try {
