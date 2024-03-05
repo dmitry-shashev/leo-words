@@ -1,0 +1,12 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`RegularBrn 1`] = `
+<DocumentFragment>
+  <button
+    class="bg-green-700 text-3xl font-semibold text-white h-16 rounded grow"
+    type="button"
+  >
+    Some btn
+  </button>
+</DocumentFragment>
+`;

@@ -5,6 +5,10 @@ import { saveWords } from '@/utils/saveWords'
 import path from 'path'
 import 'dotenv/config'
 import { WORDS_PATH } from '@/utils/constants'
+import {
+  isWordPictureInvalid,
+  isWordPictureValid,
+} from '@/utils/isPictureValid'
 
 const ACCOUNT_EMAIL = process.env.ACCOUNT_EMAIL ?? ''
 const ACCOUNT_PASSWORD = process.env.ACCOUNT_PASSWORD ?? ''
@@ -37,18 +41,13 @@ const WORDS_PATH_FULL = `${path.resolve('./')}/${WORDS_PATH}`
   } while (lastWordInSet)
 
   // try to apply images from old words
-  const wordsWithoutImg = result.filter(
-    (v) => !v.picture || v.picture.endsWith('f714.png')
-  )
+  const wordsWithoutImg = result.filter(isWordPictureInvalid)
+  const oldWordsCorrectPictures = oldWords.filter(isWordPictureValid)
 
   for (let w of wordsWithoutImg) {
-    const oldImg = oldWords.find((old) => old.id === w.id)?.picture ?? ''
-    if (oldImg && !oldImg.endsWith('f714.png')) {
-      // @ts-ignore
-      w['picture'] = oldImg
-      // eslint-disable-next-line no-console
-      console.log(`Apply to ${w.wordValue}[${w.id}] image: ${oldImg}`)
-    }
+    // @ts-ignore
+    w['picture'] =
+      oldWordsCorrectPictures.find((old) => old.id === w.id)?.picture ?? ''
   }
 
   saveWords(result)
