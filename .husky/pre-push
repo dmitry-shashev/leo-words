@@ -1,2 +1,2 @@
 pnpm lint
-pnpm test-ci
+pnpm test:ci
