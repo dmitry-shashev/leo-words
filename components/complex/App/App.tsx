@@ -6,7 +6,7 @@ import { getWordsAll, setAllWords } from '@/store/slices/wordsSlice'
 import { Word } from '@/models/word'
 import parsedWordsPure from '../../../auto-generated/words.json'
 import { persistor, useAppDispatch } from '@/store/store'
-import { version } from '../../../package.json'
+import packageJson from '../../../package.json'
 
 interface Props {
   children: ReactNode
@@ -70,10 +70,10 @@ export const App: FC<Props> = ({ children, limit, offset, last }) => {
     // or changing the range of words from the UI
     if (
       !currenVersion ||
-      currenVersion !== version ||
+      currenVersion !== packageJson.version ||
       allWords.length !== parsedWords.length
     ) {
-      localStorage.setItem('version', version)
+      localStorage.setItem('version', packageJson.version)
       persistor.purge().then(() => {
         dispatch(setAllWords(parsedWords))
       })

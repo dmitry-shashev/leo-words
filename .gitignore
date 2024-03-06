@@ -40,3 +40,7 @@ next-env.d.ts
 
 scripts/extra/FOUND.json
 content
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
