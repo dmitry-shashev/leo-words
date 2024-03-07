@@ -1,5 +1,9 @@
 export function shuffleArr<T>(arr: ReadonlyArray<T>): Array<T> {
-  const result = [...arr]
-  result.sort(() => 0.5 - Math.random())
-  return result
+  return arr
+    .map((v) => ({
+      index: Math.random(),
+      v,
+    }))
+    .sort((a, b) => a.index - b.index)
+    .map((elem) => elem.v)
 }

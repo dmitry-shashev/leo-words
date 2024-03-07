@@ -1,5 +1,104 @@
 [
   {
+    "id": 14695,
+    "combinedTranslation": "обострять",
+    "wordValue": "escalate",
+    "transcription": "ˈeskəlɛɪːt",
+    "picture": "https://img.freepik.com/free-photo/sleek-escalator-with-orange-steps-contemporary-space_157027-4220.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZXNjYWxhdGU=1a6f0ee8.mp3",
+    "created": 1709745697
+  },
+  {
+    "id": 33848,
+    "combinedTranslation": "утонченность",
+    "wordValue": "refinement",
+    "transcription": "rɪfˈaɪnmənt",
+    "picture": "https://img.freepik.com/free-photo/minimalist-black-interior-with-black-sofa_1268-31786.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cmVmaW5lbWVudA==be903309.mp3",
+    "created": 1709726189
+  },
+  {
+    "id": 1513106279,
+    "combinedTranslation": "выведать",
+    "wordValue": "ferret out",
+    "transcription": "ˈfɛrət aʊt",
+    "picture": "https://img.freepik.com/free-vector/get-well-soon-message-with-character-concept_23-2148505050.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZmVycmV0IG91dA==e8a90b7e.mp3",
+    "created": 1709725777
+  },
+  {
+    "id": 1362404031,
+    "combinedTranslation": "упреждающий",
+    "wordValue": "preemptive",
+    "transcription": null,
+    "picture": "https://img.freepik.com/premium-photo/preemptive-attack-white-chess_832510-2421.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cHJlZW1wdGl2ZQ==26c8e03a.mp3",
+    "created": 1709725345
+  },
+  {
+    "id": 14442,
+    "combinedTranslation": "следовать",
+    "wordValue": "ensue",
+    "transcription": "ɪnsjˈuː",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/94647.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZW5zdWU=c9ef45e5.mp3",
+    "created": 1709725241
+  },
+  {
+    "id": 1655559084,
+    "combinedTranslation": "настраиваемый",
+    "wordValue": "tunable",
+    "transcription": "tʌnˈeɪːbl",
+    "picture": "https://img.freepik.com/premium-photo/concept-illustration-quantum-dot-color-emission-dependence-size_758600-1279.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dHVuYWJsZQ==02517c0a.mp3",
+    "created": 1709724863
+  },
+  {
+    "id": 1735880046,
+    "combinedTranslation": "поддельный",
+    "wordValue": "spurious",
+    "transcription": "spjˈʊəːrɪəːs",
+    "picture": "https://img.freepik.com/premium-vector/rubber-stamp-design-vector-illustration_1147484-3758.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c3B1cmlvdXM=0f5d90b9.mp3",
+    "created": 1709724819
+  },
+  {
+    "id": 1632609377,
+    "combinedTranslation": "непрактичный",
+    "wordValue": "impractical",
+    "transcription": "ɪmprˈæktɪkl",
+    "picture": "https://img.freepik.com/premium-photo/nutritionist-discussing-diet-plans-bright-background_987764-13716.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aW1wcmFjdGljYWw=10b1b707.mp3",
+    "created": 1709724702
+  },
+  {
+    "id": 112177,
+    "combinedTranslation": "пропускная способность",
+    "wordValue": "throughput",
+    "transcription": "θrˈuːpʊt",
+    "picture": "https://img.freepik.com/premium-photo/freshly-printed-pages-running-through-printing-press_108146-9337.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dGhyb3VnaHB1dA==713fa172.mp3",
+    "created": 1709724426
+  },
+  {
+    "id": 9547,
+    "combinedTranslation": "раздор",
+    "wordValue": "contention",
+    "transcription": "kəntˈenʃən",
+    "picture": "https://img.freepik.com/free-vector/blog-post-concept-illustration_114360-244.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y29udGVudGlvbg==89e00022.mp3",
+    "created": 1709724388
+  },
+  {
+    "id": 9850,
+    "combinedTranslation": "следствие",
+    "wordValue": "corollary",
+    "transcription": "kərˈɒləri",
+    "picture": "https://img.freepik.com/premium-vector/logo-real-estate-company-called-corollary-house_777526-1032.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y29yb2xsYXJ589cb8142.mp3",
+    "created": 1709722677
+  },
+  {
     "id": 711258,
     "combinedTranslation": "одноразовый, происходящий только один раз",
     "wordValue": "one-offs",
