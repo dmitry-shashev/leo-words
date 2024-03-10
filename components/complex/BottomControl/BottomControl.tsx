@@ -13,22 +13,24 @@ import {
   goToCheckState,
 } from '@/store/slices/wordsSlice'
 import { useAppDispatch } from '@/store/store'
+import { getSettingsSpeedMode } from '@/store/slices/settingsSlice'
 
 export const BottomControl: FC = () => {
   const dispatch = useAppDispatch()
   const isCheckState = useSelector(getIsCheckState)
   const isByWrongWords = useSelector(getIsByWrongWords)
+  const speedMode = useSelector(getSettingsSpeedMode)
 
   const onCheck = (): void => {
     dispatch(goToCheckState())
   }
 
   const onOk = (): void => {
-    dispatch(checkOk())
+    dispatch(checkOk({ speedMode }))
   }
 
   const onNo = (): void => {
-    dispatch(checkNo())
+    dispatch(checkNo({ speedMode }))
   }
 
   const onBack = (): void => {

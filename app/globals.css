@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@keyframes delayed-appearing-animation {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+.delayedAppearing {
+  animation: delayed-appearing-animation 0.4s;
+}
