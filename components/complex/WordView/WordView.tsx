@@ -9,8 +9,12 @@ import {
   getIsCheckState,
   getNextPrev10Words,
 } from '@/store/slices/wordsSlice'
-import { getSettingsShowImage } from '@/store/slices/settingsSlice'
+import {
+  getSettingsShowImage,
+  getSettingsSpeedMode,
+} from '@/store/slices/settingsSlice'
 import { ShowImage } from '@/types/show-image'
+import { SpeedMode } from '@/types/speed-mode'
 
 export const WordView: FC = () => {
   const wordValue = useSelector(getCurrentWordValue)
@@ -20,6 +24,7 @@ export const WordView: FC = () => {
   const showImage = useSelector(getSettingsShowImage)
   // for optimization purposes - not to wait the next pic
   const nextPrev10Words = useSelector(getNextPrev10Words)
+  const speedMode = useSelector(getSettingsSpeedMode)
 
   // const wordValue = 'Some day we are'
   let valueFontSize = 'text-5xl'
@@ -38,13 +43,22 @@ export const WordView: FC = () => {
     translationFontSize = 'text-lg'
   }
 
+  let wordValueClass = ''
+  if (speedMode.value === SpeedMode.YES.value) {
+    wordValueClass = 'delayedAppearing'
+  }
+
   return (
     <div className="mb-10">
       <div className={`${valueFontSize} font-semibold h-24 text-center p-1`}>
         {wordValue}
       </div>
       <div className={`${translationFontSize} text-center h-20 text-blue-400`}>
-        {isCheckState && <>{wordTranslation}</>}
+        {isCheckState && (
+          <div key={wordValue} className={wordValueClass}>
+            {wordTranslation}
+          </div>
+        )}
       </div>
       <div className="flex justify-center align-middle">
         <div className="w-80 h-80 flex justify-center align-middle bg-blue-50 shadow">

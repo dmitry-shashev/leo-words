@@ -11,6 +11,11 @@ import {
   getNextCircledValue,
   getPrevCircledValue,
 } from '@/utils/getCircledValue'
+import { SpeedMode, SpeedModeValue } from '@/types/speed-mode'
+
+interface CheckButtonAction {
+  speedMode: SpeedModeValue
+}
 
 function getEmptyWord(): Word {
   return {
@@ -49,8 +54,8 @@ export const wordsSlice: Slice<
   {
     setAllWords(state: WordsState, action: PayloadAction<Array<Word>>): void
     goToCheckState(state: WordsState): void
-    checkOk(state: WordsState): void
-    checkNo(state: WordsState): void
+    checkOk(state: WordsState, action: PayloadAction<CheckButtonAction>): void
+    checkNo(state: WordsState, action: PayloadAction<CheckButtonAction>): void
     goBack(state: WordsState): void
     toggleByWrongWords(state: WordsState): void
   }
@@ -72,7 +77,7 @@ export const wordsSlice: Slice<
       state.isCheckState = true
     },
     //----------------------------------------------------------------
-    checkOk(state) {
+    checkOk(state, action) {
       state.isCheckState = false
 
       if (state.isByWrongWords) {
@@ -118,9 +123,13 @@ export const wordsSlice: Slice<
         }
         state.finishedWords = []
       }
+
+      if (action.payload.speedMode.value === SpeedMode.YES.value) {
+        state.isCheckState = true
+      }
     },
     //----------------------------------------------------------------
-    checkNo(state) {
+    checkNo(state, action) {
       state.isCheckState = false
 
       if (state.isByWrongWords) {
@@ -151,6 +160,10 @@ export const wordsSlice: Slice<
           return
         }
         state.finishedWords = []
+      }
+
+      if (action.payload.speedMode.value === SpeedMode.YES.value) {
+        state.isCheckState = true
       }
     },
     //----------------------------------------------------------------

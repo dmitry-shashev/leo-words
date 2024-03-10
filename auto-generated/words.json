@@ -1,5 +1,185 @@
 [
   {
+    "id": 21412,
+    "combinedTranslation": "низший",
+    "wordValue": "inferior",
+    "transcription": "ɪnfˈɪəːrɪəː",
+    "picture": "https://img.freepik.com/free-vector/human-lungs-anatomy_1308-84394.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aW5mZXJpb3I=6db43ee8.mp3",
+    "created": 1710071992
+  },
+  {
+    "id": 86934,
+    "combinedTranslation": "подталкивание",
+    "wordValue": "prodding",
+    "transcription": "prˈɒdɪŋ",
+    "picture": "https://img.freepik.com/free-photo/cheerful-asian-female-model-showing-thumbs-up-gesture-smiling-looking-impressed-praise-good-prod_1258-166172.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cHJvZGRpbmc=40476e47.mp3",
+    "created": 1710070047
+  },
+  {
+    "id": 1064394848,
+    "combinedTranslation": "непроницаемый",
+    "wordValue": "impenetrable",
+    "transcription": "ɪmpˈenɪtrəbl",
+    "picture": "https://img.freepik.com/free-photo/elderly-it-programmer-using-tablet-assess-server-cybersecurity-dangers-arising-due-unsecured-network-connections-supervisor-ensuring-high-tech-facility-is-impenetrable-by-ddos-attacks_482257-68190.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aW1wZW5ldHJhYmxl27ddd685.mp3",
+    "created": 1710069411
+  },
+  {
+    "id": 27968,
+    "combinedTranslation": "запах",
+    "wordValue": "odor",
+    "transcription": "ˈedər",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/102779.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/b2Rvcg==f770748a.mp3",
+    "created": 1710067781
+  },
+  {
+    "id": 33259,
+    "combinedTranslation": "говорить бессвязно, перескакивать с одной мысли на другую",
+    "wordValue": "ramble",
+    "transcription": "ˈræmbl",
+    "picture": "https://img.freepik.com/free-photo/macro-photography-yellow-flowers_91008-534.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cmFtYmxl69b44086.mp3",
+    "created": 1710065615
+  },
+  {
+    "id": 1741555344,
+    "combinedTranslation": "устарелый",
+    "wordValue": "obsolete",
+    "transcription": "ˈɒbsəlit",
+    "picture": "https://img.freepik.com/free-photo/concrete-wall-textured-backgrounds-built-structure-concept_53876-14107.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/b2Jzb2xldGU=877c49a7.mp3",
+    "created": 1710065511
+  },
+  {
+    "id": 2028554878,
+    "combinedTranslation": "плавно",
+    "wordValue": "fluidly",
+    "transcription": "flwˈɪdli",
+    "picture": "https://img.freepik.com/free-vector/vibrant-3d-liquid-loops-fluid-colors-background_1017-20118.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Zmx1aWRseQ==e98489a7.mp3",
+    "created": 1710061877
+  },
+  {
+    "id": 1022179373,
+    "combinedTranslation": "обсуждать",
+    "wordValue": "condend",
+    "transcription": null,
+    "picture": "https://img.freepik.com/free-vector/studded-condoms-with-packing-realistic-vector-set_1441-745.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y29uZGVuZA==c8665a24.mp3",
+    "created": 1709993311
+  },
+  {
+    "id": 18043,
+    "combinedTranslation": "комок",
+    "wordValue": "gob",
+    "transcription": "gˈɒb",
+    "picture": "https://img.freepik.com/free-photo/festive-cupcake-with-candle-birthday-cake_91128-3836.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Z29if1c27337.mp3",
+    "created": 1709991617
+  },
+  {
+    "id": 33008,
+    "combinedTranslation": "стёганое одеяло",
+    "wordValue": "quilt",
+    "transcription": "kwɪlt",
+    "picture": "https://img.freepik.com/free-vector/flashcard-alphabet-q-is-quilt_1308-71157.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cXVpbHQ=43e18327.mp3",
+    "created": 1709991566
+  },
+  {
+    "id": 1530221686,
+    "combinedTranslation": "злой умысел",
+    "wordValue": "malice",
+    "transcription": "ˈmæləs",
+    "picture": "https://img.freepik.com/free-photo/portrait-angry-irritated-pregnant-woman-yelling_171337-6163.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bWFsaWNl7a2c2b4b.mp3",
+    "created": 1709991327
+  },
+  {
+    "id": 1035496355,
+    "combinedTranslation": "трудный",
+    "wordValue": "arduous",
+    "transcription": "ˈɑːdjʊəːs",
+    "picture": "https://img.freepik.com/free-photo/vertical-grayscale-shot-staircase-two-buildings-leading-upwards_181624-59653.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YXJkdW91cw==3b97376a.mp3",
+    "created": 1709987199
+  },
+  {
+    "id": 2064476926,
+    "combinedTranslation": "злокачественный",
+    "wordValue": "malignant",
+    "transcription": "məlˈɪgnənt",
+    "picture": "https://img.freepik.com/free-vector/illustrated-guide-five-types-skin-cancer_1308-158787.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bWFsaWduYW500e84d237.mp3",
+    "created": 1709987146
+  },
+  {
+    "id": 1160158149,
+    "combinedTranslation": "безжалостный",
+    "wordValue": "inexorable",
+    "transcription": "ɪnˈeksərəbl",
+    "picture": "https://img.freepik.com/premium-photo/hourglass-with-sand-flowing-illustrating-inexorable-passage-time-importance-time-management-daily-life_845712-3688.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aW5leG9yYWJsZQ==fd34d42d.mp3",
+    "created": 1709987098
+  },
+  {
+    "id": 6903,
+    "combinedTranslation": "консервированный (о продуктах)",
+    "wordValue": "canned",
+    "transcription": "kˈænd",
+    "picture": "https://img.freepik.com/free-vector/metal-can-illustration-3d-realistic-container-soda-energy-drink-lemonade-beer_33099-521.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y2FubmVk31c62485.mp3",
+    "created": 1709987033
+  },
+  {
+    "id": 45223,
+    "combinedTranslation": "прихоть",
+    "wordValue": "whim",
+    "transcription": "wˈɪm",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/2029375.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/d2hpbQ==e49087e8.mp3",
+    "created": 1709911600
+  },
+  {
+    "id": 44702,
+    "combinedTranslation": "бородавка",
+    "wordValue": "wart",
+    "transcription": "wɔ:t",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/101567.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/d2FydA==16c05499.mp3",
+    "created": 1709911244
+  },
+  {
+    "id": 58184,
+    "combinedTranslation": "пронизанный",
+    "wordValue": "riddled",
+    "transcription": "rˈɪdld",
+    "picture": "https://img.freepik.com/free-photo/high-angle-arrangement-puzzle-pieces-individuality-concept_23-2148476815.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cmlkZGxlZA==ad22b325.mp3",
+    "created": 1709911227
+  },
+  {
+    "id": 15811,
+    "combinedTranslation": "гноиться",
+    "wordValue": "fester",
+    "transcription": "fˈestə",
+    "picture": "https://img.freepik.com/premium-photo/rotten-rotting-pear-with-mold-spoiled-organic-pear_189051-1049.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZmVzdGVy4d416dcb.mp3",
+    "created": 1709910851
+  },
+  {
+    "id": 1669885478,
+    "combinedTranslation": "мощность",
+    "wordValue": "cardinality",
+    "transcription": "kˈɑːdɪnælɪti",
+    "picture": "https://img.freepik.com/free-vector/snowy-time-winter-birds-flying-holding-branch_74855-15521.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y2FyZGluYWxpdHk=f333ca58.mp3",
+    "created": 1709910612
+  },
+  {
     "id": 14695,
     "combinedTranslation": "обострять",
     "wordValue": "escalate",
