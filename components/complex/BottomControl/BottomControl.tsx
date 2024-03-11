@@ -34,7 +34,7 @@ export const BottomControl: FC = () => {
   }
 
   const onBack = (): void => {
-    dispatch(goBack())
+    dispatch(goBack({ speedMode }))
   }
 
   return (

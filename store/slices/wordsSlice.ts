@@ -56,7 +56,7 @@ export const wordsSlice: Slice<
     goToCheckState(state: WordsState): void
     checkOk(state: WordsState, action: PayloadAction<CheckButtonAction>): void
     checkNo(state: WordsState, action: PayloadAction<CheckButtonAction>): void
-    goBack(state: WordsState): void
+    goBack(state: WordsState, action: PayloadAction<CheckButtonAction>): void
     toggleByWrongWords(state: WordsState): void
   }
 > = createSlice({
@@ -167,7 +167,7 @@ export const wordsSlice: Slice<
       }
     },
     //----------------------------------------------------------------
-    goBack(state) {
+    goBack(state, action) {
       state.isCheckState = false
       const { value } = getPrevCircledValue(state.currentWord, state.allWords)
       state.currentWord = value
@@ -177,6 +177,10 @@ export const wordsSlice: Slice<
       state.wrongWords = state.wrongWords.filter(
         (v: Word) => v.id !== state.currentWord.id
       )
+
+      if (action.payload.speedMode.value === SpeedMode.YES.value) {
+        state.isCheckState = true
+      }
     },
     //----------------------------------------------------------------
     toggleByWrongWords(state) {
