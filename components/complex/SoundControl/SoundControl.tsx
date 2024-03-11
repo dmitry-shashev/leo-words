@@ -3,13 +3,18 @@
 import { FC, useEffect, useState } from 'react'
 import { Sound } from '@/types/sound'
 import { useSelector } from 'react-redux'
-import { getSettingsLang, getSettingsSound } from '@/store/slices/settingsSlice'
+import {
+  getSettingsLang,
+  getSettingsSound,
+  getSettingsSpeedMode,
+} from '@/store/slices/settingsSlice'
 import {
   getCurrentWordId,
   getIsCheckState,
   getNextPrev10Words,
 } from '@/store/slices/wordsSlice'
 import { Lang } from '@/types/lang'
+import { SpeedMode } from '@/types/speed-mode'
 
 export const SoundControl: FC = () => {
   const sound = useSelector(getSettingsSound)
@@ -17,6 +22,7 @@ export const SoundControl: FC = () => {
   const isCheckState = useSelector(getIsCheckState)
   const next10Words = useSelector(getNextPrev10Words)
   const lang = useSelector(getSettingsLang)
+  const speedMode = useSelector(getSettingsSpeedMode)
 
   const [currentAudio, setCurrentAudio] = useState<
     Record<number, HTMLAudioElement>
@@ -48,6 +54,11 @@ export const SoundControl: FC = () => {
       return
     }
 
+    if (SpeedMode.YES.value === speedMode.value) {
+      currentAudioElem?.play()
+      return
+    }
+
     if (Lang.EN.value === lang.value) {
       if (!isCheckState) {
         currentAudioElem?.play()
@@ -58,7 +69,7 @@ export const SoundControl: FC = () => {
     if (isCheckState) {
       currentAudioElem?.play()
     }
-  }, [isCheckState, currentAudioElem, sound.value])
+  }, [isCheckState, currentAudioElem, sound.value, speedMode])
 
   return <></>
 }
