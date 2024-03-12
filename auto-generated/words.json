@@ -1,5 +1,50 @@
 [
   {
+    "id": 9337,
+    "combinedTranslation": "скопляться",
+    "wordValue": "congregate",
+    "transcription": "kˈɒŋgrɪgɛɪːt",
+    "picture": "https://img.freepik.com/free-photo/interior-chapel-architecture-background_1409-7326.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y29uZ3JlZ2F0ZQ==2c975b5b.mp3",
+    "created": 1710166235
+  },
+  {
+    "id": 103175050,
+    "combinedTranslation": "вездесущий",
+    "wordValue": "ubiquitous",
+    "transcription": "juˈbɪkwɪtəs",
+    "picture": "https://img.freepik.com/free-vector/20-smart-urban-solutions-wearable-technology-solid-glyph-icon-pack-like-monitoring-pulse-virtual-headset_1142-22794.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dWJpcXVpdG91cw==bf43b738.mp3",
+    "created": 1710165611
+  },
+  {
+    "id": 2030006221,
+    "combinedTranslation": "мешанина",
+    "wordValue": "hodge-podge",
+    "transcription": "hˈɒdʒ pˈɒdʒ",
+    "picture": "https://img.freepik.com/premium-psd/hodge-podge-psd-white-background_889056-92181.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aG9kZ2UtcG9kZ2U=7d49f0d9.mp3",
+    "created": 1710165080
+  },
+  {
+    "id": 27654,
+    "combinedTranslation": "неприятность",
+    "wordValue": "nuisance",
+    "transcription": "njˈuːsn̩s",
+    "picture": "https://img.freepik.com/free-photo/gosh-what-nuisance-embarrassed-annoyed-young-ignorant-displeased-woman-exhale-air-breathing-out_1258-228696.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bnVpc2FuY2U=d7061396.mp3",
+    "created": 1710164681
+  },
+  {
+    "id": 1595628821,
+    "combinedTranslation": "туда-сюда",
+    "wordValue": "hither and yon",
+    "transcription": "hˈɪðə ænd jˈɒn",
+    "picture": "https://img.freepik.com/free-photo/boyfriend-look-angry-blond-girl-shrugging-indecisive-couple-have-argument_176420-17236.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aGl0aGVyIGFuZCB5b24=93653c2a.mp3",
+    "created": 1710164158
+  },
+  {
     "id": 203248,
     "combinedTranslation": "заканчивать, завершать; увенчивать",
     "wordValue": "top off",

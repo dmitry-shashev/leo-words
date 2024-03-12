@@ -50,12 +50,19 @@ export const WordView: FC = () => {
 
   return (
     <div className="mb-10">
-      <div className={`${valueFontSize} font-semibold h-24 text-center p-1`}>
+      <div
+        aria-label="Base word"
+        className={`${valueFontSize} font-semibold h-24 text-center p-1`}
+      >
         {wordValue}
       </div>
       <div className={`${translationFontSize} text-center h-20 text-blue-400`}>
         {isCheckState && (
-          <div key={wordValue} className={wordValueClass}>
+          <div
+            aria-label="Translated word"
+            key={wordValue}
+            className={wordValueClass}
+          >
             {wordTranslation}
           </div>
         )}

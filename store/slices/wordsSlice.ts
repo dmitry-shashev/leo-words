@@ -114,11 +114,7 @@ export const wordsSlice: Slice<
         if (state.wrongWords.length > 0) {
           state.isByWrongWords = true
           state.savedCurrentWord = state.currentWord
-          const { value } = getNextCircledValue(
-            state.currentWord,
-            state.wrongWords
-          )
-          state.currentWord = value
+          state.currentWord = state.wrongWords[0]!
           return
         }
         state.finishedWords = []
@@ -152,11 +148,7 @@ export const wordsSlice: Slice<
         if (state.wrongWords.length > 0) {
           state.isByWrongWords = true
           state.savedCurrentWord = state.currentWord
-          const { value } = getNextCircledValue(
-            state.currentWord,
-            state.wrongWords
-          )
-          state.currentWord = value
+          state.currentWord = state.wrongWords[0]!
           return
         }
         state.finishedWords = []
