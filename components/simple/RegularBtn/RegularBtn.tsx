@@ -4,9 +4,10 @@ interface Props {
   label: string
   color: 'blue' | 'green' | 'red'
   onClick: () => void
+  ariaLabel?: string
 }
 
-export const RegularBtn: FC<Props> = ({ label, color, onClick }) => {
+export const RegularBtn: FC<Props> = ({ label, color, onClick, ariaLabel }) => {
   let bgColor: string
   switch (color) {
     case 'blue':
@@ -22,6 +23,7 @@ export const RegularBtn: FC<Props> = ({ label, color, onClick }) => {
 
   return (
     <button
+      aria-label={ariaLabel ?? label}
       onClick={onClick}
       className={`${bgColor} text-3xl font-semibold text-white h-16 rounded grow`}
       type="button"

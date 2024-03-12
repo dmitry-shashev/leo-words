@@ -3,6 +3,7 @@
 exports[`RegularBrn 1`] = `
 <DocumentFragment>
   <button
+    aria-label="Some btn"
     class="bg-green-700 text-3xl font-semibold text-white h-16 rounded grow"
     type="button"
   >

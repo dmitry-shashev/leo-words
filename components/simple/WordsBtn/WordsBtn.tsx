@@ -24,12 +24,19 @@ export const WordsBtn: FC<Props> = ({
       onClick={onClick}
       className={`${bgColor} h-10 px-2 text-xl`}
       type="button"
+      aria-label="Words button"
     >
-      <span className="text-emerald-500">{current}</span>
+      <span aria-label="Counter current" className="text-emerald-500">
+        {current}
+      </span>
       <span className="mx-1">/</span>
-      <span className="text-orange-700">{wrong}</span>
+      <span aria-label="Counter wrong" className="text-orange-700">
+        {wrong}
+      </span>
       <span className="mx-1">/</span>
-      <span className="text-gray-400">{total}</span>
+      <span aria-label="Counter total" className="text-gray-400">
+        {total}
+      </span>
     </button>
   )
 }

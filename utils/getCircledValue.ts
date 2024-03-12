@@ -2,7 +2,14 @@ export function getNextCircledValue<T extends { id: number }>(
   current: T,
   arr: ReadonlyArray<T>
 ): { value: T; reset: boolean } {
-  let index = arr.findIndex((v) => v.id === current.id) + 1
+  const foundIndex = arr.findIndex((v) => v.id === current.id)
+  if (foundIndex === -1) {
+    return {
+      value: current,
+      reset: false,
+    }
+  }
+  let index = foundIndex + 1
   let reset = false
   if (index >= arr.length) {
     reset = true
@@ -18,11 +25,18 @@ export function getPrevCircledValue<T extends { id: number }>(
   current: T,
   arr: ReadonlyArray<T>
 ): { value: T; reset: boolean } {
-  let index = arr.findIndex((v) => v.id === current.id) - 1
+  const foundIndex = arr.findIndex((v) => v.id === current.id)
+  if (foundIndex === -1) {
+    return {
+      value: current,
+      reset: false,
+    }
+  }
+  let index = foundIndex - 1
   let reset = false
-  if (index <= 0) {
+  if (index < 0) {
     reset = true
-    index = 0
+    index = arr.length - 1
   }
   return {
     value: arr[index]!,
