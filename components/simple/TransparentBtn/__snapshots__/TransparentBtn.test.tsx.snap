@@ -1,0 +1,13 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`TransparentBtn 1`] = `
+<DocumentFragment>
+  <button
+    aria-label="some btn"
+    class="grow text-lg text-blue-200 border-blue-200 border rounded h-10"
+    type="button"
+  >
+    monday
+  </button>
+</DocumentFragment>
+`;
