@@ -1,0 +1,40 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`WordsBtn 1`] = `
+<DocumentFragment>
+  <button
+    aria-label="Words button"
+    class=" h-10 px-2 text-xl"
+    type="button"
+  >
+    <span
+      aria-label="Counter current"
+      class="text-emerald-500"
+    >
+      15
+    </span>
+    <span
+      class="mx-1"
+    >
+      /
+    </span>
+    <span
+      aria-label="Counter wrong"
+      class="text-orange-700"
+    >
+      6
+    </span>
+    <span
+      class="mx-1"
+    >
+      /
+    </span>
+    <span
+      aria-label="Counter total"
+      class="text-gray-400"
+    >
+      1231
+    </span>
+  </button>
+</DocumentFragment>
+`;
