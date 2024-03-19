@@ -7,6 +7,11 @@ import { Word } from '@/models/word'
 import parsedWordsPure from '../../../auto-generated/words.json'
 import { persistor, useAppDispatch } from '@/store/store'
 import packageJson from '../../../package.json'
+import {
+  sliceByLastNum,
+  sliceByOffsetLimit,
+  sliceByTimePeriod,
+} from '@/utils/sliceWords'
 
 interface Props {
   children: ReactNode
@@ -20,47 +25,23 @@ export const App: FC<Props> = ({ children, limit, offset, last }) => {
   const allWords = useSelector(getWordsAll)
 
   useEffect(() => {
-    const currentOffset: number = offset ?? 0
-    const currentLimit: number | undefined = limit
-      ? limit + currentOffset
-      : undefined
     let parsedWords = parsedWordsPure as Array<Word>
 
     if (limit !== undefined && offset !== undefined) {
-      parsedWords = [...parsedWords]
-        .reverse()
-        .slice(currentOffset, currentLimit)
+      parsedWords = sliceByOffsetLimit(offset, limit, parsedWords)
     }
 
     if (last) {
-      let time = Date.now() / 1000
-      switch (last) {
-        case 'day':
-          time -= 24 * 60 * 60
-          parsedWords = parsedWords.filter((v) => v.created > time)
+      switch (true) {
+        case /\d+/.test(last):
+          parsedWords = sliceByLastNum(last, parsedWords)
           break
 
-        case 'week':
-          time -= 7 * 24 * 60 * 60
-          parsedWords = parsedWords.filter((v) => v.created > time)
+        case /[a-zA-Z]/.test(last):
+          parsedWords = sliceByTimePeriod(last, parsedWords)
           break
 
-        case 'month':
-          time -= 30 * 24 * 60 * 60
-          parsedWords = parsedWords.filter((v) => v.created > time)
-          break
-
-        case 'year':
-          time -= 365 * 24 * 60 * 60
-          parsedWords = parsedWords.filter((v) => v.created > time)
-          break
-
-        // here we suppose it is a number
         default:
-          const parsedLast = parseInt(last)
-          if (!isNaN(parsedLast) && parsedLast) {
-            parsedWords = parsedWords.slice(0, parsedLast)
-          }
           break
       }
     }
@@ -78,7 +59,7 @@ export const App: FC<Props> = ({ children, limit, offset, last }) => {
         dispatch(setAllWords(parsedWords))
       })
     }
-  }, [dispatch, allWords, limit, offset])
+  }, [dispatch, allWords, limit, offset, last])
 
   if (allWords.length === 0) {
     return (

@@ -1,5 +1,23 @@
 [
   {
+    "id": 6503,
+    "combinedTranslation": "нора",
+    "wordValue": "burrow",
+    "transcription": "ˈbɜːrəʊ",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/690745.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YnVycm930f3b3f8c.mp3",
+    "created": 1710846556
+  },
+  {
+    "id": 6069,
+    "combinedTranslation": "ширина",
+    "wordValue": "breadth",
+    "transcription": "brˈedθ",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/545810.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YnJlYWR0aA==4c1f1b70.mp3",
+    "created": 1710764788
+  },
+  {
     "id": 35121,
     "combinedTranslation": "ступень(ка)",
     "wordValue": "rung",
