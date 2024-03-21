@@ -1,4 +1,8 @@
-import { combineReducers, configureStore } from '@reduxjs/toolkit'
+import {
+  combineReducers,
+  configureStore,
+  EnhancedStore,
+} from '@reduxjs/toolkit'
 import settingsReducer from './slices/settingsSlice'
 import wordsReducer from './slices/wordsSlice'
 import { useDispatch } from 'react-redux'
@@ -26,15 +30,19 @@ const reducer = combineReducers({
 
 const persistedReducer = persistReducer(persistConfig, reducer)
 
-const store = configureStore({
-  reducer: persistedReducer,
-  middleware: (getDefaultMiddleware) =>
-    getDefaultMiddleware({
-      serializableCheck: {
-        ignoredActions: [FLUSH, REHYDRATE, PAUSE, PERSIST, PURGE, REGISTER],
-      },
-    }),
-})
+export function createStore(): EnhancedStore {
+  return configureStore({
+    reducer: persistedReducer,
+    middleware: (getDefaultMiddleware) =>
+      getDefaultMiddleware({
+        serializableCheck: {
+          ignoredActions: [FLUSH, REHYDRATE, PAUSE, PERSIST, PURGE, REGISTER],
+        },
+      }),
+  })
+}
+
+const store = createStore()
 let persistor = persistStore(store)
 
 export type RootState = ReturnType<typeof store.getState>

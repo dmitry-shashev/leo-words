@@ -1,13 +1,19 @@
 import { expect, test } from 'vitest'
 import { render, fireEvent } from '@testing-library/react'
 import { BottomControl } from '@/components/complex/BottomControl/BottomControl'
-import { StoreProvider } from '@/app/StoreProvider'
+import { Provider } from 'react-redux'
+import { createStore } from '@/store/store'
+import { setAllWords } from '@/store/slices/wordsSlice'
+import { testWords } from '@/components/test-data/test-words'
 
-test('BottomControl', async () => {
+test('BottomControl', () => {
+  const store = createStore()
+  store.dispatch(setAllWords(testWords))
+
   const { asFragment, getByLabelText, queryByLabelText } = render(
-    <StoreProvider>
+    <Provider store={store}>
       <BottomControl />
-    </StoreProvider>
+    </Provider>
   )
 
   function checkButtons(
