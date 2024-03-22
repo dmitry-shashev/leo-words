@@ -3,6 +3,7 @@
 exports[`SquareBtn 1`] = `
 <DocumentFragment>
   <button
+    aria-label="Some sqr btn"
     class="w-10 h-10 text-gray-400 text-xl opacity-30"
     type="button"
   >

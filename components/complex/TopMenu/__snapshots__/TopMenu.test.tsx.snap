@@ -1,0 +1,861 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`TopMenu 1`] = `
+<DocumentFragment>
+  <div
+    class="flex flex-row justify-between p-1 mb-1 border-b"
+  >
+    <div
+      class="flex flex-row gap-1"
+    >
+      <div
+        class="border-r"
+      >
+        <button
+          aria-label="Shuffle"
+          class="w-10 h-10 text-gray-400 text-xl opacity-30"
+          type="button"
+        >
+          🪃
+        </button>
+      </div>
+      <button
+        aria-label="Sound"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        🔇
+      </button>
+      <button
+        aria-label="Lang"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        🇬🇧
+      </button>
+      <button
+        aria-label="Show Image"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        😼
+      </button>
+      <button
+        aria-label="Speed Mode"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        🐌
+      </button>
+    </div>
+    <button
+      aria-label="Words button"
+      class=" h-10 px-2 text-xl"
+      type="button"
+    >
+      <span
+        aria-label="Counter current"
+        class="text-emerald-500"
+      >
+        0
+      </span>
+      <span
+        class="mx-1"
+      >
+        /
+      </span>
+      <span
+        aria-label="Counter wrong"
+        class="text-orange-700"
+      >
+        0
+      </span>
+      <span
+        class="mx-1"
+      >
+        /
+      </span>
+      <span
+        aria-label="Counter total"
+        class="text-gray-400"
+      >
+        5
+      </span>
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`TopMenu 2`] = `
+<DocumentFragment>
+  <div
+    class="flex flex-row justify-between p-1 mb-1 border-b"
+  >
+    <div
+      class="flex flex-row gap-1"
+    >
+      <div
+        class="border-r"
+      >
+        <button
+          aria-label="Shuffle"
+          class="w-10 h-10 text-gray-400 text-xl opacity-30"
+          type="button"
+        >
+          🪃
+        </button>
+      </div>
+      <button
+        aria-label="Sound"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        🔊
+      </button>
+      <button
+        aria-label="Lang"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        🇬🇧
+      </button>
+      <button
+        aria-label="Show Image"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        😼
+      </button>
+      <button
+        aria-label="Speed Mode"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        🐌
+      </button>
+    </div>
+    <button
+      aria-label="Words button"
+      class=" h-10 px-2 text-xl"
+      type="button"
+    >
+      <span
+        aria-label="Counter current"
+        class="text-emerald-500"
+      >
+        0
+      </span>
+      <span
+        class="mx-1"
+      >
+        /
+      </span>
+      <span
+        aria-label="Counter wrong"
+        class="text-orange-700"
+      >
+        0
+      </span>
+      <span
+        class="mx-1"
+      >
+        /
+      </span>
+      <span
+        aria-label="Counter total"
+        class="text-gray-400"
+      >
+        5
+      </span>
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`TopMenu 3`] = `
+<DocumentFragment>
+  <div
+    class="flex flex-row justify-between p-1 mb-1 border-b"
+  >
+    <div
+      class="flex flex-row gap-1"
+    >
+      <div
+        class="border-r"
+      >
+        <button
+          aria-label="Shuffle"
+          class="w-10 h-10 text-gray-400 text-xl opacity-30"
+          type="button"
+        >
+          🪃
+        </button>
+      </div>
+      <button
+        aria-label="Sound"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        🔊
+      </button>
+      <button
+        aria-label="Lang"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        🇺🇦
+      </button>
+      <button
+        aria-label="Show Image"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        😼
+      </button>
+      <button
+        aria-label="Speed Mode"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        🐌
+      </button>
+    </div>
+    <button
+      aria-label="Words button"
+      class=" h-10 px-2 text-xl"
+      type="button"
+    >
+      <span
+        aria-label="Counter current"
+        class="text-emerald-500"
+      >
+        0
+      </span>
+      <span
+        class="mx-1"
+      >
+        /
+      </span>
+      <span
+        aria-label="Counter wrong"
+        class="text-orange-700"
+      >
+        0
+      </span>
+      <span
+        class="mx-1"
+      >
+        /
+      </span>
+      <span
+        aria-label="Counter total"
+        class="text-gray-400"
+      >
+        5
+      </span>
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`TopMenu 4`] = `
+<DocumentFragment>
+  <div
+    class="flex flex-row justify-between p-1 mb-1 border-b"
+  >
+    <div
+      class="flex flex-row gap-1"
+    >
+      <div
+        class="border-r"
+      >
+        <button
+          aria-label="Shuffle"
+          class="w-10 h-10 text-gray-400 text-xl opacity-30"
+          type="button"
+        >
+          🪃
+        </button>
+      </div>
+      <button
+        aria-label="Sound"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        🔊
+      </button>
+      <button
+        aria-label="Lang"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        🇬🇧
+      </button>
+      <button
+        aria-label="Show Image"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        😼
+      </button>
+      <button
+        aria-label="Speed Mode"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        🐌
+      </button>
+    </div>
+    <button
+      aria-label="Words button"
+      class=" h-10 px-2 text-xl"
+      type="button"
+    >
+      <span
+        aria-label="Counter current"
+        class="text-emerald-500"
+      >
+        0
+      </span>
+      <span
+        class="mx-1"
+      >
+        /
+      </span>
+      <span
+        aria-label="Counter wrong"
+        class="text-orange-700"
+      >
+        0
+      </span>
+      <span
+        class="mx-1"
+      >
+        /
+      </span>
+      <span
+        aria-label="Counter total"
+        class="text-gray-400"
+      >
+        5
+      </span>
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`TopMenu 5`] = `
+<DocumentFragment>
+  <div
+    class="flex flex-row justify-between p-1 mb-1 border-b"
+  >
+    <div
+      class="flex flex-row gap-1"
+    >
+      <div
+        class="border-r"
+      >
+        <button
+          aria-label="Shuffle"
+          class="w-10 h-10 text-gray-400 text-xl opacity-30"
+          type="button"
+        >
+          🪃
+        </button>
+      </div>
+      <button
+        aria-label="Sound"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        🔊
+      </button>
+      <button
+        aria-label="Lang"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        🇬🇧
+      </button>
+      <button
+        aria-label="Show Image"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        🙀
+      </button>
+      <button
+        aria-label="Speed Mode"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        🐌
+      </button>
+    </div>
+    <button
+      aria-label="Words button"
+      class=" h-10 px-2 text-xl"
+      type="button"
+    >
+      <span
+        aria-label="Counter current"
+        class="text-emerald-500"
+      >
+        0
+      </span>
+      <span
+        class="mx-1"
+      >
+        /
+      </span>
+      <span
+        aria-label="Counter wrong"
+        class="text-orange-700"
+      >
+        0
+      </span>
+      <span
+        class="mx-1"
+      >
+        /
+      </span>
+      <span
+        aria-label="Counter total"
+        class="text-gray-400"
+      >
+        5
+      </span>
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`TopMenu 6`] = `
+<DocumentFragment>
+  <div
+    class="flex flex-row justify-between p-1 mb-1 border-b"
+  >
+    <div
+      class="flex flex-row gap-1"
+    >
+      <div
+        class="border-r"
+      >
+        <button
+          aria-label="Shuffle"
+          class="w-10 h-10 text-gray-400 text-xl opacity-30"
+          type="button"
+        >
+          🪃
+        </button>
+      </div>
+      <button
+        aria-label="Sound"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        🔊
+      </button>
+      <button
+        aria-label="Lang"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        🇬🇧
+      </button>
+      <button
+        aria-label="Show Image"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        😼
+      </button>
+      <button
+        aria-label="Speed Mode"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        🐌
+      </button>
+    </div>
+    <button
+      aria-label="Words button"
+      class=" h-10 px-2 text-xl"
+      type="button"
+    >
+      <span
+        aria-label="Counter current"
+        class="text-emerald-500"
+      >
+        0
+      </span>
+      <span
+        class="mx-1"
+      >
+        /
+      </span>
+      <span
+        aria-label="Counter wrong"
+        class="text-orange-700"
+      >
+        0
+      </span>
+      <span
+        class="mx-1"
+      >
+        /
+      </span>
+      <span
+        aria-label="Counter total"
+        class="text-gray-400"
+      >
+        5
+      </span>
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`TopMenu 7`] = `
+<DocumentFragment>
+  <div
+    class="flex flex-row justify-between p-1 mb-1 border-b"
+  >
+    <div
+      class="flex flex-row gap-1"
+    >
+      <div
+        class="border-r"
+      >
+        <button
+          aria-label="Shuffle"
+          class="w-10 h-10 text-gray-400 text-xl opacity-30"
+          type="button"
+        >
+          🪃
+        </button>
+      </div>
+      <button
+        aria-label="Sound"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        🔊
+      </button>
+      <button
+        aria-label="Lang"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        🇬🇧
+      </button>
+      <button
+        aria-label="Show Image"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        😼
+      </button>
+      <button
+        aria-label="Speed Mode"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        🚀
+      </button>
+    </div>
+    <button
+      aria-label="Words button"
+      class=" h-10 px-2 text-xl"
+      type="button"
+    >
+      <span
+        aria-label="Counter current"
+        class="text-emerald-500"
+      >
+        0
+      </span>
+      <span
+        class="mx-1"
+      >
+        /
+      </span>
+      <span
+        aria-label="Counter wrong"
+        class="text-orange-700"
+      >
+        0
+      </span>
+      <span
+        class="mx-1"
+      >
+        /
+      </span>
+      <span
+        aria-label="Counter total"
+        class="text-gray-400"
+      >
+        5
+      </span>
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`TopMenu 8`] = `
+<DocumentFragment>
+  <div
+    class="flex flex-row justify-between p-1 mb-1 border-b"
+  >
+    <div
+      class="flex flex-row gap-1"
+    >
+      <div
+        class="border-r"
+      >
+        <button
+          aria-label="Shuffle"
+          class="w-10 h-10 text-gray-400 text-xl opacity-30"
+          type="button"
+        >
+          🪃
+        </button>
+      </div>
+      <button
+        aria-label="Sound"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        🔊
+      </button>
+      <button
+        aria-label="Lang"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        🇬🇧
+      </button>
+      <button
+        aria-label="Show Image"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        😼
+      </button>
+      <button
+        aria-label="Speed Mode"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        🐌
+      </button>
+    </div>
+    <button
+      aria-label="Words button"
+      class=" h-10 px-2 text-xl"
+      type="button"
+    >
+      <span
+        aria-label="Counter current"
+        class="text-emerald-500"
+      >
+        0
+      </span>
+      <span
+        class="mx-1"
+      >
+        /
+      </span>
+      <span
+        aria-label="Counter wrong"
+        class="text-orange-700"
+      >
+        0
+      </span>
+      <span
+        class="mx-1"
+      >
+        /
+      </span>
+      <span
+        aria-label="Counter total"
+        class="text-gray-400"
+      >
+        5
+      </span>
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`TopMenu 9`] = `
+<DocumentFragment>
+  <div
+    class="flex flex-row justify-between p-1 mb-1 border-b"
+  >
+    <div
+      class="flex flex-row gap-1"
+    >
+      <div
+        class="border-r"
+      >
+        <button
+          aria-label="Shuffle"
+          class="w-10 h-10 text-gray-400 text-xl opacity-30"
+          type="button"
+        >
+          🪃
+        </button>
+      </div>
+      <button
+        aria-label="Sound"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        🔊
+      </button>
+      <button
+        aria-label="Lang"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        🇬🇧
+      </button>
+      <button
+        aria-label="Show Image"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        😼
+      </button>
+      <button
+        aria-label="Speed Mode"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        🐌
+      </button>
+    </div>
+    <button
+      aria-label="Words button"
+      class=" h-10 px-2 text-xl"
+      type="button"
+    >
+      <span
+        aria-label="Counter current"
+        class="text-emerald-500"
+      >
+        0
+      </span>
+      <span
+        class="mx-1"
+      >
+        /
+      </span>
+      <span
+        aria-label="Counter wrong"
+        class="text-orange-700"
+      >
+        0
+      </span>
+      <span
+        class="mx-1"
+      >
+        /
+      </span>
+      <span
+        aria-label="Counter total"
+        class="text-gray-400"
+      >
+        5
+      </span>
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`TopMenu 10`] = `
+<DocumentFragment>
+  <div
+    class="flex flex-row justify-between p-1 mb-1 border-b"
+  >
+    <div
+      class="flex flex-row gap-1"
+    >
+      <div
+        class="border-r"
+      >
+        <button
+          aria-label="Shuffle"
+          class="w-10 h-10 text-gray-400 text-xl opacity-30"
+          type="button"
+        >
+          🪃
+        </button>
+      </div>
+      <button
+        aria-label="Sound"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        🔊
+      </button>
+      <button
+        aria-label="Lang"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        🇬🇧
+      </button>
+      <button
+        aria-label="Show Image"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        😼
+      </button>
+      <button
+        aria-label="Speed Mode"
+        class="w-10 h-10 text-gray-400 text-xl opacity-30"
+        type="button"
+      >
+        🐌
+      </button>
+    </div>
+    <button
+      aria-label="Words button"
+      class=" h-10 px-2 text-xl"
+      type="button"
+    >
+      <span
+        aria-label="Counter current"
+        class="text-emerald-500"
+      >
+        0
+      </span>
+      <span
+        class="mx-1"
+      >
+        /
+      </span>
+      <span
+        aria-label="Counter wrong"
+        class="text-orange-700"
+      >
+        0
+      </span>
+      <span
+        class="mx-1"
+      >
+        /
+      </span>
+      <span
+        aria-label="Counter total"
+        class="text-gray-400"
+      >
+        5
+      </span>
+    </button>
+  </div>
+</DocumentFragment>
+`;

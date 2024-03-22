@@ -66,12 +66,20 @@ export const TopMenu: FC = () => {
     <div className="flex flex-row justify-between p-1 mb-1 border-b">
       <div className="flex flex-row gap-1">
         <div className="border-r">
-          <SquareBtn onClick={onShuffle} label="🪃" />
+          <SquareBtn onClick={onShuffle} label="🪃" ariaLabel="Shuffle" />
         </div>
-        <SquareBtn onClick={onSound} label={sound.icon} />
-        <SquareBtn onClick={onLang} label={lang.icon} />
-        <SquareBtn onClick={onShowImage} label={showImage.icon} />
-        <SquareBtn onClick={onSpeedMode} label={speedMode.icon} />
+        <SquareBtn onClick={onSound} label={sound.icon} ariaLabel="Sound" />
+        <SquareBtn onClick={onLang} label={lang.icon} ariaLabel="Lang" />
+        <SquareBtn
+          onClick={onShowImage}
+          label={showImage.icon}
+          ariaLabel="Show Image"
+        />
+        <SquareBtn
+          onClick={onSpeedMode}
+          label={speedMode.icon}
+          ariaLabel="Speed Mode"
+        />
       </div>
       <WordsBtn
         hoverMode={isByWrongWords}
