@@ -1,0 +1,221 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`WordView 1`] = `
+<DocumentFragment>
+  <div
+    class="mb-10"
+  >
+    <div
+      aria-label="Base word"
+      class="text-5xl font-semibold h-24 text-center p-1"
+    >
+      preach
+    </div>
+    <div
+      class="text-3xl text-center h-20 text-blue-400"
+    />
+    <div
+      class="flex justify-center align-middle"
+    >
+      <div
+        class="w-80 h-80 flex justify-center align-middle bg-blue-50 shadow"
+      >
+        <img
+          alt="Word Image"
+          class="blur object-contain"
+          src="https://contentcdn.lingualeo.com/uploads/picture/634277.png"
+        />
+      </div>
+    </div>
+    <div
+      hidden=""
+    >
+      <img
+        alt="sake"
+        src="https://contentcdn.lingualeo.com/uploads/picture/326972.png"
+      />
+      <img
+        alt="preach"
+        src="https://contentcdn.lingualeo.com/uploads/picture/634277.png"
+      />
+      <img
+        alt="stroll"
+        src="https://contentcdn.lingualeo.com/uploads/picture/2898240.png"
+      />
+      <img
+        alt="undertake"
+        src="https://contentcdn.lingualeo.com/uploads/picture/19282.png"
+      />
+      <img
+        alt="effectively"
+        src="https://contentcdn.lingualeo.com/uploads/picture/31663.png"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`WordView 2`] = `
+<DocumentFragment>
+  <div
+    class="mb-10"
+  >
+    <div
+      aria-label="Base word"
+      class="text-5xl font-semibold h-24 text-center p-1"
+    >
+      preach
+    </div>
+    <div
+      class="text-3xl text-center h-20 text-blue-400"
+    />
+    <div
+      class="flex justify-center align-middle"
+    >
+      <div
+        class="w-80 h-80 flex justify-center align-middle bg-blue-50 shadow"
+      >
+        <img
+          alt="Word Image"
+          class="blur object-contain"
+          src="https://contentcdn.lingualeo.com/uploads/picture/634277.png"
+        />
+      </div>
+    </div>
+    <div
+      hidden=""
+    >
+      <img
+        alt="sake"
+        src="https://contentcdn.lingualeo.com/uploads/picture/326972.png"
+      />
+      <img
+        alt="preach"
+        src="https://contentcdn.lingualeo.com/uploads/picture/634277.png"
+      />
+      <img
+        alt="stroll"
+        src="https://contentcdn.lingualeo.com/uploads/picture/2898240.png"
+      />
+      <img
+        alt="undertake"
+        src="https://contentcdn.lingualeo.com/uploads/picture/19282.png"
+      />
+      <img
+        alt="effectively"
+        src="https://contentcdn.lingualeo.com/uploads/picture/31663.png"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`WordView 3`] = `
+<DocumentFragment>
+  <div
+    class="mb-10"
+  >
+    <div
+      aria-label="Base word"
+      class="text-5xl font-semibold h-24 text-center p-1"
+    >
+      preach
+    </div>
+    <div
+      class="text-3xl text-center h-20 text-blue-400"
+    />
+    <div
+      class="flex justify-center align-middle"
+    >
+      <div
+        class="w-80 h-80 flex justify-center align-middle bg-blue-50 shadow"
+      >
+        <img
+          alt="Word Image"
+          class="blur object-contain"
+          src="https://contentcdn.lingualeo.com/uploads/picture/634277.png"
+        />
+      </div>
+    </div>
+    <div
+      hidden=""
+    >
+      <img
+        alt="sake"
+        src="https://contentcdn.lingualeo.com/uploads/picture/326972.png"
+      />
+      <img
+        alt="preach"
+        src="https://contentcdn.lingualeo.com/uploads/picture/634277.png"
+      />
+      <img
+        alt="stroll"
+        src="https://contentcdn.lingualeo.com/uploads/picture/2898240.png"
+      />
+      <img
+        alt="undertake"
+        src="https://contentcdn.lingualeo.com/uploads/picture/19282.png"
+      />
+      <img
+        alt="effectively"
+        src="https://contentcdn.lingualeo.com/uploads/picture/31663.png"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`WordView 4`] = `
+<DocumentFragment>
+  <div
+    class="mb-10"
+  >
+    <div
+      aria-label="Base word"
+      class="text-5xl font-semibold h-24 text-center p-1"
+    >
+      preach
+    </div>
+    <div
+      class="text-3xl text-center h-20 text-blue-400"
+    />
+    <div
+      class="flex justify-center align-middle"
+    >
+      <div
+        class="w-80 h-80 flex justify-center align-middle bg-blue-50 shadow"
+      >
+        <img
+          alt="Word Image"
+          class="blur object-contain"
+          src="https://contentcdn.lingualeo.com/uploads/picture/634277.png"
+        />
+      </div>
+    </div>
+    <div
+      hidden=""
+    >
+      <img
+        alt="sake"
+        src="https://contentcdn.lingualeo.com/uploads/picture/326972.png"
+      />
+      <img
+        alt="preach"
+        src="https://contentcdn.lingualeo.com/uploads/picture/634277.png"
+      />
+      <img
+        alt="stroll"
+        src="https://contentcdn.lingualeo.com/uploads/picture/2898240.png"
+      />
+      <img
+        alt="undertake"
+        src="https://contentcdn.lingualeo.com/uploads/picture/19282.png"
+      />
+      <img
+        alt="effectively"
+        src="https://contentcdn.lingualeo.com/uploads/picture/31663.png"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;

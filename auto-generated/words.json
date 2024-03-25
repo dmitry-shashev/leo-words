@@ -1,5 +1,41 @@
 [
   {
+    "id": 1920162114,
+    "combinedTranslation": "раскидистое дерево",
+    "wordValue": "splay tree",
+    "transcription": "splˈeɪː tri",
+    "picture": "https://img.freepik.com/free-photo/rear-view-girl-jumping-branch_23-2147636837.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c3BsYXkgdHJlZQ==779de3c9.mp3",
+    "created": 1711194060
+  },
+  {
+    "id": 9941,
+    "combinedTranslation": "мат. косинус",
+    "wordValue": "cosine",
+    "transcription": "kousaɪːn",
+    "picture": "https://img.freepik.com/free-photo/beautiful-digital-symmetric-fractal-cosmic-energy-vibrant-flowing-lines-soothing-pastel-colors_181624-58340.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y29zaW5l69fcc950.mp3",
+    "created": 1711190496
+  },
+  {
+    "id": 28324,
+    "combinedTranslation": "оптимальный",
+    "wordValue": "optimum",
+    "transcription": "ˈɑptəməm",
+    "picture": "https://img.freepik.com/premium-photo/optimum-fertilizer-application-methods_810293-265416.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/b3B0aW11bQ==7fb312d1.mp3",
+    "created": 1710943450
+  },
+  {
+    "id": 22983,
+    "combinedTranslation": "рюкзак",
+    "wordValue": "knapsack",
+    "transcription": "nˈæpsæk",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/8742.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/a25hcHNhY2s=4993ce39.mp3",
+    "created": 1710940324
+  },
+  {
     "id": 6503,
     "combinedTranslation": "нора",
     "wordValue": "burrow",
