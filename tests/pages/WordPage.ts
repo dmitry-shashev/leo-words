@@ -19,8 +19,13 @@ export class WordPage {
     await this.page.getByLabel('Back').click()
   }
 
+  // by wrong words and back
   async toggleMode(): Promise<void> {
     await this.page.getByLabel('Words button').click()
+  }
+
+  async toggleLang(): Promise<void> {
+    await this.page.getByLabel('Lang').click()
   }
 
   async verifyIsCheck(): Promise<void> {
