@@ -239,9 +239,14 @@ export const getCurrentWordPicture = createSelector(
   (state) => state.currentWord.picture
 )
 
-export const getCurrentWordId = createSelector(
+export const getCurrentWord = createSelector(
   getWordsState,
-  (state) => state.currentWord.id
+  (state) => state.currentWord
+)
+
+export const getCurrentWordId = createSelector(
+  getCurrentWord,
+  (state) => state.id
 )
 
 export const getIsCheckState = createSelector(

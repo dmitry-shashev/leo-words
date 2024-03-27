@@ -12,6 +12,7 @@ import {
   sliceByOffsetLimit,
   sliceByTimePeriod,
 } from '@/utils/sliceWords'
+import { useDebug } from '@/hooks/useDebug'
 
 interface Props {
   children: ReactNode
@@ -23,6 +24,8 @@ interface Props {
 export const App: FC<Props> = ({ children, limit, offset, last }) => {
   const dispatch = useAppDispatch()
   const allWords = useSelector(getWordsAll)
+
+  useDebug()
 
   useEffect(() => {
     let parsedWords = parsedWordsPure as Array<Word>
