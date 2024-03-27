@@ -1,5 +1,221 @@
 [
   {
+    "id": 123224,
+    "combinedTranslation": "расписание",
+    "wordValue": "timetable",
+    "transcription": "ˈtaɪmˌteɪbəl",
+    "picture": "https://contentcdn.lingualeo.com/uploads/1611_1361481210.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dGltZXRhYmxl81b627f3.mp3",
+    "created": 1711536767
+  },
+  {
+    "id": 1666859314,
+    "combinedTranslation": "стерильный",
+    "wordValue": "sterile",
+    "transcription": "ˊsteraɪl",
+    "picture": "https://img.freepik.com/free-psd/bleach-isolated-transparent-background_191095-28951.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c3RlcmlsZQ==0c5f0d20.mp3",
+    "created": 1711466410
+  },
+  {
+    "id": 41646,
+    "combinedTranslation": "поток",
+    "wordValue": "torrent",
+    "transcription": "ˈtɒrənt",
+    "picture": "https://img.freepik.com/free-vector/summer-landscape-with-cascade-waterfall-jungle_107791-26267.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dG9ycmVudA==cc48c3ad.mp3",
+    "created": 1711465367
+  },
+  {
+    "id": 80548,
+    "combinedTranslation": "рекламировать",
+    "wordValue": "touting",
+    "transcription": "tˈaʊːtɪŋ",
+    "picture": "https://img.freepik.com/free-photo/egg-prawn-served-with-tahini-sauce-photography_53876-128375.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dG91dGluZw==2dc2dcbb.mp3",
+    "created": 1711465236
+  },
+  {
+    "id": 1841750062,
+    "combinedTranslation": "раздражительный",
+    "wordValue": "petulant",
+    "transcription": "pˈetjʊlənt",
+    "picture": "https://img.freepik.com/premium-photo/perennially-petulant-profile-iconic-symbol-blocked-facebook-account_1000124-131286.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cGV0dWxhbnQ=10d78a1b.mp3",
+    "created": 1711465126
+  },
+  {
+    "id": 1723817500,
+    "combinedTranslation": "непоколебимый",
+    "wordValue": "unswayed",
+    "transcription": "ʌnswˈeɪːd",
+    "picture": "https://img.freepik.com/premium-photo/remote-explorer-photographing-untouched-wilderness-wallpaper_987764-14986.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dW5zd2F5ZWQ=88fd4ae9.mp3",
+    "created": 1711464920
+  },
+  {
+    "id": 12944,
+    "combinedTranslation": "потрепанный, с загнутыми уголками страниц",
+    "wordValue": "dog-eared",
+    "transcription": "dˈɒg ˈɪəːd",
+    "picture": "https://img.freepik.com/free-photo/small-jack-russell-terrier-white_155003-14038.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZG9nLWVhcmVk60226ea1.mp3",
+    "created": 1711464867
+  },
+  {
+    "id": 181115,
+    "combinedTranslation": "пролистывая (книгу)",
+    "wordValue": "thumbing",
+    "transcription": "θˈʌmɪŋ",
+    "picture": "https://img.freepik.com/free-vector/high-five-hands-vectors-sign_23-2147734248.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dGh1bWJpbmc=31a878cf.mp3",
+    "created": 1711464822
+  },
+  {
+    "id": 1303759782,
+    "combinedTranslation": "академический",
+    "wordValue": "scholarly",
+    "transcription": "skˈɒləli",
+    "picture": "https://img.freepik.com/free-vector/organic-flat-graduation-illustration_52683-61781.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c2Nob2xhcmx52b147c97.mp3",
+    "created": 1711464689
+  },
+  {
+    "id": 59972,
+    "combinedTranslation": "меньший",
+    "wordValue": "faintest",
+    "transcription": "fˈeɪːntɪst",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3433287.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZmFpbnRlc3Q=e8f91cea.mp3",
+    "created": 1711464632
+  },
+  {
+    "id": 1935726154,
+    "combinedTranslation": "жадно",
+    "wordValue": "voraciously",
+    "transcription": "vərˈeɪːʃəsli",
+    "picture": "https://img.freepik.com/free-photo/carnivorous-pitcher-plants-luring-insects-into-their-colorful-deadly-traps_1268-35010.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dm9yYWNpb3VzbHk=ff440e8d.mp3",
+    "created": 1711464578
+  },
+  {
+    "id": 17992,
+    "combinedTranslation": "избыток",
+    "wordValue": "glut",
+    "transcription": "glˈʌt",
+    "picture": "https://img.freepik.com/premium-photo/fit-active-black-sportswoman-is-practicing-lunges-gluts-gym_232070-23541.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Z2x1dA==a0fce1e8.mp3",
+    "created": 1711464138
+  },
+  {
+    "id": 35163,
+    "combinedTranslation": "рутина",
+    "wordValue": "rut",
+    "transcription": "rˈʌt",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/213564.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cnV0b42dc478.mp3",
+    "created": 1711464055
+  },
+  {
+    "id": 2072153602,
+    "combinedTranslation": "освежить",
+    "wordValue": "brush up",
+    "transcription": "brʌʃ ʌp",
+    "picture": "https://img.freepik.com/free-vector/decorative-black-watercolor-brush-stroke-design-vector_1055-10894.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YnJ1c2ggdXA=7175111e.mp3",
+    "created": 1711463815
+  },
+  {
+    "id": 24741,
+    "combinedTranslation": "опора",
+    "wordValue": "mainstay",
+    "transcription": "mˈeɪːnstɛɪː",
+    "picture": "https://img.freepik.com/premium-photo/nauticalthemed-event-with-sailboats-background_987764-19355.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bWFpbnN0YXk=791882df.mp3",
+    "created": 1711463757
+  },
+  {
+    "id": 1747207809,
+    "combinedTranslation": "хорошо платят",
+    "wordValue": "handsomely",
+    "transcription": "hˈænsəmli",
+    "picture": "https://img.freepik.com/free-photo/portrait-serious-concentrated-man-white-shirt_171337-17406.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aGFuZHNvbWVseQ==1909a35d.mp3",
+    "created": 1711463721
+  },
+  {
+    "id": 30823,
+    "combinedTranslation": "лаконичный",
+    "wordValue": "pithy",
+    "transcription": "pˈɪθi",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/328598.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cGl0aHk=03c4ec02.mp3",
+    "created": 1711462982
+  },
+  {
+    "id": 19908,
+    "combinedTranslation": "проповедь",
+    "wordValue": "homily",
+    "transcription": "ˈhɑməli",
+    "picture": "https://img.freepik.com/premium-photo/full-church-observes-sermon-with-attendees-focused-pastors-message-setting-conveys-sense-tradition-collective-worship_127746-11048.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aG9taWx5e24e1476.mp3",
+    "created": 1711462969
+  },
+  {
+    "id": 14121,
+    "combinedTranslation": "приукрашивание",
+    "wordValue": "embellishment",
+    "transcription": "ɛmˈbɛlɪʃmənt",
+    "picture": "https://img.freepik.com/free-vector/realistic-three-dimensional-arabic-ornamental-background_52683-59086.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZW1iZWxsaXNobWVudA==867f5161.mp3",
+    "created": 1711462808
+  },
+  {
+    "id": 12689,
+    "combinedTranslation": "распространять",
+    "wordValue": "disseminate",
+    "transcription": "dɪsˈemɪnɛɪːt",
+    "picture": "https://img.freepik.com/free-psd/flat-design-data-privacy-template_23-2149325821.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZGlzc2VtaW5hdGU=b02a0b20.mp3",
+    "created": 1711462410
+  },
+  {
+    "id": 65139,
+    "combinedTranslation": "кардиостимулятор",
+    "wordValue": "pacemaker",
+    "transcription": "pˈeɪːsmɛɪːkə",
+    "picture": "https://img.freepik.com/free-vector/neon-style-red-heartbeat-dark-grid-background_78370-2342.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cGFjZW1ha2Vy03f0aa0f.mp3",
+    "created": 1711462381
+  },
+  {
+    "id": 1129264142,
+    "combinedTranslation": "защищать",
+    "wordValue": "avocate",
+    "transcription": null,
+    "picture": "https://img.freepik.com/free-photo/back-view-woman-doing-yoga-outdoors_23-2148769551.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YXZvY2F0ZQ==cf9ec6cc.mp3",
+    "created": 1711462282
+  },
+  {
+    "id": 9463,
+    "combinedTranslation": "сговориться",
+    "wordValue": "conspire",
+    "transcription": "kənspˈaɪə",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/1343960.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y29uc3BpcmU=558785b3.mp3",
+    "created": 1711462176
+  },
+  {
+    "id": 248095,
+    "combinedTranslation": "подкрадываться",
+    "wordValue": "creep up",
+    "transcription": "krˈiːp ʌp",
+    "picture": "https://img.freepik.com/free-vector/green-slime-set_74855-6486.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y3JlZXAgdXA=f59ef668.mp3",
+    "created": 1711461411
+  },
+  {
     "id": 490,
     "combinedTranslation": "канун, преддверие",
     "wordValue": "eve",
