@@ -28,6 +28,10 @@ export class WordPage {
     await this.page.getByLabel('Lang').click()
   }
 
+  async toggleSpeed(): Promise<void> {
+    await this.page.getByLabel('Speed Mode').click()
+  }
+
   async verifyIsCheck(): Promise<void> {
     await expect(this.page.getByLabel('Check')).toBeVisible()
   }
