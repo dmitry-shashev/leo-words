@@ -1,5 +1,230 @@
 [
   {
+    "id": 22898,
+    "combinedTranslation": "зажечь",
+    "wordValue": "kindle",
+    "transcription": "kˈɪndl",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/7045.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/a2luZGxl509e344d.mp3",
+    "created": 1711922406
+  },
+  {
+    "id": 1370578301,
+    "combinedTranslation": "рак-отшельник",
+    "wordValue": "hermit crab",
+    "transcription": "ˈhəːmɪt kræb",
+    "picture": "https://img.freepik.com/free-photo/hermit-crab-beach_1150-10311.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aGVybWl0IGNyYWI=3cd39137.mp3",
+    "created": 1711921818
+  },
+  {
+    "id": 1123261847,
+    "combinedTranslation": "неоднородный",
+    "wordValue": "heterogeneous",
+    "transcription": "hɛtərədʒˈiːnɪəːs",
+    "picture": "https://img.freepik.com/free-photo/white-simple-apparel-street-style-men-women-s-clothing-outdoor-shoot_53876-119818.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aGV0ZXJvZ2VuZW91cw==394a2336.mp3",
+    "created": 1711921115
+  },
+  {
+    "id": 1575306947,
+    "combinedTranslation": "устаревание",
+    "wordValue": "obsolescence",
+    "transcription": null,
+    "picture": "https://img.freepik.com/premium-photo/abandoned-buses-decay-desolate-landscape-gloomy-sky-evoking-postapocalyptic-vibes_95891-19981.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/b2Jzb2xlc2NlbmNlfbff93a4.mp3",
+    "created": 1711920403
+  },
+  {
+    "id": 7549,
+    "combinedTranslation": "огорчение",
+    "wordValue": "chagrin",
+    "transcription": "ʃˈægrɪn",
+    "picture": "https://img.freepik.com/premium-photo/young-teacher-is-sitting-front-laptop-conducting-lesson-concept-online-teaching_257767-678.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y2hhZ3Jpbg==742c4777.mp3",
+    "created": 1711920309
+  },
+  {
+    "id": 10750,
+    "combinedTranslation": "резак",
+    "wordValue": "cutter",
+    "transcription": "kˈʌtə",
+    "picture": "https://img.freepik.com/free-psd/sliced-text-effect_125540-1117.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y3V0dGVydf981681.mp3",
+    "created": 1711919818
+  },
+  {
+    "id": 101177,
+    "combinedTranslation": "причуды",
+    "wordValue": "quirks",
+    "transcription": "kwˈɜːks",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/66550.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cXVpcmtz0e4482ca.mp3",
+    "created": 1711919670
+  },
+  {
+    "id": 6341,
+    "combinedTranslation": "многообещающий",
+    "wordValue": "budding",
+    "transcription": "ˈbʌdɪŋ",
+    "picture": "https://img.freepik.com/free-vector/set-watercolor-flower-leaf-floral-painted-with-watercolor-greeting-invitation-card-decoration_25819-725.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YnVkZGluZw==d6e5a6eb.mp3",
+    "created": 1711919621
+  },
+  {
+    "id": 8194,
+    "combinedTranslation": "хомут",
+    "wordValue": "clamp",
+    "transcription": "klæmp",
+    "picture": "https://img.freepik.com/free-vector/human-hands-gestures-set-with-flat-isolated-icons-palm-hands-with-crossed-fingers-various-shapes-vector-illustration_1284-75928.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y2xhbXA=d62ef450.mp3",
+    "created": 1711919520
+  },
+  {
+    "id": 24813,
+    "combinedTranslation": "деревянный молоток",
+    "wordValue": "mallet",
+    "transcription": "mˈælɪt",
+    "picture": "https://img.freepik.com/free-photo/closeup-shot-person-writing-book-with-gavel-table_181624-57173.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bWFsbGV0e3fd3647.mp3",
+    "created": 1711919499
+  },
+  {
+    "id": 1852336582,
+    "combinedTranslation": "доблесть",
+    "wordValue": "prowess",
+    "transcription": "ˈpraʊəs",
+    "picture": "https://img.freepik.com/free-photo/elusive-jaguar-stealthily-prowling-through-dense-underbrush-eyes-fixed-potential-prey_1268-34991.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cHJvd2Vzcw==9e1180a1.mp3",
+    "created": 1711913050
+  },
+  {
+    "id": 19405,
+    "combinedTranslation": "подстраховаться",
+    "wordValue": "hedge",
+    "transcription": "hˈedʒ",
+    "picture": "https://img.freepik.com/free-photo/happy-bearded-gardener-standing-carrying-modern-hand-hedge-trimmer-park-low-angle-view_7502-10140.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aGVkZ2U=31139690.mp3",
+    "created": 1711912904
+  },
+  {
+    "id": 369096,
+    "combinedTranslation": "примерная оценка",
+    "wordValue": "ballpark figure",
+    "transcription": "bˈɔːlpɛɪːk fˈɪgə",
+    "picture": "https://img.freepik.com/free-vector/isometric-golfers-set-golf-players-with-clubs-standing-lawn-various-poses-isolated_1284-38987.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YmFsbHBhcmsgZmlndXJl586cec8c.mp3",
+    "created": 1711901430
+  },
+  {
+    "id": 330598,
+    "combinedTranslation": "компенсировать",
+    "wordValue": "offsetting",
+    "transcription": "ɒfsˈetɪŋ",
+    "picture": "https://img.freepik.com/free-vector/isometric-polygraphy-composition_1284-64954.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/b2Zmc2V0dGluZw==d55625bd.mp3",
+    "created": 1711900930
+  },
+  {
+    "id": 1198184137,
+    "combinedTranslation": "храброе сердце",
+    "wordValue": "stout of heart",
+    "transcription": "stˈaʊːt ʌv hɑːrt",
+    "picture": "https://img.freepik.com/free-vector/hand-drawing-illustration-set-love_53876-37364.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c3RvdXQgb2YgaGVhcnQ=3117501c.mp3",
+    "created": 1711900851
+  },
+  {
+    "id": 1807908741,
+    "combinedTranslation": "коварный",
+    "wordValue": "devious",
+    "transcription": "dˈiːvɪəːs",
+    "picture": "https://img.freepik.com/free-photo/flirty-devious-creative-young-redhead-smiling-excited-ginger-girl-prepare-mysterious-gift-surprise_1258-254180.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZGV2aW91cw==3d21cca6.mp3",
+    "created": 1711900442
+  },
+  {
+    "id": 46452,
+    "combinedTranslation": "модное выражение",
+    "wordValue": "buzzword",
+    "transcription": "bˈʌzwərd",
+    "picture": "https://img.freepik.com/free-vector/think-outside-box-calligraphic-3d-pipe-style-text-vector-illustration-design_460848-13755.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YnV6endvcmQ=a942227b.mp3",
+    "created": 1711899072
+  },
+  {
+    "id": 1718331397,
+    "combinedTranslation": "обманчиво",
+    "wordValue": "deceptively",
+    "transcription": "dɪsˈeptɪvli",
+    "picture": "https://img.freepik.com/free-photo/still-life-betrayal-concept_23-2149369238.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZGVjZXB0aXZlbHk=0a9684a4.mp3",
+    "created": 1711813564
+  },
+  {
+    "id": 230414,
+    "combinedTranslation": "клейкая лента",
+    "wordValue": "duct tape",
+    "transcription": "dˈʌkt tˈeɪːp",
+    "picture": "https://img.freepik.com/free-vector/tape-roll-pieces-realistic-transparent-set-with-packaging-symbols-isolated-vector-illustration_1284-71678.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZHVjdCB0YXBl803697be.mp3",
+    "created": 1711812401
+  },
+  {
+    "id": 33647,
+    "combinedTranslation": "разведка",
+    "wordValue": "reconnaissance",
+    "transcription": "riˈkɑnəsəns",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3228734.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cmVjb25uYWlzc2FuY2U=fed463a0.mp3",
+    "created": 1711812083
+  },
+  {
+    "id": 1787524356,
+    "combinedTranslation": "восторженный",
+    "wordValue": "ecstatic",
+    "transcription": "ɛkstˈætɪk",
+    "picture": "https://img.freepik.com/free-photo/ecstatic-blue-eyed-woman-with-long-blonde-hair-posing-front-white-bricked-wall-indoor-shot-surprised-girl-beautiful-pink-pyjamas_197531-21678.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZWNzdGF0aWM=f1a7311a.mp3",
+    "created": 1711811341
+  },
+  {
+    "id": 190212,
+    "combinedTranslation": "каракуль",
+    "wordValue": "squiggle",
+    "transcription": "skwˈɪgl",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/472855.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c3F1aWdnbGU=842cd99b.mp3",
+    "created": 1711811012
+  },
+  {
+    "id": 1787337006,
+    "combinedTranslation": "стопка бумаги",
+    "wordValue": "ream of paper",
+    "transcription": "rˈiːm ʌv ˈpeɪpər",
+    "picture": "https://img.freepik.com/free-photo/tissue-paper_53876-101304.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cmVhbSBvZiBwYXBlcg==21ceb0bf.mp3",
+    "created": 1711810678
+  },
+  {
+    "id": 102879241,
+    "combinedTranslation": "в яблочко",
+    "wordValue": "bullseye",
+    "transcription": null,
+    "picture": "https://img.freepik.com/free-psd/dartboard-with-arrow-color-year-2023-3d-illustration_47987-14017.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YnVsbHNleWU=e1394613.mp3",
+    "created": 1711810426
+  },
+  {
+    "id": 16184,
+    "combinedTranslation": "деление",
+    "wordValue": "fission",
+    "transcription": "ˈfɪʃən",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/55517.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Zmlzc2lvbg==b83dd142.mp3",
+    "created": 1711810267
+  },
+  {
     "id": 16769,
     "combinedTranslation": "отказываться (от права, требования)",
     "wordValue": "forgo",

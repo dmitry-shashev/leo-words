@@ -131,5 +131,4 @@ test('go by wrong words', async ({ page }) => {
 })
 
 // TODO: implement text tests
-//   speed mode test
 //   shuffle
