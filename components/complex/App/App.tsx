@@ -6,7 +6,6 @@ import { getWordsAll, setAllWords } from '@/store/slices/wordsSlice'
 import { Word } from '@/models/word'
 import parsedWordsPure from '../../../auto-generated/words.json'
 import { useAppDispatch } from '@/store/store'
-import packageJson from '../../../package.json'
 import {
   sliceByLastNum,
   sliceByOffsetLimit,
@@ -49,19 +48,7 @@ export const App: FC<Props> = ({ children, limit, offset, last }) => {
       }
     }
 
-    const currenVersion = localStorage.getItem('version')
-    const currentUrl = localStorage.getItem('currentUrl')
-    // we reset store in case of updating the version
-    // or changing the range of words from the UI
-    if (
-      !currenVersion ||
-      currenVersion !== packageJson.version ||
-      allWords.length !== parsedWords.length ||
-      currentUrl !== location.href
-    ) {
-      localStorage.clear()
-      localStorage.setItem('currentUrl', location.href)
-      localStorage.setItem('version', packageJson.version)
+    if (allWords.length !== parsedWords.length) {
       dispatch(setAllWords(parsedWords))
     }
   }, [dispatch, allWords, limit, offset, last])
