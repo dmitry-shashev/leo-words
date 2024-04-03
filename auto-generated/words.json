@@ -1,5 +1,95 @@
 [
   {
+    "id": 9326,
+    "combinedTranslation": "скапливаться",
+    "wordValue": "congest",
+    "transcription": "kəndʒˈest",
+    "picture": "https://contentcdn.lingualeo.com/uploads/1611_1361481210.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y29uZ2VzdA==b6662c04.mp3",
+    "created": 1712080048
+  },
+  {
+    "id": 1598489495,
+    "combinedTranslation": "слабительное",
+    "wordValue": "cathartic",
+    "transcription": "kəθˈɑːtɪk",
+    "picture": "https://img.freepik.com/free-photo/brown-turkey-vulture-bird-with-he-red-beak-flying-sea_181624-44975.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y2F0aGFydGljf70ceeb7.mp3",
+    "created": 1712063881
+  },
+  {
+    "id": 11618,
+    "combinedTranslation": "отрицание",
+    "wordValue": "denial",
+    "transcription": "dɪˈnaɪəl",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/419167.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZGVuaWFs897eda39.mp3",
+    "created": 1712063812
+  },
+  {
+    "id": 46323,
+    "combinedTranslation": "страшилище",
+    "wordValue": "bogeyman",
+    "transcription": "bougimæn",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/1696816.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Ym9nZXltYW4=6501a9b6.mp3",
+    "created": 1712063719
+  },
+  {
+    "id": 2459,
+    "combinedTranslation": "хотя",
+    "wordValue": "albeit",
+    "transcription": "ɔːlbˈiːɪt",
+    "picture": "https://img.freepik.com/premium-photo/luxurious-marble-background-black-gold-marble-texture-elegant-white-gold-marble-background_958297-4095.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YWxiZWl0aac90827.mp3",
+    "created": 1712063671
+  },
+  {
+    "id": 65571,
+    "combinedTranslation": "добросовестно",
+    "wordValue": "dutifully",
+    "transcription": "djˈuːtɪfəli",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/439473.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZHV0aWZ1bGx5195db416.mp3",
+    "created": 1712063487
+  },
+  {
+    "id": 1007970444,
+    "combinedTranslation": "бесценный",
+    "wordValue": "invaluable",
+    "transcription": "ɪnvˈæljʊəːbl",
+    "picture": "https://img.freepik.com/premium-photo/brokers-provide-invaluable-financial-guidance-individuals-businesses_37714-3787.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aW52YWx1YWJsZQ==6033834a.mp3",
+    "created": 1712061133
+  },
+  {
+    "id": 44185,
+    "combinedTranslation": "жизнеспособный",
+    "wordValue": "viable",
+    "transcription": "vˈaɪəbl",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/415383.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dmlhYmxl2ee84179.mp3",
+    "created": 1712060978
+  },
+  {
+    "id": 1455788060,
+    "combinedTranslation": "безмятежный",
+    "wordValue": "halcyon",
+    "transcription": "hˈælsɪəːn",
+    "picture": "https://img.freepik.com/free-photo/scenic-shot-colorful-halcyon-bird-perched-wire-isolated-white-background_181624-60451.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aGFsY3lvbg==c1c7658b.mp3",
+    "created": 1712060901
+  },
+  {
+    "id": 3865,
+    "combinedTranslation": "расширить",
+    "wordValue": "augment",
+    "transcription": "ɔːgmˈent",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/96999.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YXVnbWVudA==afbedefe.mp3",
+    "created": 1712060031
+  },
+  {
     "id": 22898,
     "combinedTranslation": "зажечь",
     "wordValue": "kindle",
