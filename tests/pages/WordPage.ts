@@ -19,6 +19,14 @@ export class WordPage {
     await this.page.getByLabel('Back').click()
   }
 
+  async shuffle(): Promise<void> {
+    await this.page.getByLabel('Shuffle').click()
+  }
+
+  async getCurrentWord(): Promise<string | null> {
+    return this.page.getByLabel('Base word').textContent()
+  }
+
   // by wrong words and back
   async toggleMode(): Promise<void> {
     await this.page.getByLabel('Words button').click()
