@@ -1,6 +1,6 @@
 {
   "name": "leo-words",
-  "version": "0.0.84",
+  "version": "0.0.85",
   "private": true,
   "scripts": {
     "prepare": "husky",
@@ -23,7 +23,7 @@
     "parse-url": "tsx scripts/parse-url.ts"
   },
   "dependencies": {
-    "@reduxjs/toolkit": "2.2.2",
+    "@reduxjs/toolkit": "2.2.3",
     "next": "14.1.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -37,11 +37,11 @@
   "devDependencies": {
     "@playwright/test": "1.42.1",
     "@testing-library/react": "14.2.2",
-    "@types/node": "^20.11.30",
+    "@types/node": "^20.12.4",
     "@types/pluralize": "0.0.33",
-    "@types/react": "^18.2.73",
-    "@types/react-dom": "^18.2.22",
-    "@typescript-eslint/eslint-plugin": "7.4.0",
+    "@types/react": "^18.2.74",
+    "@types/react-dom": "^18.2.24",
+    "@typescript-eslint/eslint-plugin": "7.5.0",
     "@vitejs/plugin-react": "4.2.1",
     "autoprefixer": "^10.4.19",
     "dotenv": "16.4.5",
@@ -50,7 +50,7 @@
     "husky": "9.0.11",
     "i": "0.3.7",
     "jsdom": "24.0.0",
-    "npm": "10.5.0",
+    "npm": "10.5.1",
     "pdf-data-parser": "1.2.4",
     "playwright": "1.42.1",
     "pluralize": "8.0.0",
