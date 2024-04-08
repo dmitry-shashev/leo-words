@@ -1,3 +1,2 @@
 pnpm lint
 pnpm test:ci
-pnpm run e2e:ci
