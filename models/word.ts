@@ -1,11 +1,16 @@
-export interface Word {
-  readonly id: number
-  readonly combinedTranslation: string
-  readonly wordValue: string
-  readonly transcription: string
-  readonly created: number
+import { toStringPreprocess } from '@/utils/preprocessFunctions'
+import { z } from 'zod'
+
+export const WordScheme = z.object({
+  id: z.number(),
+  combinedTranslation: z.preprocess(toStringPreprocess, z.string()),
+  wordValue: z.string(),
+  transcription: z.preprocess(toStringPreprocess, z.string()),
+  created: z.number(),
   // png
-  readonly picture: string
+  picture: z.string(),
   // mp3
-  readonly pronunciation: string
-}
+  pronunciation: z.string().default(''),
+})
+
+export type Word = z.infer<typeof WordScheme>

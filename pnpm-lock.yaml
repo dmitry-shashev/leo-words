@@ -35,6 +35,9 @@ dependencies:
   struct-enum:
     specifier: 0.0.8
     version: 0.0.8
+  zod:
+    specifier: 3.22.4
+    version: 3.22.4
 
 devDependencies:
   '@playwright/test':
@@ -4208,6 +4211,7 @@ packages:
   /path2d-polyfill@2.1.1:
     resolution: {integrity: sha512-4Rka5lN+rY/p0CdD8+E+BFv51lFaFvJOrlOhyQ+zjzyQrzyh3ozmxd1vVGGDdIbUFSBtIZLSnspxTgPT0iJhvA==}
     engines: {node: '>=18'}
+    deprecated: this package has been deprecated
     requiresBuild: true
     dependencies:
       path2d: 0.1.1
@@ -5642,3 +5646,7 @@ packages:
       - '@swc/wasm'
       - '@types/node'
     dev: true
+
+  /zod@3.22.4:
+    resolution: {integrity: sha512-iC+8Io04lddc+mVqQ9AZ7OQ2MrUKGN+oIQyq1vemgt46jwCwLfhq7/pwnBnNXXXZb8VTVLKwp9EDkx+ryxIWmg==}
+    dev: false

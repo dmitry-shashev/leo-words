@@ -1,6 +1,6 @@
-import { Group } from '@/models/group'
+import { Group, GroupScheme } from '@/models/group'
 import { buildHeaders } from '@/utils/buildHeaders'
-import { Word } from '@/models/word'
+import { Word, WordScheme } from '@/models/word'
 
 export async function getWords(
   accessToken: string,
@@ -50,21 +50,15 @@ export async function getWords(
       ],
     }),
   })
-  const { data }: { data: Array<Group> } = await response.json()
+  const data: Array<Group> = await response
+    .json()
+    .then(({ data }) => data.map(GroupScheme.parse))
 
   const result: Array<Word> = []
   data.forEach((group) => {
     group.words.forEach((word) => {
       if (!result.find((v) => v.id === word.id)) {
-        result.push({
-          id: word.id,
-          combinedTranslation: word.combinedTranslation,
-          wordValue: word.wordValue,
-          transcription: word.transcription,
-          picture: word.picture,
-          pronunciation: word.pronunciation,
-          created: word.created,
-        })
+        result.push(WordScheme.parse(word))
       }
     })
   })
