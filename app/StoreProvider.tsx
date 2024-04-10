@@ -12,18 +12,19 @@ interface Props {
 
 export const StoreProvider: FC<Props> = ({ children }) => {
   useEffect(() => {
-    const currenVersion = localStorage.getItem('version')
-    const currentUrl = localStorage.getItem('currentUrl')
+    const currenVersion = sessionStorage.getItem('version')
+    const currentUrl = sessionStorage.getItem('currentUrl')
 
     if (
       !currenVersion ||
       currenVersion !== packageJson.version ||
       currentUrl !== location.href
     ) {
-      localStorage.clear()
-      localStorage.setItem('currentUrl', location.href)
-      localStorage.setItem('version', packageJson.version)
-      window.location.reload()
+      persistor.flush().then(() => {
+        sessionStorage.setItem('currentUrl', location.href)
+        sessionStorage.setItem('version', packageJson.version)
+        window.location.reload()
+      })
       return
     }
   }, [])
