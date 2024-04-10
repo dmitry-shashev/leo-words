@@ -6,7 +6,6 @@ import {
 import settingsReducer from './slices/settingsSlice'
 import wordsReducer from './slices/wordsSlice'
 import { useDispatch } from 'react-redux'
-import storage from 'redux-persist/lib/storage'
 import {
   FLUSH,
   REHYDRATE,
@@ -17,10 +16,11 @@ import {
   persistStore,
   persistReducer,
 } from 'redux-persist'
+import sessionStorage from 'redux-persist/es/storage/session'
 
 const persistConfig = {
   key: 'root',
-  storage,
+  storage: sessionStorage,
 }
 
 const reducer = combineReducers({
