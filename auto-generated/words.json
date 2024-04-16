@@ -1,5 +1,86 @@
 [
   {
+    "id": 31735,
+    "combinedTranslation": "предубеждение",
+    "wordValue": "preconception",
+    "transcription": "prikənsˈepʃən",
+    "created": 1713206133,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/80624.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cHJlY29uY2VwdGlvbg==ebdabc4c.mp3"
+  },
+  {
+    "id": 23359,
+    "combinedTranslation": "истёкший",
+    "wordValue": "lapsed",
+    "transcription": "lˈæpst",
+    "created": 1713188783,
+    "picture": "https://img.freepik.com/free-photo/cityscape-rome-ancient-centre-italy_1268-20482.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bGFwc2Vke9495206.mp3"
+  },
+  {
+    "id": 8082,
+    "combinedTranslation": "схема, плата",
+    "wordValue": "circuit",
+    "transcription": "ˈsɜrkət",
+    "created": 1713187784,
+    "picture": "https://img.freepik.com/free-vector/circuit-board-seamless-pattern_98292-3920.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y2lyY3VpdA==1a33f66f.mp3"
+  },
+  {
+    "id": 24215,
+    "combinedTranslation": "высокий",
+    "wordValue": "lofty",
+    "transcription": "lˈɒfti",
+    "created": 1713187710,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/1211612.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bG9mdHk=e83144cc.mp3"
+  },
+  {
+    "id": 123962,
+    "combinedTranslation": "увёл в сторону",
+    "wordValue": "sidetracked",
+    "transcription": "sˈaɪdtrækt",
+    "created": 1713187132,
+    "picture": "https://img.freepik.com/premium-photo/close-up-jumping-spider-rock-generative-ai_1173418-1078.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c2lkZXRyYWNrZWQ=0cba543e.mp3"
+  },
+  {
+    "id": 10814,
+    "combinedTranslation": "по-любительски",
+    "wordValue": "dabble",
+    "transcription": "dˈæbl",
+    "created": 1713186715,
+    "picture": "https://img.freepik.com/free-vector/serene-ducks-water-illustration_1308-162857.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZGFiYmxle4cd13b1.mp3"
+  },
+  {
+    "id": 1977,
+    "combinedTranslation": "приверженец",
+    "wordValue": "adherent",
+    "transcription": "ədhˈɪəːrənt",
+    "created": 1713185344,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/967508.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YWRoZXJlbnQ=07060504.mp3"
+  },
+  {
+    "id": 1336539054,
+    "combinedTranslation": "чрезмерный",
+    "wordValue": "inordinate",
+    "transcription": "ɪnˈɔːdɪnət",
+    "created": 1713185290,
+    "picture": "https://img.freepik.com/premium-photo/closeup-shot-cascading-waterfall-surrounded-by-excessive-greenery-creative-resource-ai-generated_581634-20177.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aW5vcmRpbmF0ZQ==3a345aad.mp3"
+  },
+  {
+    "id": 1989548816,
+    "combinedTranslation": "расплывчатый",
+    "wordValue": "nebulous",
+    "transcription": "nˈebjʊləs",
+    "created": 1713185008,
+    "picture": "https://img.freepik.com/free-photo/view-person-holding-nebulizer-hand_23-2150574046.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bmVidWxvdXM=75ec557b.mp3"
+  },
+  {
     "id": 45324,
     "combinedTranslation": "оптом, массово",
     "wordValue": "wholesale",
@@ -12088,7 +12169,7 @@
   },
   {
     "id": 8751,
-    "combinedTranslation": "гарантия",
+    "combinedTranslation": "гарантия; побочный",
     "wordValue": "collateral",
     "transcription": "kəˈlætərəl",
     "created": 1528761600,
