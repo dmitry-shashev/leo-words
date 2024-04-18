@@ -1,5 +1,86 @@
 [
   {
+    "id": 19431,
+    "combinedTranslation": "вес, взвесить",
+    "wordValue": "heft",
+    "transcription": "hˈeft",
+    "created": 1713450358,
+    "picture": "https://img.freepik.com/free-psd/ringed-notebook-mockup-template_1051-2872.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aGVmdA==fa438489.mp3"
+  },
+  {
+    "id": 12669,
+    "combinedTranslation": "разрушать",
+    "wordValue": "disrupt",
+    "transcription": "dɪsˈrʌpt",
+    "created": 1713448784,
+    "picture": "https://img.freepik.com/free-photo/technology-human-touch-background-modern-remake-creation-adam_53876-129794.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZGlzcnVwdA==857ab7ed.mp3"
+  },
+  {
+    "id": 88543,
+    "combinedTranslation": "собирать",
+    "wordValue": "foraging",
+    "transcription": "fˈɒrɪdʒɪŋ",
+    "created": 1713443363,
+    "picture": "https://img.freepik.com/free-vector/haystack-set-isolated-white-background_107791-27063.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Zm9yYWdpbmc=c081d453.mp3"
+  },
+  {
+    "id": 124771,
+    "combinedTranslation": "самородок частица чего-то ценного",
+    "wordValue": "nuggets",
+    "transcription": "ˈnʌgəts",
+    "created": 1713443346,
+    "picture": "https://img.freepik.com/free-psd/french-fries-with-sauce-round-basket-transparent-background_84443-1446.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bnVnZ2V0cw==a3fbc3b6.mp3"
+  },
+  {
+    "id": 23972,
+    "combinedTranslation": "родословная, потомок",
+    "wordValue": "lineage",
+    "transcription": "lˈɪniɪdʒ",
+    "created": 1713441041,
+    "picture": "https://img.freepik.com/free-vector/collection-royal-crown-vectors_53876-67756.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bGluZWFnZQ==ef442742.mp3"
+  },
+  {
+    "id": 1008251645,
+    "combinedTranslation": "отвратительный",
+    "wordValue": "heinous",
+    "transcription": "hˈeɪːnəs",
+    "created": 1713440804,
+    "picture": "https://img.freepik.com/premium-photo/red-moon-forest-horror-halloween-design-high-quality-photo_928709-16568.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aGVpbm91cw==830c1f24.mp3"
+  },
+  {
+    "id": 2034,
+    "combinedTranslation": "предостерегать",
+    "wordValue": "admonish",
+    "transcription": "ədmˈɒnɪʃ",
+    "created": 1713440654,
+    "picture": "https://img.freepik.com/free-photo/i-told-you-angry-displeased-dark-skinned-woman-warns-someone-raises-fore-finger-with-strict-expression-shows-admonishing-gesture-sticks-out-head-surrounded-by-paper-colorful-adhesive-notes_273609-37623.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YWRtb25pc2g=90f3b0e6.mp3"
+  },
+  {
+    "id": 1768720250,
+    "combinedTranslation": "сложный",
+    "wordValue": "intricate",
+    "transcription": "ˈɪntrɪkət",
+    "created": 1713368303,
+    "picture": "https://img.freepik.com/free-photo/precision-machinery-shapes-golden-substance-with-robotic-exactitude_91128-4554.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aW50cmljYXRl6ea77698.mp3"
+  },
+  {
+    "id": 1026595873,
+    "combinedTranslation": "плодовитый",
+    "wordValue": "prolific",
+    "transcription": "prəʊˈlɪfɪk",
+    "created": 1713364701,
+    "picture": "https://img.freepik.com/free-photo/closeup-red-ibis-wild-against-blurred-background_169016-20287.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cHJvbGlmaWM=31eeea59.mp3"
+  },
+  {
     "id": 23643,
     "combinedTranslation": "законодательство",
     "wordValue": "legislation",
