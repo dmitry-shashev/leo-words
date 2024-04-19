@@ -1,6 +1,6 @@
 {
   "name": "leo-words",
-  "version": "0.0.95",
+  "version": "0.0.96",
   "private": true,
   "scripts": {
     "prepare": "husky",
@@ -40,7 +40,7 @@
     "@testing-library/react": "14.2.2",
     "@types/node": "^20.12.7",
     "@types/pluralize": "0.0.33",
-    "@types/react": "^18.2.78",
+    "@types/react": "^18.2.79",
     "@types/react-dom": "^18.2.25",
     "@typescript-eslint/eslint-plugin": "7.5.0",
     "@vitejs/plugin-react": "4.2.1",
