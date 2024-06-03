@@ -1,5 +1,743 @@
 [
   {
+    "id": 1141664753,
+    "combinedTranslation": "Быть уволенным",
+    "wordValue": "get sacked",
+    "transcription": "gɛt sˈækt",
+    "created": 1717420426,
+    "picture": "https://img.freepik.com/free-vector/men-with-finance-service-tax-money_24877-53412.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Z2V0IHNhY2tlZA==4a0f75fb.mp3"
+  },
+  {
+    "id": 65210,
+    "combinedTranslation": "хныканье",
+    "wordValue": "whimpering",
+    "transcription": "wˈɪmpərɪŋ",
+    "created": 1717420218,
+    "picture": "https://img.freepik.com/free-vector/whimper-pop-art-comic-speech-bubbles-book-sound-effects_1142-8456.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/d2hpbXBlcmluZw==5ed5bb8c.mp3"
+  },
+  {
+    "id": 25301,
+    "combinedTranslation": "вмешиваться",
+    "wordValue": "meddle",
+    "transcription": "mˈedl",
+    "created": 1717420038,
+    "picture": "https://img.freepik.com/free-photo/oriental-arabic-turkish-food-humus-with-pomegranate-seeds_114579-40.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bWVkZGxle1639db1.mp3"
+  },
+  {
+    "id": 190901,
+    "combinedTranslation": "песочные часы",
+    "wordValue": "hourglasses",
+    "transcription": "ˈaʊːəglɑːsɪz",
+    "created": 1717419889,
+    "picture": "https://img.freepik.com/free-vector/realistic-hourglass-transparent-sand-clock_107791-2330.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aG91cmdsYXNzZXM=fd815757.mp3"
+  },
+  {
+    "id": 5568,
+    "combinedTranslation": "неловкий",
+    "wordValue": "blundering",
+    "transcription": "blˈʌndərɪŋ",
+    "created": 1717419714,
+    "picture": "https://img.freepik.com/free-photo/hair-panic-business-student-studio_1262-2726.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Ymx1bmRlcmluZw==17c4b5c1.mp3"
+  },
+  {
+    "id": 18654,
+    "combinedTranslation": "обличье",
+    "wordValue": "guise",
+    "transcription": "gˈaɪz",
+    "created": 1717418871,
+    "picture": "https://img.freepik.com/free-vector/isometric-set-icons-with-bookmaker-work-different-guises-stages-work-isolated-illustration_1284-65451.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Z3Vpc2U=99b5a2f5.mp3"
+  },
+  {
+    "id": 24478,
+    "combinedTranslation": "колыбельная",
+    "wordValue": "lullaby",
+    "transcription": "ˈlʌləbaɪ",
+    "created": 1717409273,
+    "picture": "https://img.freepik.com/free-vector/sleeping-babies-set_1284-26133.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bHVsbGFieQ==e38a3e1a.mp3"
+  },
+  {
+    "id": 15890,
+    "combinedTranslation": "возящийся с чем-либо",
+    "wordValue": "fiddling",
+    "transcription": "fˈɪdlɪŋ",
+    "created": 1717409202,
+    "picture": "https://img.freepik.com/free-psd/violin-isolated-transparent-background_191095-32487.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZmlkZGxpbmc=e0d01560.mp3"
+  },
+  {
+    "id": 38019,
+    "combinedTranslation": "успокоиться",
+    "wordValue": "soothe",
+    "transcription": "sˈuːð",
+    "created": 1717344979,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/96280.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c29vdGhl46a04719.mp3"
+  },
+  {
+    "id": 1945009547,
+    "combinedTranslation": "душно",
+    "wordValue": "stiflingly",
+    "transcription": "stˈaɪlɪŋli",
+    "created": 1717252881,
+    "picture": "https://img.freepik.com/free-photo/medical-student-are-practicing_1157-42482.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c3RpZmxpbmdseQ==4cd06887.mp3"
+  },
+  {
+    "id": 185530,
+    "combinedTranslation": "замалчивать, скрывать, замять дело.",
+    "wordValue": "hush up",
+    "transcription": "hˈʌʃ ʌp",
+    "created": 1717252836,
+    "picture": "https://img.freepik.com/free-photo/expressive-young-girl-posing-studio_176474-79937.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aHVzaCB1cA==958c8801.mp3"
+  },
+  {
+    "id": 33613,
+    "combinedTranslation": "рассказывать",
+    "wordValue": "recite",
+    "transcription": "rɪsˈaɪt",
+    "created": 1717162488,
+    "picture": "https://img.freepik.com/free-vector/music-notes-stave-staff_1284-44373.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cmVjaXRl87343da4.mp3"
+  },
+  {
+    "id": 30291,
+    "combinedTranslation": "окаменеть",
+    "wordValue": "petrify",
+    "transcription": "pˈetrɪfaɪː",
+    "created": 1717162046,
+    "picture": "https://img.freepik.com/free-photo/closeup-portrait-petrified-young-handsome-man-looking-shocked-surprised-disbelief-hands-covering-mouth-big-eyes-isolated-white-wall-positive-human-emotion-facial-expression-feeling_231208-591.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cGV0cmlmeQ==821d63a8.mp3"
+  },
+  {
+    "id": 6253,
+    "combinedTranslation": "задумчивый",
+    "wordValue": "brood",
+    "transcription": "brˈuːd",
+    "created": 1717160919,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/45680.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YnJvb2Q=b03c5f54.mp3"
+  },
+  {
+    "id": 45922,
+    "combinedTranslation": "визг",
+    "wordValue": "yelp",
+    "transcription": "jˈelp",
+    "created": 1717160764,
+    "picture": "https://img.freepik.com/free-vector/yelp-comic-bright-template-with-speech-bubbles-colorful-frames_1142-11057.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/eWVscA==b9ef7168.mp3"
+  },
+  {
+    "id": 35935,
+    "combinedTranslation": "борьба",
+    "wordValue": "scuffle",
+    "transcription": "skˈʌfl",
+    "created": 1717160740,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/46468.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c2N1ZmZsZQ==eb6ce859.mp3"
+  },
+  {
+    "id": 37978,
+    "combinedTranslation": "сальто",
+    "wordValue": "somersault",
+    "transcription": "sˈʌməsɔːlt",
+    "created": 1717066082,
+    "picture": "https://img.freepik.com/free-photo/athletic-male-exercising-black-background_23-2148252923.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c29tZXJzYXVsdA==17a0dc45.mp3"
+  },
+  {
+    "id": 456132,
+    "combinedTranslation": "пережитки",
+    "wordValue": "holdovers",
+    "transcription": "houldəʊːvəz",
+    "created": 1717012797,
+    "picture": "https://img.freepik.com/premium-photo/3d-render-golden-monument-sitting-position-blue-background-ancient-rome_398034-464.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aG9sZG92ZXJz9be153d5.mp3"
+  },
+  {
+    "id": 1229833511,
+    "combinedTranslation": "староста",
+    "wordValue": "head boy",
+    "transcription": "hˈed bɔɪ",
+    "created": 1716987289,
+    "picture": "https://img.freepik.com/free-vector/neutralfaced-boy-wearing-beanie-hat_1308-153917.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aGVhZCBib3k=3a6a249e.mp3"
+  },
+  {
+    "id": 58494,
+    "combinedTranslation": "прикованный к месту",
+    "wordValue": "transfixed",
+    "transcription": "trænsfˈɪkst",
+    "created": 1716987263,
+    "picture": "https://img.freepik.com/premium-photo/beautiful-neon-beetle-blue-orange-ai-generation_904009-3.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dHJhbnNmaXhlZA==be6fd4a0.mp3"
+  },
+  {
+    "id": 1002542079,
+    "combinedTranslation": "сердито",
+    "wordValue": "crossly",
+    "transcription": "krˈɒsli",
+    "created": 1716987013,
+    "picture": "https://img.freepik.com/free-photo/photo-angry-caucasian-woman-clenches-fist-comes-argue-complains-about-noise-looks-crossly-camera_273609-38943.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y3Jvc3NseQ==cdb79e75.mp3"
+  },
+  {
+    "id": 1161050897,
+    "combinedTranslation": "заместитель",
+    "wordValue": "lieu",
+    "transcription": "lˈuː",
+    "created": 1716985473,
+    "picture": "https://img.freepik.com/premium-photo/beautiful-sunset-mountains-binh-lieu-quang-ninh-vietnam-border-landscape-photography_389400-36.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bGlldQ==3cab4c9e.mp3"
+  },
+  {
+    "id": 53054,
+    "combinedTranslation": "подпираемый",
+    "wordValue": "propped",
+    "transcription": "prˈɒpt",
+    "created": 1716896291,
+    "picture": "https://img.freepik.com/free-vector/flat-design-speech-bubble-booth-props-collection_23-2149458733.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cHJvcHBlZA==ee71e222.mp3"
+  },
+  {
+    "id": 1130913826,
+    "combinedTranslation": "приоткрытый",
+    "wordValue": "ajar",
+    "transcription": "ədʒˈɑː",
+    "created": 1716896140,
+    "picture": "https://img.freepik.com/free-vector/open-closed-white-wooden-doors_1441-4168.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YWphcg==7b9dad34.mp3"
+  },
+  {
+    "id": 37018,
+    "combinedTranslation": "крик",
+    "wordValue": "shriek",
+    "transcription": "ʃrˈiːk",
+    "created": 1716895887,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/590962.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c2hyaWVr0903e81e.mp3"
+  },
+  {
+    "id": 2020524414,
+    "combinedTranslation": "творог",
+    "wordValue": "cottage cheese",
+    "transcription": "ˈkɑtəʤ ʧiz",
+    "created": 1716895853,
+    "picture": "https://img.freepik.com/free-photo/wooden-cup-yogurt-soup-with-herbs_114579-19597.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y290dGFnZSBjaGVlc2U=66b74f04.mp3"
+  },
+  {
+    "id": 10655,
+    "combinedTranslation": "сворачиваться",
+    "wordValue": "curdle",
+    "transcription": "kˈɜːdl",
+    "created": 1716895818,
+    "picture": "https://img.freepik.com/premium-photo/milk-yogurt-with-blueberries-raspberries-detox-copy-space_119703-42.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y3VyZGxl131cdb2c.mp3"
+  },
+  {
+    "id": 1880714576,
+    "combinedTranslation": "зловещий",
+    "wordValue": "eerie",
+    "transcription": "ˈɪəːri",
+    "created": 1716895589,
+    "picture": "https://img.freepik.com/free-photo/horror-scene-with-eerie-hall_23-2150975360.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZWVyaWU=8446e038.mp3"
+  },
+  {
+    "id": 16386,
+    "combinedTranslation": "хрупкий",
+    "wordValue": "flimsy",
+    "transcription": "flˈɪmzi",
+    "created": 1716894773,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/2035169.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZmxpbXN5771b005a.mp3"
+  },
+  {
+    "id": 1990421700,
+    "combinedTranslation": "полноценный",
+    "wordValue": "full-blown",
+    "transcription": "fˈʊl bloun",
+    "created": 1716894314,
+    "picture": "https://img.freepik.com/free-photo/emotional-astonished-oyung-dark-skinned-man-glasses-checkered-shirt-touching-head-full-disbelief-surprised-shocked-with-positive-unexpected-news-human-face-expressions-emotions_273609-201.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZnVsbC1ibG93bg==1bc8cc6e.mp3"
+  },
+  {
+    "id": 1779699283,
+    "combinedTranslation": "равносильно",
+    "wordValue": "tantamount",
+    "transcription": "tˈæntəmaʊːnt",
+    "created": 1716894208,
+    "picture": "https://img.freepik.com/premium-photo/close-style-exploration-intimacy-proximity_1015980-11962.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dGFudGFtb3VudA==ed3fe4fe.mp3"
+  },
+  {
+    "id": 128115,
+    "combinedTranslation": "оптимизация",
+    "wordValue": "streamlining",
+    "transcription": "strˈiːmlaɪːnɪŋ",
+    "created": 1716893931,
+    "picture": "https://img.freepik.com/free-vector/red-black-dark-gaming-banner-design_1017-39379.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c3RyZWFtbGluaW5n7580c8b6.mp3"
+  },
+  {
+    "id": 9498,
+    "combinedTranslation": "интерпретировать",
+    "wordValue": "construe",
+    "transcription": "kənstrˈuː",
+    "created": 1716892136,
+    "picture": "https://img.freepik.com/premium-photo/foreman-orange-overall-hardhat-holding-tablet-computer-walking-around-house-constru_274689-28883.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y29uc3RydWU=288e26d2.mp3"
+  },
+  {
+    "id": 19726,
+    "combinedTranslation": "препятствовать",
+    "wordValue": "hinder",
+    "transcription": "hˈɪndə",
+    "created": 1716891846,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3067711.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aGluZGVya3570fdf.mp3"
+  },
+  {
+    "id": 2052814702,
+    "combinedTranslation": "без разбора",
+    "wordValue": "indiscriminately",
+    "transcription": "ɪndɪskrˈɪmɪnətli",
+    "created": 1716891019,
+    "picture": "https://img.freepik.com/premium-vector/seamless-pattern-with-abstract-shapes-squares-circles_514879-400.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aW5kaXNjcmltaW5hdGVseQ==7b9bb10a.mp3"
+  },
+  {
+    "id": 10507,
+    "combinedTranslation": "сдобная лепешка",
+    "wordValue": "crumpet",
+    "transcription": "ˈkrəmpət",
+    "created": 1716812484,
+    "picture": "https://img.freepik.com/free-vector/tomato-sauce-toast_1308-26442.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y3J1bXBldA==f93a1257.mp3"
+  },
+  {
+    "id": 6024,
+    "combinedTranslation": "размахивать",
+    "wordValue": "brandish",
+    "transcription": "brˈændɪʃ",
+    "created": 1716812247,
+    "picture": "https://img.freepik.com/free-vector/angry-cowboy-holding-gun-cartoon-character_1308-159967.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YnJhbmRpc2g=08cf6d97.mp3"
+  },
+  {
+    "id": 1245937412,
+    "combinedTranslation": "экономить на",
+    "wordValue": "skimp on",
+    "transcription": "skˈɪmp ɑn",
+    "created": 1716810427,
+    "picture": "https://img.freepik.com/free-vector/hand-drawn-flat-design-crawfish-illustration_23-2149234566.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c2tpbXAgb24=0d6940ef.mp3"
+  },
+  {
+    "id": 1581701606,
+    "combinedTranslation": "неустойчивый",
+    "wordValue": "erratic",
+    "transcription": "ɪrˈætɪk",
+    "created": 1716809203,
+    "picture": "https://img.freepik.com/premium-photo/unique-formation-rock-olmsted-point-yosemite-national-park_33765-442.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZXJyYXRpYw==f5607db0.mp3"
+  },
+  {
+    "id": 185800,
+    "combinedTranslation": "сглазить",
+    "wordValue": "jinxing",
+    "transcription": "dʒˈɪŋksɪŋ",
+    "created": 1716712410,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/89073.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/amlueGluZw==c0d4cd4b.mp3"
+  },
+  {
+    "id": 24530,
+    "combinedTranslation": "крен",
+    "wordValue": "lurch",
+    "transcription": "lˈɜːtʃ",
+    "created": 1716712142,
+    "picture": "https://img.freepik.com/free-photo/frog-swimming_1160-13.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bHVyY2g=74f438b4.mp3"
+  },
+  {
+    "id": 38588,
+    "combinedTranslation": "рывок",
+    "wordValue": "spurt",
+    "transcription": "spˈɜːt",
+    "created": 1716711897,
+    "picture": "https://img.freepik.com/free-vector/explosion-realistic-composition-with-transparent-background-monochrome-image-dust-particles-clouds-smoke-vector-illustration_1284-66702.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c3B1cnQ=09f3d928.mp3"
+  },
+  {
+    "id": 26622,
+    "combinedTranslation": "шёпот",
+    "wordValue": "murmur",
+    "transcription": "mˈɜːmə",
+    "created": 1716711796,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/949898.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bXVybXVy03496573.mp3"
+  },
+  {
+    "id": 8188,
+    "combinedTranslation": "карабкаться",
+    "wordValue": "clamber",
+    "transcription": "klˈæmbə",
+    "created": 1716711294,
+    "picture": "https://img.freepik.com/free-photo/cheerful-teen-friends-climbing-net-playground_23-2148208767.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y2xhbWJlcg==d059c471.mp3"
+  },
+  {
+    "id": 1828716866,
+    "combinedTranslation": "образный",
+    "wordValue": "figurative",
+    "transcription": "fˈɪgjərətɪv",
+    "created": 1716659280,
+    "picture": "https://img.freepik.com/free-photo/figure-skating-girl-ice-arena_654080-2219.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZmlndXJhdGl2ZQ==01d18556.mp3"
+  },
+  {
+    "id": 51272,
+    "combinedTranslation": "задняя площадка",
+    "wordValue": "courtyard",
+    "transcription": "kˈɔːtjɑːd",
+    "created": 1716584348,
+    "picture": "https://img.freepik.com/free-photo/courtyard-rural-house-building-with-grass-trees_1258-52399.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y291cnR5YXJkcc2464e4.mp3"
+  },
+  {
+    "id": 1445816536,
+    "combinedTranslation": "поношенный",
+    "wordValue": "shopworn",
+    "transcription": "ʃˈɒpwɔːn",
+    "created": 1716582257,
+    "picture": "https://img.freepik.com/premium-photo/fresh-raw-cod-fish-ice-seafood-background-generative-ai_849006-8021.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c2hvcHdvcm4=a2c0eb0b.mp3"
+  },
+  {
+    "id": 1336237694,
+    "combinedTranslation": "непрекращающийся",
+    "wordValue": "nonterminating",
+    "transcription": "",
+    "created": 1716552138,
+    "picture": "https://img.freepik.com/free-vector/debugging-firewall-antivirus-scanning-malware-fixing-virus-attack-trojan-search-bugs-detection-system-protection-threat-diagnostic-crash-tester-isolated-concept-metaphor-illustration_335657-1189.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bm9udGVybWluYXRpbmc=9f059328.mp3"
+  },
+  {
+    "id": 1382827086,
+    "combinedTranslation": "симпатия",
+    "wordValue": "fondness",
+    "transcription": "fˈɒndnəs",
+    "created": 1716548884,
+    "picture": "https://img.freepik.com/free-photo/woman-holding-heart-shaped-object_23-2150703740.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Zm9uZG5lc3M=ed1da784.mp3"
+  },
+  {
+    "id": 33522,
+    "combinedTranslation": "тыл",
+    "wordValue": "rear",
+    "transcription": "rɪr",
+    "created": 1716548602,
+    "picture": "https://img.freepik.com/free-vector/realistic-illustration-black-rear-view-mirror-with-reflection_33099-844.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cmVhcg==fd06f58d.mp3"
+  },
+  {
+    "id": 5887,
+    "combinedTranslation": "камень",
+    "wordValue": "boulder",
+    "transcription": "ˈboʊldər",
+    "created": 1716547826,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/741023.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Ym91bGRlcg==c3ab95f5.mp3"
+  },
+  {
+    "id": 16627,
+    "combinedTranslation": "шаг",
+    "wordValue": "footfall",
+    "transcription": "fˈʊtfɔːl",
+    "created": 1716547728,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/153881.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Zm9vdGZhbGw=0b57cb97.mp3"
+  },
+  {
+    "id": 1036701771,
+    "combinedTranslation": "косо",
+    "wordValue": "askew",
+    "transcription": "əskjˈuː",
+    "created": 1716547361,
+    "picture": "https://img.freepik.com/free-photo/crazy-businessman-fooling-camera_1262-17006.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YXNrZXc=4ef062f0.mp3"
+  },
+  {
+    "id": 543871,
+    "combinedTranslation": "картошка в мундире",
+    "wordValue": "jacket potato",
+    "transcription": "dʒˈækɪt pətˈeɪːtəʊː",
+    "created": 1716547330,
+    "picture": "https://img.freepik.com/free-photo/fried-potatoes-with-herbs-takeaway-black-container_114579-745.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/amFja2V0IHBvdGF0bw==aae5634c.mp3"
+  },
+  {
+    "id": 1446031081,
+    "combinedTranslation": "взгромоздившись на",
+    "wordValue": "perched on",
+    "transcription": "pˈɜːtʃt ɑn",
+    "created": 1716546947,
+    "picture": "https://img.freepik.com/free-photo/closeup-shot-small-bird-sitting-rope_181624-26381.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cGVyY2hlZCBvbg==3a03698c.mp3"
+  },
+  {
+    "id": 121898,
+    "combinedTranslation": "доносящийся",
+    "wordValue": "wafting",
+    "transcription": "wˈɒftɪŋ",
+    "created": 1716546815,
+    "picture": "https://img.freepik.com/free-photo/smoke-wafts-from-doughnut-drizzled-with-syrup-berries-plate_91128-4611.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/d2FmdGluZw==d47fb3d0.mp3"
+  },
+  {
+    "id": 29880,
+    "combinedTranslation": "раздражать",
+    "wordValue": "peeve",
+    "transcription": "pˈiːv",
+    "created": 1716543622,
+    "picture": "https://img.freepik.com/free-photo/attractive-young-lady-blouse-holding-hands-waist-pouting-lips-looking-grumpy-front-view_176474-90820.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cGVldmU=1649a46e.mp3"
+  },
+  {
+    "id": 1122574055,
+    "combinedTranslation": "выплата",
+    "wordValue": "disbursal",
+    "transcription": "",
+    "created": 1716542779,
+    "picture": "https://img.freepik.com/free-photo/portrait-puzzled-female-with-dark-hair-standing-with-cell-phone-credit-card-hands-shrugging-shoulders-does-know-how-spent-all-money-from-her-bank-card_176532-15196.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZGlzYnVyc2Fs29cf5a0a.mp3"
+  },
+  {
+    "id": 40967,
+    "combinedTranslation": "Словарь синонимов",
+    "wordValue": "thesaurus",
+    "transcription": "θəˈsɔrəs",
+    "created": 1716542741,
+    "picture": "https://img.freepik.com/free-vector/25-school-science-flat-color-icon-pack-vector-icons-illustration_1142-17515.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dGhlc2F1cnVz488a143b.mp3"
+  },
+  {
+    "id": 34100,
+    "combinedTranslation": "остаток",
+    "wordValue": "remnant",
+    "transcription": "rˈemnənt",
+    "created": 1716542283,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/96859.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cmVtbmFudA==4f871b6a.mp3"
+  },
+  {
+    "id": 2005702922,
+    "combinedTranslation": "экспромтом",
+    "wordValue": "offhand",
+    "transcription": "ɒfhˈænd",
+    "created": 1716459742,
+    "picture": "https://img.freepik.com/premium-photo/off-grid-escaping-chaos-modern-life_983420-24024.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/b2ZmaGFuZA==a1aa1cbc.mp3"
+  },
+  {
+    "id": 19973,
+    "combinedTranslation": "кольцо",
+    "wordValue": "hoop",
+    "transcription": "hup",
+    "created": 1716459252,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3240232.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aG9vcA==0a0b24d3.mp3"
+  },
+  {
+    "id": 160529,
+    "combinedTranslation": "одеяло",
+    "wordValue": "bedspread",
+    "transcription": "bˈedsprɛd",
+    "created": 1716459129,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/531938.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YmVkc3ByZWFk44516fa4.mp3"
+  },
+  {
+    "id": 49299,
+    "combinedTranslation": "топать",
+    "wordValue": "stomp",
+    "transcription": "stˈɒmp",
+    "created": 1716459000,
+    "picture": "https://img.freepik.com/free-photo/bass-guitar-player-stage-with-set-distortion-effect-pedals_169016-13128.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c3RvbXA=feea69a8.mp3"
+  },
+  {
+    "id": 38412,
+    "combinedTranslation": "обида",
+    "wordValue": "spite",
+    "transcription": "spˈaɪt",
+    "created": 1716385958,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/94560.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c3BpdGU=1368f666.mp3"
+  },
+  {
+    "id": 58802,
+    "combinedTranslation": "перекрытый",
+    "wordValue": "barred",
+    "transcription": "bˈɑːd",
+    "created": 1716385915,
+    "picture": "https://img.freepik.com/free-photo/bartender-making-delicious-refreshing-cocktail_23-2149093595.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YmFycmVk636e43df.mp3"
+  },
+  {
+    "id": 41967,
+    "combinedTranslation": "люк",
+    "wordValue": "trapdoor",
+    "transcription": "træpdˈɔː",
+    "created": 1716385467,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/86122.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dHJhcGRvb3I=a0a4e6b5.mp3"
+  },
+  {
+    "id": 1165291319,
+    "combinedTranslation": "нащупывать",
+    "wordValue": "gropey",
+    "transcription": "",
+    "created": 1716385250,
+    "picture": "https://img.freepik.com/free-vector/group-people_23-2148452114.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Z3JvcGV52b51e21d.mp3"
+  },
+  {
+    "id": 35331,
+    "combinedTranslation": "слюна",
+    "wordValue": "saliva",
+    "transcription": "səlˈaɪvə",
+    "created": 1716385152,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/1804835.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c2FsaXZhc438dfea.mp3"
+  },
+  {
+    "id": 44566,
+    "combinedTranslation": "талия",
+    "wordValue": "waist",
+    "transcription": "weɪst",
+    "created": 1716197784,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3234484.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/d2Fpc3Q=455c68ec.mp3"
+  },
+  {
+    "id": 61720,
+    "combinedTranslation": "окаменеть",
+    "wordValue": "petrified",
+    "transcription": "pˈetrɪfaɪːd",
+    "created": 1716197633,
+    "picture": "https://img.freepik.com/free-photo/closeup-portrait-petrified-young-handsome-man-looking-shocked-surprised-disbelief-hands-covering-mouth-big-eyes-isolated-white-wall-positive-human-emotion-facial-expression-feeling_231208-591.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cGV0cmlmaWVka4d3126e.mp3"
+  },
+  {
+    "id": 4714,
+    "combinedTranslation": "делать знак (рукой",
+    "wordValue": "beckon",
+    "transcription": "bˈekən",
+    "created": 1716197268,
+    "picture": "https://img.freepik.com/free-vector/shrug-concept-illustration_114360-8893.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YmVja29ueee08ec0.mp3"
+  },
+  {
+    "id": 30953,
+    "combinedTranslation": "банальность",
+    "wordValue": "platitude",
+    "transcription": "plˈætɪtjud",
+    "created": 1716196949,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/405769.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cGxhdGl0dWRl59f16e5c.mp3"
+  },
+  {
+    "id": 125051,
+    "combinedTranslation": "шабашка",
+    "wordValue": "moonlighting",
+    "transcription": "mˈuːnlaɪːtɪŋ",
+    "created": 1716196472,
+    "picture": "https://img.freepik.com/free-vector/night-landscape-with-lake-mountains-trees-coast-vector-cartoon-illustration-nature-scene-with-coniferous-forest-river-shore-rocks-moon-stars-dark-sky_107791-8253.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bW9vbmxpZ2h0aW5ndb106acc.mp3"
+  },
+  {
+    "id": 11507,
+    "combinedTranslation": "преступник",
+    "wordValue": "delinquent",
+    "transcription": "dɪlˈɪŋkwənt",
+    "created": 1716196360,
+    "picture": "https://img.freepik.com/free-photo/close-up-man-trying-break-into-car_23-2149133090.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZGVsaW5xdWVudA==d548729d.mp3"
+  },
+  {
+    "id": 37781,
+    "combinedTranslation": "морда",
+    "wordValue": "snout",
+    "transcription": "snaʊt",
+    "created": 1716139480,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/38195.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c25vdXQ=9f9849db.mp3"
+  },
+  {
+    "id": 37813,
+    "combinedTranslation": "говорить в нос",
+    "wordValue": "snuffle",
+    "transcription": "snˈʌfl",
+    "created": 1716139375,
+    "picture": "https://img.freepik.com/free-photo/sick-woman-with-rheum-headache-holding-napkin-sitting-sofa-with-coverlet-pills-home_231208-5465.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c251ZmZsZQ==f781f318.mp3"
+  },
+  {
+    "id": 68793,
+    "combinedTranslation": "в окружении",
+    "wordValue": "flanked",
+    "transcription": "flˈæŋkt",
+    "created": 1716138730,
+    "picture": "https://img.freepik.com/free-vector/diagrams-butcher-shop-set_1284-47512.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZmxhbmtlZA==ce10d05b.mp3"
+  },
+  {
+    "id": 6489,
+    "combinedTranslation": "крепкий",
+    "wordValue": "burly",
+    "transcription": "bˈɜːli",
+    "created": 1716138301,
+    "picture": "https://img.freepik.com/free-vector/purple-burred-background_23-2147541276.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YnVybHk=a396f3be.mp3"
+  },
+  {
+    "id": 25827,
+    "combinedTranslation": "смешивать",
+    "wordValue": "mingle",
+    "transcription": "mˈɪŋgl",
+    "created": 1716137929,
+    "picture": "https://img.freepik.com/free-vector/illustration-international-diverse-people_53876-40772.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bWluZ2xl5def361e.mp3"
+  },
+  {
+    "id": 1533165232,
+    "combinedTranslation": "слышимость",
+    "wordValue": "earshot",
+    "transcription": "ˈɪəːʃɒt",
+    "created": 1716137515,
+    "picture": "https://img.freepik.com/premium-photo/cathedral-savior-spilled-blood-close-up-saint-petersburg-russia_501530-5057.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZWFyc2hvdA==e568474f.mp3"
+  },
+  {
+    "id": 1454594475,
+    "combinedTranslation": "наводненный",
+    "wordValue": "awash",
+    "transcription": "əwˈɒʃ",
+    "created": 1716133543,
+    "picture": "https://img.freepik.com/free-photo/nature-majestic-beauty-coastline-awashed-sunset-generative-ai_188544-12583.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YXdhc2g=5e0606e0.mp3"
+  },
+  {
     "id": 1897912480,
     "combinedTranslation": "злорадно",
     "wordValue": "gloatingly",
