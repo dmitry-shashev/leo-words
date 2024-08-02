@@ -26,7 +26,6 @@ export const WordView: FC = () => {
   const nextPrev10Words = useSelector(getNextPrev10Words)
   const speedMode = useSelector(getSettingsSpeedMode)
 
-  // const wordValue = 'Some day we are'
   let valueFontSize = 'text-5xl'
   if (wordValue.length > 16) {
     valueFontSize = 'text-3xl'
