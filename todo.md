@@ -1,7 +1,5 @@
-Update packages
+Irregular verbs
 
-Connect the error handling service
+Common sentences
 
-Improve core logic
-
-Packages auto update
+Get examples from the dictionary

@@ -70,7 +70,7 @@ export const wordsSlice: Slice<
       state.finishedWords = []
       state.wrongWords = []
       state.allWords = action.payload
-      state.currentWord = state.allWords[0]!
+      state.currentWord = action.payload[0]!
     },
     //----------------------------------------------------------------
     goToCheckState(state) {
