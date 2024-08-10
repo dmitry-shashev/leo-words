@@ -39,7 +39,6 @@ async function findImg(search: string): Promise<string> {
       // eslint-disable-next-line no-console
       console.log(`Apply to  ${w.wordValue}[${w.id}] image: ${img}`)
     } catch (e) {
-      // @#$
       // eslint-disable-next-line no-console
       console.error(e)
     }

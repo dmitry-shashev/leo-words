@@ -12,6 +12,7 @@ import {
   sliceByTimePeriod,
 } from '@/utils/sliceWords'
 import { useDebug } from '@/hooks/useDebug'
+import { AppLoading } from '@/components/simple/AppLoading/AppLoading'
 
 interface Props {
   children: ReactNode
@@ -54,11 +55,7 @@ export const App: FC<Props> = ({ children, limit, offset, last }) => {
   }, [dispatch, allWords, limit, offset, last])
 
   if (allWords.length === 0) {
-    return (
-      <div className="flex h-80">
-        <div className="text-2xl text-blue-400 m-auto">Loading ...</div>
-      </div>
-    )
+    return <AppLoading />
   }
 
   return <>{children}</>

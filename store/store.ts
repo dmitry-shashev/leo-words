@@ -5,6 +5,7 @@ import {
 } from '@reduxjs/toolkit'
 import settingsReducer from './slices/settingsSlice'
 import wordsReducer from './slices/wordsSlice'
+import irregularWordsReducer from './slices/irregularWordsSlice'
 import { useDispatch } from 'react-redux'
 import storage from 'redux-persist/lib/storage'
 import {
@@ -26,6 +27,7 @@ const persistConfig = {
 const reducer = combineReducers({
   settingsReducer,
   wordsReducer,
+  irregularWordsReducer,
 })
 
 const persistedReducer = persistReducer(persistConfig, reducer)

@@ -51,7 +51,6 @@ export function printParseResult(result: Record<string, Array<string>>): void {
   // eslint-disable-next-line no-console
   console.log('-----------------------------------------')
   Object.entries(result).forEach(([key, values]) => {
-    // @#$
     // eslint-disable-next-line no-console
     console.log(`${key}: ${values.length}`)
     total += values.length
