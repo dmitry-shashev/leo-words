@@ -1,6 +1,6 @@
 {
   "name": "leo-words",
-  "version": "0.0.113",
+  "version": "0.0.116",
   "private": true,
   "scripts": {
     "prepare": "husky",
@@ -72,9 +72,8 @@
     "singleQuote": true,
     "bracketSpacing": true
   },
-  "packageManager": "^pnpm@8.15.1",
   "engines": {
     "node": ">=20.11.0",
-    "pnpm": ">=8.15.1"
+    "pnpm": ">=9.0.0"
   }
 }
