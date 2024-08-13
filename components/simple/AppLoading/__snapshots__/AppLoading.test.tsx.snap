@@ -1,0 +1,15 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`AppLoading 1`] = `
+<DocumentFragment>
+  <div
+    class="flex h-80"
+  >
+    <div
+      class="text-2xl text-blue-400 m-auto"
+    >
+      Loading ...
+    </div>
+  </div>
+</DocumentFragment>
+`;
