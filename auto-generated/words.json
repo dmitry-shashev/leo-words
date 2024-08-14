@@ -1,5 +1,149 @@
 [
   {
+    "id": 1419151523,
+    "combinedTranslation": "сварливый",
+    "wordValue": "shrewish",
+    "transcription": "ʃrˈuːɪʃ",
+    "created": 1723650989,
+    "picture": "https://img.freepik.com/free-vector/cute-fluffy-rat-yellow-toy-icon-isolated_24877-83618.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c2hyZXdpc2g=d551fed3.mp3"
+  },
+  {
+    "id": 108856,
+    "combinedTranslation": "Ягодица (попа)",
+    "wordValue": "buttock",
+    "transcription": "bˈʌtək",
+    "created": 1723650714,
+    "picture": "https://img.freepik.com/free-photo/woman-underwear-clutching-buttock_1301-96.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YnV0dG9jaw==b4599b47.mp3"
+  },
+  {
+    "id": 18750,
+    "combinedTranslation": "вращаться по кругу, двигаться по спирали",
+    "wordValue": "gyrate",
+    "transcription": "dʒaɪːrˈeɪːt",
+    "created": 1723650294,
+    "picture": "https://img.freepik.com/free-photo/electric-guitar-still-life_23-2151376313.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Z3lyYXRl876967c8.mp3"
+  },
+  {
+    "id": 332566,
+    "combinedTranslation": "думаю",
+    "wordValue": "hink",
+    "transcription": "hˈɪŋk",
+    "created": 1723649500,
+    "picture": "https://img.freepik.com/free-photo/unhappy-redhead-woman-makes-little-gesture-demonstrates-something-tiny-dressed-casual-jumper_273609-46991.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aGluaw==aa2e8e17.mp3"
+  },
+  {
+    "id": 1054649317,
+    "combinedTranslation": "явно",
+    "wordValue": "patently",
+    "transcription": "pˈeɪːtn̩tli",
+    "created": 1723645267,
+    "picture": "https://img.freepik.com/free-vector/flat-design-patented-label-collection_23-2149717104.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cGF0ZW50bHk=c71ed371.mp3"
+  },
+  {
+    "id": 6358,
+    "combinedTranslation": "мерзавец",
+    "wordValue": "bugger",
+    "transcription": "bˈʌgə",
+    "created": 1723567017,
+    "picture": "https://img.freepik.com/free-photo/view-delicious-burger-with-buns-cheese_23-2151281572.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YnVnZ2Vy6d4bf9f5.mp3"
+  },
+  {
+    "id": 68259,
+    "combinedTranslation": "койки, нары",
+    "wordValue": "bunks",
+    "transcription": "bˈʌŋks",
+    "created": 1723566841,
+    "picture": "https://img.freepik.com/free-vector/house-basement-room-interior_107791-26236.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YnVua3M=c55ccc87.mp3"
+  },
+  {
+    "id": 1880097428,
+    "combinedTranslation": "выкрикнуть",
+    "wordValue": "rap out",
+    "transcription": "ræp aʊt",
+    "created": 1723566470,
+    "picture": "https://img.freepik.com/free-psd/flat-design-hip-hop-music-template-design_23-2150387771.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cmFwIG91dA==7d71f69c.mp3"
+  },
+  {
+    "id": 1224888636,
+    "combinedTranslation": "плотва",
+    "wordValue": "dace",
+    "transcription": "deɪs",
+    "created": 1723476996,
+    "picture": "https://img.freepik.com/free-vector/hand-drawn-international-dance-day-illustration_23-2148890327.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZGFjZQ==8eaee304.mp3"
+  },
+  {
+    "id": 5883,
+    "combinedTranslation": "ветка",
+    "wordValue": "bough",
+    "transcription": "bˈaʊː",
+    "created": 1723476868,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/93253.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Ym91Z2g=67cb641e.mp3"
+  },
+  {
+    "id": 1881387440,
+    "combinedTranslation": "пешеходная дорожка",
+    "wordValue": "foot-track",
+    "transcription": "fˈʊt trˈæk",
+    "created": 1723472915,
+    "picture": "https://img.freepik.com/free-vector/black-dirty-isolated-footprint-track-steps-sport-shoes-set-vector-set-footprint-icon-flat-style_90220-2627.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Zm9vdC10cmFjaw==8b44bedf.mp3"
+  },
+  {
+    "id": 29623,
+    "combinedTranslation": "луг, пастбище",
+    "wordValue": "pasture",
+    "transcription": "pˈɑːstʃə",
+    "created": 1723472892,
+    "picture": "https://img.freepik.com/free-photo/herd-cows-grazing-pasture-daytime_181624-17697.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cGFzdHVyZQ==6bde0153.mp3"
+  },
+  {
+    "id": 37450,
+    "combinedTranslation": "наклонный",
+    "wordValue": "slanting",
+    "transcription": "slˈɑːntɪŋ",
+    "created": 1723472812,
+    "picture": "https://img.freepik.com/free-photo/full-length-portrait-confident-focused-sportswoman_171337-9013.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c2xhbnRpbmc=e8139f9a.mp3"
+  },
+  {
+    "id": 474397,
+    "combinedTranslation": "светлые, белокурые волосы",
+    "wordValue": "fair hair",
+    "transcription": "fˈeəː hˈeəː",
+    "created": 1723472095,
+    "picture": "https://img.freepik.com/free-photo/portrait-young-blonde-woman_273609-10461.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZmFpciBoYWly2ba5ac48.mp3"
+  },
+  {
+    "id": 1208051000,
+    "combinedTranslation": "бдительный",
+    "wordValue": "watchful",
+    "transcription": "wˈɒtʃfl",
+    "created": 1723470810,
+    "picture": "https://img.freepik.com/free-photo/insecure-nerdy-guy-glasses-suit-looking-timid-suspicious_176420-21759.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/d2F0Y2hmdWw=b192c399.mp3"
+  },
+  {
+    "id": 21448,
+    "combinedTranslation": "перегиб",
+    "wordValue": "inflection",
+    "transcription": "ɪnflˈekʃən",
+    "created": 1723470784,
+    "picture": "https://img.freepik.com/free-vector/flat-design-bankruptcy-effect-economy_23-2148494570.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aW5mbGVjdGlvbg==731c324d.mp3"
+  },
+  {
     "id": 1796477891,
     "combinedTranslation": "заправить",
     "wordValue": "tuck in",
