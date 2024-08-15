@@ -1,0 +1,117 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`TopIrregularMenu 1`] = `
+<DocumentFragment>
+  <div
+    class="flex flex-row justify-between p-1 mb-1 border-b"
+  >
+    <div
+      class="flex flex-row gap-1"
+    >
+      <div
+        class="border-r"
+      >
+        <button
+          aria-label="Shuffle"
+          class="w-10 h-10 text-gray-400 text-xl opacity-30"
+          type="button"
+        >
+          🪃
+        </button>
+      </div>
+    </div>
+    <button
+      aria-label="Words button"
+      class=" h-10 px-2 text-xl"
+      type="button"
+    >
+      <span
+        aria-label="Counter current"
+        class="text-emerald-500"
+      >
+        0
+      </span>
+      <span
+        class="mx-1"
+      >
+        /
+      </span>
+      <span
+        aria-label="Counter wrong"
+        class="text-orange-700"
+      >
+        0
+      </span>
+      <span
+        class="mx-1"
+      >
+        /
+      </span>
+      <span
+        aria-label="Counter total"
+        class="text-gray-400"
+      >
+        0
+      </span>
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`TopIrregularMenu 2`] = `
+<DocumentFragment>
+  <div
+    class="flex flex-row justify-between p-1 mb-1 border-b"
+  >
+    <div
+      class="flex flex-row gap-1"
+    >
+      <div
+        class="border-r"
+      >
+        <button
+          aria-label="Shuffle"
+          class="w-10 h-10 text-gray-400 text-xl opacity-30"
+          type="button"
+        >
+          🪃
+        </button>
+      </div>
+    </div>
+    <button
+      aria-label="Words button"
+      class=" h-10 px-2 text-xl"
+      type="button"
+    >
+      <span
+        aria-label="Counter current"
+        class="text-emerald-500"
+      >
+        0
+      </span>
+      <span
+        class="mx-1"
+      >
+        /
+      </span>
+      <span
+        aria-label="Counter wrong"
+        class="text-orange-700"
+      >
+        0
+      </span>
+      <span
+        class="mx-1"
+      >
+        /
+      </span>
+      <span
+        aria-label="Counter total"
+        class="text-gray-400"
+      >
+        0
+      </span>
+    </button>
+  </div>
+</DocumentFragment>
+`;
