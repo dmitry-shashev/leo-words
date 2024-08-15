@@ -1,5 +1,104 @@
 [
   {
+    "id": 103106798,
+    "combinedTranslation": "переписанный",
+    "wordValue": "reinscribed",
+    "transcription": "",
+    "created": 1723760623,
+    "picture": "https://img.freepik.com/free-vector/appointment-booking-with-smartphone_23-2148564871.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cmVpbnNjcmliZWQ=41fdc313.mp3"
+  },
+  {
+    "id": 23542,
+    "combinedTranslation": "листовка",
+    "wordValue": "leaflet",
+    "transcription": "ˈliflət",
+    "created": 1723760534,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/310194.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bGVhZmxldA==a76273d2.mp3"
+  },
+  {
+    "id": 29193,
+    "combinedTranslation": "брошюра",
+    "wordValue": "pamphlet",
+    "transcription": "pˈæmflɪt",
+    "created": 1723760517,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3750072.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cGFtcGhsZXQ=919ce08d.mp3"
+  },
+  {
+    "id": 31007,
+    "combinedTranslation": "обещание",
+    "wordValue": "pledge",
+    "transcription": "plɛʤ",
+    "created": 1723760015,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/71331.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cGxlZGdlb1c756c8.mp3"
+  },
+  {
+    "id": 1806659811,
+    "combinedTranslation": "полностью",
+    "wordValue": "fullwise",
+    "transcription": "",
+    "created": 1723759565,
+    "picture": "https://img.freepik.com/free-vector/virtual-reality-concept-illustration_114360-1136.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZnVsbHdpc2U=9786532c.mp3"
+  },
+  {
+    "id": 33593,
+    "combinedTranslation": "ниша",
+    "wordValue": "recess",
+    "transcription": "rɪˈsɛs",
+    "created": 1723759405,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3322181.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cmVjZXNz17f175d3.mp3"
+  },
+  {
+    "id": 1201487055,
+    "combinedTranslation": "после чего",
+    "wordValue": "whereupon",
+    "transcription": "wɛəːrʌpˈɒn",
+    "created": 1723759363,
+    "picture": "https://img.freepik.com/free-photo/traveller-with-map-mobile-phone_23-2148570609.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/d2hlcmV1cG9uefab05a3.mp3"
+  },
+  {
+    "id": 18329,
+    "combinedTranslation": "решётка",
+    "wordValue": "grating",
+    "transcription": "grˈeɪːtɪŋ",
+    "created": 1723759275,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/427773.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Z3JhdGluZw==eb1cd30e.mp3"
+  },
+  {
+    "id": 12701,
+    "combinedTranslation": "медвежья услуга",
+    "wordValue": "disservice",
+    "transcription": "dɪssˈɜːvɪs",
+    "created": 1723758069,
+    "picture": "https://img.freepik.com/free-vector/hand-drawn-flat-design-overwhelmed-people-illustration_23-2149352794.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZGlzc2VydmljZQ==041a620c.mp3"
+  },
+  {
+    "id": 200258,
+    "combinedTranslation": "изнашиваться",
+    "wordValue": "wear out",
+    "transcription": "wˈeəː rˈaʊːt",
+    "created": 1723756877,
+    "picture": "https://img.freepik.com/free-photo/copy-space-boy-with-green-jacket_23-2148478790.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/d2VhciBvdXQ=599beedd.mp3"
+  },
+  {
+    "id": 12392,
+    "combinedTranslation": "выбросить",
+    "wordValue": "discard",
+    "transcription": "dˈɪskɑːd",
+    "created": 1723756758,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/327881.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZGlzY2FyZA==92afd9dc.mp3"
+  },
+  {
     "id": 1419151523,
     "combinedTranslation": "сварливый",
     "wordValue": "shrewish",
