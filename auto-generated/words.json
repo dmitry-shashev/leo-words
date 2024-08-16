@@ -1,5 +1,32 @@
 [
   {
+    "id": 1517289491,
+    "combinedTranslation": "босиком",
+    "wordValue": "barefoot",
+    "transcription": "bɛəːfˈʊt",
+    "created": 1723811555,
+    "picture": "https://img.freepik.com/free-photo/young-woman-running-beach_155003-6727.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YmFyZWZvb3Q=426f46e8.mp3"
+  },
+  {
+    "id": 74621,
+    "combinedTranslation": "заменить",
+    "wordValue": "superseded",
+    "transcription": "supəsˈiːdɪd",
+    "created": 1723811353,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/307422.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c3VwZXJzZWRlZA==e4c32d23.mp3"
+  },
+  {
+    "id": 1734730202,
+    "combinedTranslation": "укрепиться",
+    "wordValue": "firm up",
+    "transcription": "fɜrm ʌp",
+    "created": 1723809197,
+    "picture": "https://img.freepik.com/free-vector/growing-landing-page_52683-7298.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZmlybSB1cA==389ebd2d.mp3"
+  },
+  {
     "id": 103106798,
     "combinedTranslation": "переписанный",
     "wordValue": "reinscribed",
