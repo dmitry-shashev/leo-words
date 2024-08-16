@@ -1,0 +1,91 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`IrregularWordView 1`] = `
+<DocumentFragment>
+  <div
+    class="mb-10"
+  >
+    <div
+      class="text-3xl text-center h-40 text-blue-400"
+    >
+      <div
+        aria-label="Infinitive word"
+      >
+        bite
+      </div>
+    </div>
+    <div
+      class="text-3xl text-center h-40 text-blue-400"
+    />
+    <div
+      class="text-3xl text-center h-44 text-blue-400"
+    />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`IrregularWordView 2`] = `
+<DocumentFragment>
+  <div
+    class="mb-10"
+  >
+    <div
+      class="text-3xl text-center h-40 text-blue-400"
+    >
+      <div
+        aria-label="Infinitive word"
+      >
+        bite
+      </div>
+    </div>
+    <div
+      class="text-3xl text-center h-40 text-blue-400"
+    >
+      <div
+        aria-label="Past simple word"
+      >
+        bit
+      </div>
+    </div>
+    <div
+      class="text-3xl text-center h-44 text-blue-400"
+    />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`IrregularWordView 3`] = `
+<DocumentFragment>
+  <div
+    class="mb-10"
+  >
+    <div
+      class="text-3xl text-center h-40 text-blue-400"
+    >
+      <div
+        aria-label="Infinitive word"
+      >
+        bite
+      </div>
+    </div>
+    <div
+      class="text-3xl text-center h-40 text-blue-400"
+    >
+      <div
+        aria-label="Past simple word"
+      >
+        bit
+      </div>
+    </div>
+    <div
+      class="text-3xl text-center h-44 text-blue-400"
+    >
+      <div
+        aria-label="Past participle word"
+      >
+        bitten
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
