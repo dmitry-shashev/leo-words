@@ -12,21 +12,10 @@ import {
   getPrevCircledValue,
 } from '@/utils/getCircledValue'
 import { SpeedMode, SpeedModeValue } from '@/types/speed-mode'
+import { getEmptyWord } from '@/store/store-utils'
 
 interface CheckButtonAction {
   speedMode: SpeedModeValue
-}
-
-function getEmptyWord(): Word {
-  return {
-    id: 0,
-    wordValue: '',
-    pronunciation: '',
-    picture: '',
-    combinedTranslation: '',
-    transcription: '',
-    created: 0,
-  }
 }
 
 interface WordsState {
