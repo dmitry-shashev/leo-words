@@ -14,15 +14,7 @@ import {
   getNextCircledValue,
   getPrevCircledValue,
 } from '@/utils/getCircledValue'
-
-function getEmptyIrregularWord(): IrregularWord {
-  return {
-    id: 0,
-    infinitive: '',
-    pastSimple: '',
-    pastParticiple: '',
-  }
-}
+import { getEmptyIrregularWord } from '@/store/store-utils'
 
 interface IrregularWordsState {
   allIrregularWords: ReadonlyArray<IrregularWord>
