@@ -1,0 +1,30 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`BottomIrregularControl 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="flex justify-between gap-4 mb-8"
+    >
+      <button
+        aria-label="Check"
+        class="bg-blue-500 text-3xl font-semibold text-white h-16 rounded grow"
+        type="button"
+      >
+        Check
+      </button>
+    </div>
+    <div
+      class="flex"
+    >
+      <button
+        aria-label="Back"
+        class="grow text-lg text-blue-200 border-blue-200 border rounded h-10"
+        type="button"
+      >
+        Back
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
