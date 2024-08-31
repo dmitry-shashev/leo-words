@@ -15,3 +15,13 @@ test('RegularBrn', () => {
   fireEvent.click(getByRole('button'))
   expect(onClick).toBeCalledTimes(1)
 })
+
+test('RegularBrn - medium', () => {
+  const onClick = vi.fn()
+  const label = 'Some medium btn'
+  const { asFragment } = render(
+    <RegularBtn label={label} onClick={onClick} color="green" size="medium" />
+  )
+
+  expect(asFragment()).toMatchSnapshot()
+})

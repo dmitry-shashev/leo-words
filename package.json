@@ -1,12 +1,13 @@
 {
   "name": "leo-words",
-  "version": "0.0.128",
+  "version": "0.0.129",
   "private": true,
   "scripts": {
     "prepare": "husky",
     "dev": "next dev",
     "test": "vitest",
     "test:ui": "vitest --ui",
+    "test:update": "vitest run --u",
     "test:ci": "vitest run",
     "e2e": "playwright test --ui",
     "e2e:ci": "playwright test --reporter=list",
