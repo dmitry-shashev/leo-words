@@ -8,7 +8,7 @@ exports[`BottomIrregularControl 1`] = `
     >
       <button
         aria-label="Check"
-        class="bg-blue-500 text-3xl font-semibold text-white h-16 rounded grow"
+        class="bg-blue-500 text-3xl h-16  font-semibold text-white rounded grow"
         type="button"
       >
         Check

@@ -1,19 +1,13 @@
 import { FC } from 'react'
-import { WordView } from '@/components/complex/WordView/WordView'
-import { TopMenu } from '@/components/complex/TopMenu/TopMenu'
-import { BottomControl } from '@/components/complex/BottomControl/BottomControl'
+import { Menu } from '@/components/complex/Menu/Menu'
 import { App } from '@/components/complex/App/App'
-import { SoundControl } from '@/components/complex/SoundControl/SoundControl'
 
-const HomePage: FC = () => {
+const MenuPage: FC = () => {
   return (
     <App>
-      <TopMenu />
-      <WordView />
-      <BottomControl />
-      <SoundControl />
+      <Menu />
     </App>
   )
 }
 
-export default HomePage
+export default MenuPage
