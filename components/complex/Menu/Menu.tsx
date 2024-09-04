@@ -6,7 +6,7 @@ import { useRouter } from 'next/navigation'
 import { useSelector } from 'react-redux'
 import { getWordsAll } from '@/store/slices/wordsSlice'
 
-const BLOCK_CLASSES = 'bg-amber-200 p-2 mx-1 mb-3'
+const BLOCK_CLASSES = 'bg-blue-100 p-2 mx-1 mb-3'
 const LABEL_CLASSES =
   'block mb-2 text-sm font-medium text-gray-900 dark:text-white'
 const INPUT_CLASSES =
@@ -71,6 +71,7 @@ export const Menu: FC = () => {
             type="text"
             id="lastInput"
             className={INPUT_CLASSES}
+            aria-label="Last Input"
           />
         </div>
         <div className="flex">
@@ -95,6 +96,7 @@ export const Menu: FC = () => {
             className={INPUT_CLASSES}
             type="text"
             id="offsetInput"
+            aria-label="Offset Input"
           />
         </div>
         <div className="mb-6">
@@ -107,6 +109,7 @@ export const Menu: FC = () => {
             className={INPUT_CLASSES}
             type="text"
             id="limitInput"
+            aria-label="Limit Input"
           />
         </div>
         <div className="flex">
