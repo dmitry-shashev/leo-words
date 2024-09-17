@@ -9,6 +9,7 @@ export const testWords: Array<Word> = [
     picture: 'https://contentcdn.lingualeo.com/uploads/picture/634277.png',
     pronunciation: 'https://audiocdn.lingualeo.com/v2/3/cHJlYWNo6ba93e74.mp3',
     created: 1433462400,
+    added: 1433462400,
   },
   {
     id: 35298,
@@ -18,6 +19,7 @@ export const testWords: Array<Word> = [
     picture: 'https://contentcdn.lingualeo.com/uploads/picture/326972.png',
     pronunciation: 'https://audiocdn.lingualeo.com/v2/3/c2FrZQ==30ec034a.mp3',
     created: 1433462400,
+    added: 1433462400,
   },
   {
     id: 39328,
@@ -27,6 +29,7 @@ export const testWords: Array<Word> = [
     picture: 'https://contentcdn.lingualeo.com/uploads/picture/2898240.png',
     pronunciation: 'https://audiocdn.lingualeo.com/v2/3/c3Ryb2xsf9e1435d.mp3',
     created: 1433462400,
+    added: 1433462400,
   },
   {
     id: 43022,
@@ -37,6 +40,7 @@ export const testWords: Array<Word> = [
     pronunciation:
       'https://audiocdn.lingualeo.com/v2/3/dW5kZXJ0YWtlce0a68dd.mp3',
     created: 1433462400,
+    added: 1433462400,
   },
   {
     id: 54653,
@@ -47,5 +51,6 @@ export const testWords: Array<Word> = [
     pronunciation:
       'https://audiocdn.lingualeo.com/v2/3/ZWZmZWN0aXZlbHk=c9b5216a.mp3',
     created: 1433462400,
+    added: 1433462400,
   },
 ]

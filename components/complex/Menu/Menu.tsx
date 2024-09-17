@@ -1,10 +1,10 @@
 'use client'
 
-import { FC, useState } from 'react'
+import { FC, useEffect, useState } from 'react'
 import { RegularBtn } from '@/components/simple/RegularBtn/RegularBtn'
 import { useRouter } from 'next/navigation'
 import { useSelector } from 'react-redux'
-import { getWordsAll } from '@/store/slices/wordsSlice'
+import { getLastWordsAmount, getWordsAll } from '@/store/slices/wordsSlice'
 
 const BLOCK_CLASSES = 'bg-blue-100 p-2 mx-1 mb-3'
 const LABEL_CLASSES =
@@ -16,10 +16,18 @@ export const Menu: FC = () => {
   const router = useRouter()
 
   const allWords = useSelector(getWordsAll)
+  const lastWordsAmount = useSelector(getLastWordsAmount)
 
-  const [last, setLast] = useState<string>('100')
+  const [last, setLast] = useState<string>('')
   const [offset, setOffset] = useState('0')
-  const [limit, setLimit] = useState('100')
+  const [limit, setLimit] = useState('')
+
+  useEffect(() => {
+    if (!limit && !last) {
+      setLast(String(lastWordsAmount))
+      setLimit(String(allWords.length - lastWordsAmount))
+    }
+  }, [lastWordsAmount, limit, last, allWords.length])
 
   const onAll = (): void => {
     router.push('/all')

@@ -49,4 +49,6 @@ test('Menu', () => {
 
   fireEvent.click(getByLabelText('Irregular'))
   expect(push).toBeCalledWith('/irregular')
+
+  expect(asFragment()).toMatchSnapshot()
 })

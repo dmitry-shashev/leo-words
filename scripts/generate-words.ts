@@ -43,11 +43,17 @@ const WORDS_PATH_FULL = `${path.resolve('./')}/${WORDS_PATH}`
   // try to apply images from old words
   const wordsWithoutImg = result.filter(isWordPictureInvalid)
   const oldWordsCorrectPictures = oldWords.filter(isWordPictureValid)
-
   for (let w of wordsWithoutImg) {
     // @ts-ignore
     w['picture'] =
       oldWordsCorrectPictures.find((old) => old.id === w.id)?.picture ?? ''
+  }
+
+  // apply "added" field
+  const dateAdded = Math.round(Date.now() / 1000)
+  for (const w of result) {
+    const oldWord = oldWords.find((ow) => ow.id === w.id)
+    w.added = oldWord?.added || dateAdded
   }
 
   saveWords(result)
