@@ -13,6 +13,7 @@ import {
 } from '@/utils/getCircledValue'
 import { SpeedMode, SpeedModeValue } from '@/types/speed-mode'
 import { getEmptyWord } from '@/store/store-utils'
+import { getLastWords } from '@/utils/getLastWords'
 
 interface CheckButtonAction {
   speedMode: SpeedModeValue
@@ -197,6 +198,11 @@ export const getWordsState = (rootState: RootState): WordsState =>
 export const getWordsAll = createSelector(
   getWordsState,
   (state) => state.allWords
+)
+
+export const getLastWordsAmount = createSelector(
+  getWordsAll,
+  (allWords) => getLastWords(allWords).length
 )
 
 export const getWordsWrong = createSelector(

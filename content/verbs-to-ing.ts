@@ -9,6 +9,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 2,
@@ -18,6 +19,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 3,
@@ -27,6 +29,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 4,
@@ -36,6 +39,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 5,
@@ -45,6 +49,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 6,
@@ -54,6 +59,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 7,
@@ -63,6 +69,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 8,
@@ -72,6 +79,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 9,
@@ -81,6 +89,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 10,
@@ -90,6 +99,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 11,
@@ -99,6 +109,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 12,
@@ -108,6 +119,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 13,
@@ -117,6 +129,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 14,
@@ -126,6 +139,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 15,
@@ -135,6 +149,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 16,
@@ -144,6 +159,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 17,
@@ -153,6 +169,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 18,
@@ -162,6 +179,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 19,
@@ -171,6 +189,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 20,
@@ -180,6 +199,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 21,
@@ -189,6 +209,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 22,
@@ -198,6 +219,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 23,
@@ -207,6 +229,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 24,
@@ -216,6 +239,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 25,
@@ -225,6 +249,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 26,
@@ -234,6 +259,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 27,
@@ -243,6 +269,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 28,
@@ -252,6 +279,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 29,
@@ -261,6 +289,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 30,
@@ -270,6 +299,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 31,
@@ -279,6 +309,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 32,
@@ -288,6 +319,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 33,
@@ -297,6 +329,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 34,
@@ -306,6 +339,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 34,
@@ -315,6 +349,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 35,
@@ -324,6 +359,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 36,
@@ -333,6 +369,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 37,
@@ -342,6 +379,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 38,
@@ -351,6 +389,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 39,
@@ -360,6 +399,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 40,
@@ -369,6 +409,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 41,
@@ -378,6 +419,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 42,
@@ -387,6 +429,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 43,
@@ -396,6 +439,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 44,
@@ -405,6 +449,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 45,
@@ -414,6 +459,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 46,
@@ -423,6 +469,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 47,
@@ -432,6 +479,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 48,
@@ -441,6 +489,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 49,
@@ -450,6 +499,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 50,
@@ -459,6 +509,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 51,
@@ -468,6 +519,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 52,
@@ -477,6 +529,7 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
   {
     id: 53,
@@ -486,5 +539,6 @@ export const verbsToIng: Array<Word> = [
     picture: '',
     pronunciation: '',
     created: 0,
+    added: 0,
   },
 ]

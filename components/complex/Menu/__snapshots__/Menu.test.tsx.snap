@@ -44,7 +44,7 @@ exports[`Menu 1`] = `
         class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
         id="lastInput"
         type="text"
-        value="100"
+        value="5"
       />
     </div>
     <div
@@ -93,7 +93,148 @@ exports[`Menu 1`] = `
         class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
         id="limitInput"
         type="text"
+        value="0"
+      />
+    </div>
+    <div
+      class="flex"
+    >
+      <button
+        aria-label="Offset Limit"
+        class="bg-blue-500 text-xl h-10 font-semibold text-white rounded grow"
+        type="button"
+      >
+        Offset Limit
+      </button>
+    </div>
+  </form>
+  <form
+    class="bg-blue-100 p-2 mx-1 mb-3"
+  >
+    <div
+      class="flex"
+    >
+      <button
+        aria-label="Irregular"
+        class="bg-blue-500 text-xl h-10 font-semibold text-white rounded grow"
+        type="button"
+      >
+        Irregular
+      </button>
+    </div>
+  </form>
+  <form
+    class="bg-blue-100 p-2 mx-1 mb-3"
+  >
+    <div
+      class="flex"
+    >
+      <button
+        aria-label="Verbs to ing"
+        class="bg-blue-500 text-xl h-10 font-semibold text-white rounded grow"
+        type="button"
+      >
+        Verbs to ing
+      </button>
+    </div>
+  </form>
+</DocumentFragment>
+`;
+
+exports[`Menu 2`] = `
+<DocumentFragment>
+  <div
+    class="bg-blue-100 p-2 mx-1 mb-3"
+  >
+    <div>
+      Total Words: 
+      <b>
+        5
+      </b>
+    </div>
+  </div>
+  <form
+    class="bg-blue-100 p-2 mx-1 mb-3"
+  >
+    <div
+      class="flex"
+    >
+      <button
+        aria-label="All Words"
+        class="bg-blue-500 text-xl h-10 font-semibold text-white rounded grow"
+        type="button"
+      >
+        All Words
+      </button>
+    </div>
+  </form>
+  <form
+    class="bg-blue-100 p-2 mx-1 mb-3"
+  >
+    <div
+      class="mb-6"
+    >
+      <label
+        class="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
+        for="lastInput"
+      >
+        Last Words
+      </label>
+      <input
+        aria-label="Last Input"
+        class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
+        id="lastInput"
+        type="text"
+        value="200"
+      />
+    </div>
+    <div
+      class="flex"
+    >
+      <button
+        aria-label="Last"
+        class="bg-blue-500 text-xl h-10 font-semibold text-white rounded grow"
+        type="button"
+      >
+        Last
+      </button>
+    </div>
+  </form>
+  <form
+    class="bg-blue-100 p-2 mx-1 mb-3"
+  >
+    <div
+      class="mb-6"
+    >
+      <label
+        class="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
+        for="offsetInput"
+      >
+        Offset
+      </label>
+      <input
+        aria-label="Offset Input"
+        class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
+        id="offsetInput"
+        type="text"
         value="100"
+      />
+    </div>
+    <div
+      class="mb-6"
+    >
+      <label
+        class="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
+        for="limitInput"
+      >
+        Limit
+      </label>
+      <input
+        aria-label="Limit Input"
+        class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
+        id="limitInput"
+        type="text"
+        value="50"
       />
     </div>
     <div

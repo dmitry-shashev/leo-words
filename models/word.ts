@@ -6,7 +6,8 @@ export const WordScheme = z.object({
   combinedTranslation: z.preprocess(toStringPreprocess, z.string()),
   wordValue: z.string(),
   transcription: z.preprocess(toStringPreprocess, z.string()),
-  created: z.number(),
+  created: z.number().default(0),
+  added: z.number().default(0),
   // png
   picture: z.string(),
   // mp3

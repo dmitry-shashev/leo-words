@@ -10,6 +10,7 @@ export function getEmptyWord(): Word {
     combinedTranslation: '',
     transcription: '',
     created: 0,
+    added: 0,
   }
 }
 
