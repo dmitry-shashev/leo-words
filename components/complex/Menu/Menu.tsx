@@ -49,6 +49,10 @@ export const Menu: FC = () => {
     router.push('/verbs-to-ing')
   }
 
+  const onUsefulContent = (): void => {
+    router.push('/useful')
+  }
+
   return (
     <>
       <div className={BLOCK_CLASSES}>
@@ -154,6 +158,18 @@ export const Menu: FC = () => {
           />
         </div>
       </form>
+
+      <div className={BLOCK_CLASSES}>
+        <div className="flex">
+          <RegularBtn
+            onClick={onUsefulContent}
+            label="Useful content"
+            color="blue"
+            ariaLabel="Useful content"
+            size="medium"
+          />
+        </div>
+      </div>
     </>
   )
 }
