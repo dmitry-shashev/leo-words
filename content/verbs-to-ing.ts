@@ -183,8 +183,8 @@ export const verbsToIng: Array<Word> = [
   },
   {
     id: 19,
-    wordValue: 'need',
-    combinedTranslation: 'to',
+    wordValue: 'look forward to',
+    combinedTranslation: 'ing',
     transcription: '',
     picture: '',
     pronunciation: '',
@@ -574,6 +574,17 @@ export const verbsToIng: Array<Word> = [
   {
     id: 57,
     wordValue: 'quit',
+    combinedTranslation: 'ing',
+    transcription: '',
+    picture: '',
+    pronunciation: '',
+    created: 0,
+    added: 0,
+  },
+  {
+    id: 58,
+    // eslint-disable-next-line
+    wordValue: "let's go",
     combinedTranslation: 'ing',
     transcription: '',
     picture: '',
