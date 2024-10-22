@@ -6,6 +6,7 @@ import {
   getCurrentWordPicture,
   getCurrentWordTranslation,
   getCurrentWordValue,
+  getIsByWrongWords,
   getIsCheckState,
   getNextPrev10Words,
 } from '@/store/slices/wordsSlice'
@@ -25,6 +26,7 @@ export const WordView: FC = () => {
   // for optimization purposes - not to wait the next pic
   const nextPrev10Words = useSelector(getNextPrev10Words)
   const speedMode = useSelector(getSettingsSpeedMode)
+  const isByWrongWords = useSelector(getIsByWrongWords)
 
   let valueFontSize = 'text-5xl'
   if (wordValue.length > 16) {
@@ -43,7 +45,7 @@ export const WordView: FC = () => {
   }
 
   let wordValueClass = ''
-  if (speedMode.value === SpeedMode.YES.value) {
+  if (!isByWrongWords && speedMode.value === SpeedMode.YES.value) {
     wordValueClass = 'delayedAppearing'
   }
 
