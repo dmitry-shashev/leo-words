@@ -1,5 +1,335 @@
 [
   {
+    "id": 81042,
+    "combinedTranslation": "сорванцы",
+    "wordValue": "brats",
+    "transcription": "brˈæts",
+    "created": 1729981064,
+    "added": 1730058599,
+    "picture": "https://img.freepik.com/free-photo/homemade-sausages-baked-oven-salad_2829-11925.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YnJhdHM=81ceb153.mp3"
+  },
+  {
+    "id": 45353,
+    "combinedTranslation": "окошко (в банке, на почте, в кассах на вокзале пр.), калитка, турникет",
+    "wordValue": "wicket",
+    "transcription": "wˈɪkɪt",
+    "created": 1729981019,
+    "added": 1730058599,
+    "picture": "https://img.freepik.com/free-vector/cricket-icons-set-flat_1284-13617.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/d2lja2V02f4a86de.mp3"
+  },
+  {
+    "id": 53927,
+    "combinedTranslation": "пораженный",
+    "wordValue": "startled",
+    "transcription": "stˈɑːtld",
+    "created": 1729980852,
+    "added": 1730058599,
+    "picture": "https://img.freepik.com/free-photo/shocked-blond-guy-gasps-offended-pointing-finger-himself-staring-insulted-camera-standing-gray-tshirt-white-background_176420-49427.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c3RhcnRsZWQ=52d5709b.mp3"
+  },
+  {
+    "id": 1373964012,
+    "combinedTranslation": "жестоко",
+    "wordValue": "atrociously",
+    "transcription": "ətrouʃəsli",
+    "created": 1729980802,
+    "added": 1730058599,
+    "picture": "https://img.freepik.com/free-photo/please-i-am-begging-you-silly-uneasy-redhead-caucasian-girl-sleepwear-asking-help-pleading-fo_1258-138622.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YXRyb2Npb3VzbHk=37085206.mp3"
+  },
+  {
+    "id": 41069,
+    "combinedTranslation": "избиение",
+    "wordValue": "thrashing",
+    "transcription": "θrˈæʃɪŋ",
+    "created": 1729980748,
+    "added": 1730058599,
+    "picture": "https://img.freepik.com/free-photo/fantasy-scene-wealth_23-2151681322.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dGhyYXNoaW5n25ceb8e0.mp3"
+  },
+  {
+    "id": 8101,
+    "combinedTranslation": "окружность",
+    "wordValue": "circumference",
+    "transcription": "sərˈkʌmfrəns",
+    "created": 1729980598,
+    "added": 1730058599,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/10756.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y2lyY3VtZmVyZW5jZQ==eb661369.mp3"
+  },
+  {
+    "id": 20807,
+    "combinedTranslation": "дерзость",
+    "wordValue": "impertinence",
+    "transcription": "ɪmpˈɜːtɪnəns",
+    "created": 1729980394,
+    "added": 1730058599,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/713469.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aW1wZXJ0aW5lbmNlb9cb49f8.mp3"
+  },
+  {
+    "id": 34102,
+    "combinedTranslation": "протест",
+    "wordValue": "remonstrance",
+    "transcription": "rɪmˈɒnstrəns",
+    "created": 1729980334,
+    "added": 1730058599,
+    "picture": "https://img.freepik.com/free-vector/user-with-laptop-smartphone-synchronizing-cross-device-syncing-cross-device-synchronization-operation-concept-pinkish-coral-bluevector-isolated-illustration_335657-2523.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cmVtb25zdHJhbmNl4d876b5c.mp3"
+  },
+  {
+    "id": 21639,
+    "combinedTranslation": "расследование",
+    "wordValue": "inquest",
+    "transcription": "ˈɪŋkwɛst",
+    "created": 1729980204,
+    "added": 1730058599,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/2553354.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aW5xdWVzdA==5e227076.mp3"
+  },
+  {
+    "id": 39028,
+    "combinedTranslation": "зарплата",
+    "wordValue": "stipend",
+    "transcription": "stˈaɪpɛnd",
+    "created": 1729979719,
+    "added": 1730058599,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/561279.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c3RpcGVuZA==e8d9c3f7.mp3"
+  },
+  {
+    "id": 22739,
+    "combinedTranslation": "несовершеннолетний",
+    "wordValue": "juvenile",
+    "transcription": "ˈʤuvənəl",
+    "created": 1729979456,
+    "added": 1730058599,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/6012.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/anV2ZW5pbGU=78b5f27d.mp3"
+  },
+  {
+    "id": 1907725060,
+    "combinedTranslation": "великодушно",
+    "wordValue": "magnanimously",
+    "transcription": "mægnˈænɪməsli",
+    "created": 1729979390,
+    "added": 1730058599,
+    "picture": "https://img.freepik.com/free-photo/fantasy-scene-wealth_23-2151681327.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bWFnbmFuaW1vdXNseQ==42d8e087.mp3"
+  },
+  {
+    "id": 1661412811,
+    "combinedTranslation": "питание",
+    "wordValue": "nourishment",
+    "transcription": "nˈʌrɪʃmənt",
+    "created": 1729979311,
+    "added": 1730058599,
+    "picture": "https://img.freepik.com/free-photo/immunity-boosting-food-healthy-lifestyle_23-2149211539.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bm91cmlzaG1lbnQ=74b72f8b.mp3"
+  },
+  {
+    "id": 9445,
+    "combinedTranslation": "утешение",
+    "wordValue": "consolation",
+    "transcription": "kɒnsəlˈeɪːʃən",
+    "created": 1729979296,
+    "added": 1730058599,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/19651.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y29uc29sYXRpb24=66e41d34.mp3"
+  },
+  {
+    "id": 20747,
+    "combinedTranslation": "придавать",
+    "wordValue": "impart",
+    "transcription": "ɪmpˈɑːt",
+    "created": 1729979276,
+    "added": 1730058599,
+    "picture": "https://img.freepik.com/free-photo/amazed-young-blond-woman-pointing-finger-herself-being-chosen-standing-casual-clothes-against-white-background_176420-48278.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aW1wYXJ053594987.mp3"
+  },
+  {
+    "id": 104181,
+    "combinedTranslation": "проживающий",
+    "wordValue": "domiciled",
+    "transcription": "dˈɒmɪsaɪːld",
+    "created": 1729979157,
+    "added": 1730058599,
+    "picture": "https://img.freepik.com/free-vector/stay-home-abstract-concept-vector-illustration-forced-isolation-covid19-outbreak-prevention-measures-social-distance-governmental-support-self-protection-wear-mask-abstract-metaphor_335657-4138.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZG9taWNpbGVk8d251d81.mp3"
+  },
+  {
+    "id": 19777,
+    "combinedTranslation": "книж. до настоящего времени, до сих пор",
+    "wordValue": "hitherto",
+    "transcription": "hɪðətˈuː",
+    "created": 1729978739,
+    "added": 1730058599,
+    "picture": "https://img.freepik.com/free-photo/sign-language-hand-showing-letter-h_23-2148590398.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aGl0aGVydG8=432704bc.mp3"
+  },
+  {
+    "id": 1333967297,
+    "combinedTranslation": "утешительный",
+    "wordValue": "consolatory",
+    "transcription": "kənsˈɒlətəri",
+    "created": 1729978168,
+    "added": 1730058599,
+    "picture": "https://img.freepik.com/free-photo/person-with-sexual-toy-bed_23-2149352509.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y29uc29sYXRvcnk=eed96956.mp3"
+  },
+  {
+    "id": 1208990515,
+    "combinedTranslation": "завидный",
+    "wordValue": "enviable",
+    "transcription": "ˈenvɪəːbl",
+    "created": 1729977404,
+    "added": 1730058599,
+    "picture": "https://img.freepik.com/free-vector/product-hunt-concept-illustration_114360-812.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZW52aWFibGU=0945ca34.mp3"
+  },
+  {
+    "id": 2510,
+    "combinedTranslation": "отчуждать",
+    "wordValue": "alienate",
+    "transcription": "ˈeɪːlɪəːnɛɪːt",
+    "created": 1729720908,
+    "added": 1730058599,
+    "picture": "https://img.freepik.com/free-photo/fantasy-scene-with-surreal-elements-mystical-atmosphere_23-2151254415.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YWxpZW5hdGU=5aeabe37.mp3"
+  },
+  {
+    "id": 12602,
+    "combinedTranslation": "недооценивать",
+    "wordValue": "disparage",
+    "transcription": "dɪspˈærɪdʒ",
+    "created": 1729720585,
+    "added": 1730058599,
+    "picture": "https://img.freepik.com/free-vector/sniper-scores-crosshair-cartoon-illustration-set-gun-pistol-sight-rifle-scope-white-background-weapon-hunting-accuracy-target-aiming-eyesight-shoot-concept_74855-26106.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZGlzcGFyYWdl8b691a95.mp3"
+  },
+  {
+    "id": 8615,
+    "combinedTranslation": "избаловать",
+    "wordValue": "coddle",
+    "transcription": "kˈɒdl",
+    "created": 1729720296,
+    "added": 1730058599,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/8737.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y29kZGxl0c3b87f3.mp3"
+  },
+  {
+    "id": 1934326650,
+    "combinedTranslation": "урезанный",
+    "wordValue": "pared down",
+    "transcription": "pˈeəːd daʊn",
+    "created": 1729719870,
+    "added": 1730058599,
+    "picture": "https://img.freepik.com/free-vector/wall-texture_1035-221.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cGFyZWQgZG93bg==84e79cf7.mp3"
+  },
+  {
+    "id": 188918,
+    "combinedTranslation": "предопределено",
+    "wordValue": "preordained",
+    "transcription": "priɔːdˈeɪːnd",
+    "created": 1729719361,
+    "added": 1730058599,
+    "picture": "https://img.freepik.com/free-vector/postponed-rubber-stamp-concept_23-2148497939.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cHJlb3JkYWluZWQ=466f0daf.mp3"
+  },
+  {
+    "id": 1994178417,
+    "combinedTranslation": "возникший",
+    "wordValue": "emergent",
+    "transcription": "ɪmˈɜːdʒənt",
+    "created": 1729718482,
+    "added": 1730058599,
+    "picture": "https://img.freepik.com/free-vector/empty-emergency-box-design_23-2147946525.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZW1lcmdlbnQ=f393be31.mp3"
+  },
+  {
+    "id": 224882,
+    "combinedTranslation": "подвинуться, отступить",
+    "wordValue": "move over",
+    "transcription": "mˈuːv ouvə",
+    "created": 1729707446,
+    "added": 1730058599,
+    "picture": "https://img.freepik.com/free-photo/front-view-man-with-box-head-posing-while-packing-move_23-2148647475.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bW92ZSBvdmVy7ea0dde8.mp3"
+  },
+  {
+    "id": 72310,
+    "combinedTranslation": "блестки",
+    "wordValue": "sequins",
+    "transcription": "sˈiːkwɪnz",
+    "created": 1729624492,
+    "added": 1730058599,
+    "picture": "https://img.freepik.com/free-photo/flat-lay-sea-sequins-oil_23-2148231506.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c2VxdWlucw==4b5c21dd.mp3"
+  },
+  {
+    "id": 38920,
+    "combinedTranslation": "трафарет",
+    "wordValue": "stencil",
+    "transcription": "ˈstɛnsɪl",
+    "created": 1729624449,
+    "added": 1730058599,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3250625.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c3RlbmNpbA==eea25265.mp3"
+  },
+  {
+    "id": 1491533368,
+    "combinedTranslation": "несмываемый",
+    "wordValue": "indelible",
+    "transcription": "ɪndˈeləbl",
+    "created": 1729624429,
+    "added": 1730058599,
+    "picture": "https://img.freepik.com/free-photo/waistup-shot-intense-worried-hopeful-young-woman-waiting-with-anticipation-important-result-crossing-fingers-good-luck-pursing-lips-from-nervousness-looking-faithfully-upper-left-corner_1258-308618.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aW5kZWxpYmxl3eb35ad8.mp3"
+  },
+  {
+    "id": 4129,
+    "combinedTranslation": "подкладка",
+    "wordValue": "backing",
+    "transcription": "ˈbækɪŋ",
+    "created": 1729624357,
+    "added": 1730058599,
+    "picture": "https://img.freepik.com/free-photo/close-up-person-s-hand-flattening-dough-with-rolling-pin-kitchen-counter_23-2147955207.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YmFja2luZw==f0a88fcb.mp3"
+  },
+  {
+    "id": 36365,
+    "combinedTranslation": "полупроводник",
+    "wordValue": "semiconductor",
+    "transcription": "ˌsɛmikənˈdʌktər",
+    "created": 1729623903,
+    "added": 1730058599,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/54619.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c2VtaWNvbmR1Y3Rvcg==ebf2b1ef.mp3"
+  },
+  {
+    "id": 18306,
+    "combinedTranslation": "сцепиться",
+    "wordValue": "grapple",
+    "transcription": "grˈæpl",
+    "created": 1729620335,
+    "added": 1730058599,
+    "picture": "https://img.freepik.com/free-vector/flat-fruit-collection_23-2148952260.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Z3JhcHBsZQ==24a1290a.mp3"
+  },
+  {
+    "id": 102406607,
+    "combinedTranslation": "мастер на все руки",
+    "wordValue": "jack-of-all-trades",
+    "transcription": "",
+    "created": 1729619789,
+    "added": 1730058599,
+    "picture": "https://img.freepik.com/free-vector/vector-joker-playing-card-colored-jester-white-background_1284-42208.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/amFjay1vZi1hbGwtdHJhZGVzdbaeaecf.mp3"
+  },
+  {
     "id": 25964,
     "combinedTranslation": "осечка",
     "wordValue": "misfire",
@@ -24141,7 +24471,7 @@
   },
   {
     "id": 1629403103,
-    "combinedTranslation": "умеренно; умеренно",
+    "combinedTranslation": "умеренно; умеренно; умеренно",
     "wordValue": "sparingly",
     "transcription": "spˈeəːrɪŋli",
     "created": 1705855151,
@@ -28231,7 +28561,7 @@
   },
   {
     "id": 33791,
-    "combinedTranslation": "возмещение",
+    "combinedTranslation": "возмещение; возмещение",
     "wordValue": "redress",
     "transcription": "rɪdrˈes",
     "created": 1528243200,
