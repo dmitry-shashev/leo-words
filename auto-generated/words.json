@@ -1,5 +1,115 @@
 [
   {
+    "id": 21207,
+    "combinedTranslation": "контракт",
+    "wordValue": "indenture",
+    "transcription": "ɪndˈentʃə",
+    "created": 1732963623,
+    "added": 1732954688,
+    "picture": "https://img.freepik.com/free-photo/graduation-diploma-certificate-wooden-board_23-2148769708.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aW5kZW50dXJl7c733fb1.mp3"
+  },
+  {
+    "id": 39401,
+    "combinedTranslation": "ошеломлять",
+    "wordValue": "stupefy",
+    "transcription": "stjˈuːpɪfaɪː",
+    "created": 1732963551,
+    "added": 1732954688,
+    "picture": "https://img.freepik.com/free-photo/person-making-grimace-expression-with-their-faces_52683-107865.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c3R1cGVmeQ==723b24a9.mp3"
+  },
+  {
+    "id": 1665938674,
+    "combinedTranslation": "искусный",
+    "wordValue": "artful",
+    "transcription": "ˈɑːtfl",
+    "created": 1732963433,
+    "added": 1732954688,
+    "picture": "https://img.freepik.com/free-photo/touch-sense-telephone-collage_23-2149848099.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YXJ0ZnVs333478a7.mp3"
+  },
+  {
+    "id": 1043414609,
+    "combinedTranslation": "отталкивающее",
+    "wordValue": "repulsive",
+    "transcription": "rɪpˈʌlsɪv",
+    "created": 1732963234,
+    "added": 1732954688,
+    "picture": "https://img.freepik.com/free-photo/young-woman-applying-anti-dandruff-product_23-2149345767.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cmVwdWxzaXZleef0642c.mp3"
+  },
+  {
+    "id": 1840669098,
+    "combinedTranslation": "предостерегающий",
+    "wordValue": "admonitory",
+    "transcription": "ədmˈɒnɪtri",
+    "created": 1732963211,
+    "added": 1732954688,
+    "picture": "https://img.freepik.com/free-vector/outdoor-advertising-design-abstract-concept_335657-3077.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YWRtb25pdG9yeQ==f8dd5b83.mp3"
+  },
+  {
+    "id": 51022,
+    "combinedTranslation": "размешенный",
+    "wordValue": "stationed",
+    "transcription": "stˈeɪːʃənd",
+    "created": 1732962777,
+    "added": 1732954688,
+    "picture": "https://img.freepik.com/free-vector/modern-interactive-machines-payment-vector-illustrations-set_778687-1591.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c3RhdGlvbmVk29cdd06e.mp3"
+  },
+  {
+    "id": 212250,
+    "combinedTranslation": "задремать (днем)",
+    "wordValue": "doze off",
+    "transcription": "douz ˈɒf",
+    "created": 1732962754,
+    "added": 1732954688,
+    "picture": "https://img.freepik.com/free-photo/upset-beautiful-blonde-russian-woman-sits-armchair-closing-face-with-hand-holding-alarm-clock-inside-living-room_141793-70113.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZG96ZSBvZmY=a5018f19.mp3"
+  },
+  {
+    "id": 63467,
+    "combinedTranslation": "бездельничать",
+    "wordValue": "lounging",
+    "transcription": "lˈaʊːndʒɪŋ",
+    "created": 1732962681,
+    "added": 1732954688,
+    "picture": "https://img.freepik.com/free-photo/female-students-suffering-from-flu-staying-home_1262-18468.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bG91bmdpbmc=5d46510a.mp3"
+  },
+  {
+    "id": 29178,
+    "combinedTranslation": "учащенное сердцебиение",
+    "wordValue": "palpitate",
+    "transcription": "pˈælpɪtɛɪːt",
+    "created": 1732962457,
+    "added": 1732954688,
+    "picture": "https://img.freepik.com/free-photo/patient-localizing-pain-with-doctor_23-2148285764.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cGFscGl0YXRlc9561a6a.mp3"
+  },
+  {
+    "id": 1087459986,
+    "combinedTranslation": "преследование",
+    "wordValue": "pursuance",
+    "transcription": "pəsjˈuːəns",
+    "created": 1731942014,
+    "added": 1732954688,
+    "picture": "https://img.freepik.com/free-vector/purposeful-businessman-with-briefcase-aspiration-ambition-pursuit-career-motivation-startup-professional-development-idea-innovative-solution_335657-2106.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cHVyc3VhbmNla96895ec.mp3"
+  },
+  {
+    "id": 1693461794,
+    "combinedTranslation": "неподвижность",
+    "wordValue": "stillness",
+    "transcription": "stˈɪlnəs",
+    "created": 1731016535,
+    "added": 1732954688,
+    "picture": "https://img.freepik.com/free-photo/man-meditating-by-lake-medium-shot_1258-289078.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c3RpbGxuZXNz2163b207.mp3"
+  },
+  {
     "id": 33906,
     "combinedTranslation": "угощать",
     "wordValue": "regale",
