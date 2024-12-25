@@ -1,6 +1,6 @@
 {
   "name": "leo-words",
-  "version": "0.0.155",
+  "version": "0.0.156",
   "private": true,
   "scripts": {
     "prepare": "husky",
@@ -39,10 +39,10 @@
   "devDependencies": {
     "@playwright/test": "1.42.1",
     "@testing-library/react": "14.2.2",
-    "@types/node": "^20.17.9",
+    "@types/node": "^20.17.10",
     "@types/pluralize": "0.0.33",
-    "@types/react": "^18.3.12",
-    "@types/react-dom": "^18.3.1",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
     "@typescript-eslint/eslint-plugin": "7.5.0",
     "@vitejs/plugin-react": "4.2.1",
     "autoprefixer": "^10.4.20",
@@ -58,7 +58,7 @@
     "pluralize": "8.0.0",
     "postcss": "^8.4.49",
     "prettier": "3.2.5",
-    "tailwindcss": "^3.4.15",
+    "tailwindcss": "^3.4.17",
     "tsx": "4.7.1",
     "typescript": "^5.7.2",
     "vite-tsconfig-paths": "4.3.2",
