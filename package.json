@@ -1,6 +1,6 @@
 {
   "name": "leo-words",
-  "version": "0.0.158",
+  "version": "0.0.159",
   "private": true,
   "scripts": {
     "prepare": "husky",
@@ -37,7 +37,7 @@
     "zod": "3.22.4"
   },
   "devDependencies": {
-    "@playwright/test": "1.42.1",
+    "@playwright/test": "1.50.0",
     "@testing-library/react": "14.2.2",
     "@types/node": "^20.17.16",
     "@types/pluralize": "0.0.33",
@@ -54,7 +54,7 @@
     "jsdom": "24.0.0",
     "npm": "10.5.1",
     "pdf-data-parser": "1.2.4",
-    "playwright": "1.42.1",
+    "playwright": "1.50.0",
     "pluralize": "8.0.0",
     "postcss": "^8.5.1",
     "prettier": "3.2.5",
