@@ -1,5 +1,595 @@
 [
   {
+    "id": 15003,
+    "combinedTranslation": "экскурсия",
+    "wordValue": "excursion",
+    "transcription": "ɪksˈkɜːʃən",
+    "created": 1737991080,
+    "added": 1737980344,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/810866.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZXhjdXJzaW9u32be3929.mp3"
+  },
+  {
+    "id": 25397,
+    "combinedTranslation": "расплавить",
+    "wordValue": "melt",
+    "transcription": "mɛlt",
+    "created": 1737991070,
+    "added": 1737980344,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/441865.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bWVsdA==9423d1de.mp3"
+  },
+  {
+    "id": 46515,
+    "combinedTranslation": "ловец",
+    "wordValue": "catcher",
+    "transcription": "kˈætʃə",
+    "created": 1737991058,
+    "added": 1737980344,
+    "picture": "https://img.freepik.com/free-vector/baseball-icons-set-cartoon-retro-style-with-playing-men-kids-sports-equipment_1284-17665.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y2F0Y2hlcg==3348570f.mp3"
+  },
+  {
+    "id": 12164,
+    "combinedTranslation": "экскаватор",
+    "wordValue": "digger",
+    "transcription": "dˈɪgə",
+    "created": 1737991038,
+    "added": 1737980344,
+    "picture": "https://img.freepik.com/free-vector/excavator-pack_23-2148676951.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZGlnZ2Vy1a908b4a.mp3"
+  },
+  {
+    "id": 2050645928,
+    "combinedTranslation": "странно",
+    "wordValue": "strangely",
+    "transcription": "strˈeɪːndʒli",
+    "created": 1737991023,
+    "added": 1737980344,
+    "picture": "https://img.freepik.com/free-photo/sad-hand-puppet-show-kids_23-2149097441.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c3RyYW5nZWx52b3ac8c2.mp3"
+  },
+  {
+    "id": 102436267,
+    "combinedTranslation": "мистер",
+    "wordValue": "mister",
+    "transcription": "",
+    "created": 1737991015,
+    "added": 1737980344,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/502396.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bWlzdGVy2b8480fd.mp3"
+  },
+  {
+    "id": 12055,
+    "combinedTranslation": "бриллиант",
+    "wordValue": "diamond",
+    "transcription": "ˈdaɪmənd",
+    "created": 1737991007,
+    "added": 1737980344,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/681772.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZGlhbW9uZA==98cbd2a8.mp3"
+  },
+  {
+    "id": 23200,
+    "combinedTranslation": "лагуна",
+    "wordValue": "lagoon",
+    "transcription": "ləˈgun",
+    "created": 1737990999,
+    "added": 1737980344,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/21690.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bGFnb29ue6ba1bcf.mp3"
+  },
+  {
+    "id": 102429524,
+    "combinedTranslation": "сонный",
+    "wordValue": "dozy",
+    "transcription": "",
+    "created": 1737990949,
+    "added": 1737980344,
+    "picture": "https://img.freepik.com/free-vector/flat-valentine-s-day-element-collection_23-2147741085.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZG96eQ==f58fc724.mp3"
+  },
+  {
+    "id": 6584,
+    "combinedTranslation": "звонок",
+    "wordValue": "buzzer",
+    "transcription": "ˈbʌzə",
+    "created": 1737990936,
+    "added": 1737980344,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/397166.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YnV6emVy2adc0624.mp3"
+  },
+  {
+    "id": 1403282206,
+    "combinedTranslation": "Эврика",
+    "wordValue": "eureka",
+    "transcription": "jʊəːrˈiːkə",
+    "created": 1737990915,
+    "added": 1737980344,
+    "picture": "https://img.freepik.com/free-vector/electricity-concept-illustration_114360-26202.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZXVyZWth2cd0cda7.mp3"
+  },
+  {
+    "id": 23891,
+    "combinedTranslation": "зажигалка",
+    "wordValue": "lighter",
+    "transcription": "ˈlaɪtər",
+    "created": 1737990875,
+    "added": 1737980344,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3174885.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bGlnaHRlcg==259dff40.mp3"
+  },
+  {
+    "id": 13047,
+    "combinedTranslation": "пожертвование",
+    "wordValue": "donate",
+    "transcription": "ˈdoʊˌneɪt",
+    "created": 1737990860,
+    "added": 1737980344,
+    "picture": "https://img.freepik.com/free-vector/charity-flat-set-with-people-making-donations-animals-elderly-people-children-isolated-vector-illustration_1284-79447.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZG9uYXRld95aae2d.mp3"
+  },
+  {
+    "id": 5428,
+    "combinedTranslation": "повязка на глаза",
+    "wordValue": "blindfold",
+    "transcription": "blˈaɪndfəʊːld",
+    "created": 1737990851,
+    "added": 1737980344,
+    "picture": "https://img.freepik.com/free-photo/woman-with-blindfold-copy-space_23-2148275488.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YmxpbmRmb2xk2d3de49a.mp3"
+  },
+  {
+    "id": 2506,
+    "combinedTranslation": "пришелец",
+    "wordValue": "alien",
+    "transcription": "ˈeɪliən",
+    "created": 1737990827,
+    "added": 1737980344,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/775194.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YWxpZW4=3938cc82.mp3"
+  },
+  {
+    "id": 19605,
+    "combinedTranslation": "шестиугольник",
+    "wordValue": "hexagon",
+    "transcription": "hˈeksəgən",
+    "created": 1737990816,
+    "added": 1737980344,
+    "picture": "https://img.freepik.com/free-photo/top-view-colorful-paper-hexagon_23-2148209869.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aGV4YWdvbg==ae36a73f.mp3"
+  },
+  {
+    "id": 1429715925,
+    "combinedTranslation": "показной",
+    "wordValue": "splashy",
+    "transcription": "splˈæʃi",
+    "created": 1737990801,
+    "added": 1737980344,
+    "picture": "https://img.freepik.com/free-psd/pink-liquid-splats-collection-dynamic-splashes_191095-93644.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c3BsYXNoeQ==37d2a50c.mp3"
+  },
+  {
+    "id": 1890372925,
+    "combinedTranslation": "храбрость",
+    "wordValue": "bravery",
+    "transcription": "brˈeɪːvəri",
+    "created": 1737990784,
+    "added": 1737980344,
+    "picture": "https://img.freepik.com/free-vector/friends-running-towards-cartoon-girl-with-superhero-shadow-shadow-female-character-wearing-cape-flat-illustration_74855-18743.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YnJhdmVyeQ==5191e42d.mp3"
+  },
+  {
+    "id": 742,
+    "combinedTranslation": "еврей",
+    "wordValue": "Jew",
+    "transcription": "dʒˈuː",
+    "created": 1737990776,
+    "added": 1737980344,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/422831.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/amV31954c63b.mp3"
+  },
+  {
+    "id": 4266,
+    "combinedTranslation": "балет",
+    "wordValue": "ballet",
+    "transcription": "bæˈleɪ",
+    "created": 1737990766,
+    "added": 1737980344,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3245591.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YmFsbGV086d9131c.mp3"
+  },
+  {
+    "id": 26492,
+    "combinedTranslation": "газонокосилка",
+    "wordValue": "mower",
+    "transcription": "mouə",
+    "created": 1737990757,
+    "added": 1737980344,
+    "picture": "https://img.freepik.com/free-vector/lawn-mower-grass-cutters-cartoon-icons-set-isolated-vector-illustration_1284-80120.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bW93ZXI=0fbaa813.mp3"
+  },
+  {
+    "id": 43199,
+    "combinedTranslation": "униформа",
+    "wordValue": "uniform",
+    "transcription": "ˈjunəˌfɔrm",
+    "created": 1737990747,
+    "added": 1737980344,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/39114.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dW5pZm9ybQ==000b8c7f.mp3"
+  },
+  {
+    "id": 6080,
+    "combinedTranslation": "завтрак",
+    "wordValue": "breakfast",
+    "transcription": "ˈbrɛkfəst",
+    "created": 1737990692,
+    "added": 1737980344,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/425834.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YnJlYWtmYXN02142ae3f.mp3"
+  },
+  {
+    "id": 29692,
+    "combinedTranslation": "пирожок",
+    "wordValue": "patty",
+    "transcription": "ˈpæti",
+    "created": 1737990683,
+    "added": 1737980344,
+    "picture": "https://img.freepik.com/free-photo/burger-ingredients_1339-1544.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cGF0dHk=9e399dca.mp3"
+  },
+  {
+    "id": 1949544367,
+    "combinedTranslation": "очертить",
+    "wordValue": "deline",
+    "transcription": "dˈɪlaɪːnɪ",
+    "created": 1737990673,
+    "added": 1737980344,
+    "picture": "https://img.freepik.com/free-vector/hand-drawn-one-line-art-illustration_23-2149275218.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZGVsaW5l6455ef87.mp3"
+  },
+  {
+    "id": 220415,
+    "combinedTranslation": "выбоина на дороге",
+    "wordValue": "pothole",
+    "transcription": "pˈɒthəʊːl",
+    "created": 1737990650,
+    "added": 1737980344,
+    "picture": "https://img.freepik.com/free-photo/high-angle-view-brown-dirt-background_23-2148210183.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cG90aG9sZQ==88bd65a8.mp3"
+  },
+  {
+    "id": 41779,
+    "combinedTranslation": "трактор",
+    "wordValue": "tractor",
+    "transcription": "ˈtræktər",
+    "created": 1737990636,
+    "added": 1737980344,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3658436.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dHJhY3Rvcg==06a5145c.mp3"
+  },
+  {
+    "id": 37836,
+    "combinedTranslation": "мыльный",
+    "wordValue": "soapy",
+    "transcription": "soupi",
+    "created": 1737990627,
+    "added": 1737980344,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/320011.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c29hcHk=910f0a34.mp3"
+  },
+  {
+    "id": 49691,
+    "combinedTranslation": "бластер",
+    "wordValue": "blaster",
+    "transcription": "blˈɑːstə",
+    "created": 1737990618,
+    "added": 1737980344,
+    "picture": "https://img.freepik.com/free-vector/cartoon-set-futuristic-game-laser-guns_107791-19903.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Ymxhc3Rlcg==e9c24922.mp3"
+  },
+  {
+    "id": 26510,
+    "combinedTranslation": "грязный",
+    "wordValue": "muddy",
+    "transcription": "mˈʌdi",
+    "created": 1737990609,
+    "added": 1737980344,
+    "picture": "https://img.freepik.com/free-photo/grass-ground-dirt-autumn-field_1232-3778.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bXVkZHk=09980ac0.mp3"
+  },
+  {
+    "id": 46295,
+    "combinedTranslation": "блендер",
+    "wordValue": "blender",
+    "transcription": "ˈblɛndər",
+    "created": 1737990590,
+    "added": 1737980344,
+    "picture": "https://img.freepik.com/free-vector/detailed-smoothies-blender-glass-illustration_23-2148958887.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YmxlbmRlcg==4ebe82e7.mp3"
+  },
+  {
+    "id": 25975,
+    "combinedTranslation": "неудача",
+    "wordValue": "mishap",
+    "transcription": "mˈɪshæp",
+    "created": 1737990578,
+    "added": 1737980344,
+    "picture": "https://img.freepik.com/free-photo/blonde-student-woman-holds-her-books-covers-her-ears-with-them_114579-77233.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bWlzaGFwb535d7c8.mp3"
+  },
+  {
+    "id": 28318,
+    "combinedTranslation": "окулист",
+    "wordValue": "optician",
+    "transcription": "ɒptˈɪʃən",
+    "created": 1737990553,
+    "added": 1737980344,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/46584.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/b3B0aWNpYW4=39c10bd6.mp3"
+  },
+  {
+    "id": 35118,
+    "combinedTranslation": "беглец",
+    "wordValue": "runaway",
+    "transcription": "rˈʌnəwɛɪː",
+    "created": 1737990544,
+    "added": 1737980344,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/94020.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cnVuYXdheQ==1459b078.mp3"
+  },
+  {
+    "id": 18283,
+    "combinedTranslation": "бабуля",
+    "wordValue": "granny",
+    "transcription": "ˈgræni",
+    "created": 1737990536,
+    "added": 1737980344,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/603124.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Z3Jhbm5506abdb44.mp3"
+  },
+  {
+    "id": 42098,
+    "combinedTranslation": "хитрый",
+    "wordValue": "tricky",
+    "transcription": "trˈɪki",
+    "created": 1737990525,
+    "added": 1737980344,
+    "picture": "https://img.freepik.com/free-psd/feeling-proud-mischievous-arrogant-while-scheming-evil-plan-thinking-trick_1194-631567.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dHJpY2t55de6b443.mp3"
+  },
+  {
+    "id": 22406,
+    "combinedTranslation": "Япония",
+    "wordValue": "japan",
+    "transcription": "ʤəˈpæn",
+    "created": 1737990505,
+    "added": 1737980344,
+    "picture": "https://img.freepik.com/free-photo/asian-women-traditional-japanese-kimonos-fushimi-inari-shrine-kyoto-japan_335224-77.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/amFwYW4=5dc843b3.mp3"
+  },
+  {
+    "id": 27362,
+    "combinedTranslation": "шумный",
+    "wordValue": "noisy",
+    "transcription": "nˈɔɪːzi",
+    "created": 1737990490,
+    "added": 1737980344,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/393296.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bm9pc3k=4ec2ea3f.mp3"
+  },
+  {
+    "id": 1324846775,
+    "combinedTranslation": "электрический",
+    "wordValue": "electric",
+    "transcription": "ɪˈlɛktrɪk",
+    "created": 1737990478,
+    "added": 1737980344,
+    "picture": "https://img.freepik.com/free-vector/sketch-style-lightning-bolts_78370-2095.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZWxlY3RyaWM=3249bae2.mp3"
+  },
+  {
+    "id": 32040,
+    "combinedTranslation": "принцесса",
+    "wordValue": "princess",
+    "transcription": "ˈprɪnsɛs",
+    "created": 1737990466,
+    "added": 1737980344,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/636957.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cHJpbmNlc3M=44128679.mp3"
+  },
+  {
+    "id": 38301,
+    "combinedTranslation": "быстрый",
+    "wordValue": "speedy",
+    "transcription": "spˈiːdi",
+    "created": 1737990456,
+    "added": 1737980344,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3441110.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c3BlZWR5547bc4ab.mp3"
+  },
+  {
+    "id": 23460,
+    "combinedTranslation": "лава",
+    "wordValue": "lava",
+    "transcription": "ˈlɑvə",
+    "created": 1737990435,
+    "added": 1737980344,
+    "picture": "https://img.freepik.com/free-vector/lava-ground-cracks-top-view-volcano-magma_107791-8852.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bGF2YQ==a7d83c4a.mp3"
+  },
+  {
+    "id": 3380,
+    "combinedTranslation": "аркада",
+    "wordValue": "arcade",
+    "transcription": "ɑrˈkeɪd",
+    "created": 1737990412,
+    "added": 1737980344,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3224890.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YXJjYWRl7003f784.mp3"
+  },
+  {
+    "id": 3255,
+    "combinedTranslation": "аплодисменты",
+    "wordValue": "applause",
+    "transcription": "əplˈɔːz",
+    "created": 1737990374,
+    "added": 1737980344,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/325681.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YXBwbGF1c2U=1f1da558.mp3"
+  },
+  {
+    "id": 22393,
+    "combinedTranslation": "джем",
+    "wordValue": "jam",
+    "transcription": "ʤæm",
+    "created": 1737990364,
+    "added": 1737980344,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/466092.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/amFtd1df25aa.mp3"
+  },
+  {
+    "id": 24892,
+    "combinedTranslation": "манго",
+    "wordValue": "mango",
+    "transcription": "ˈmæŋgoʊ",
+    "created": 1737990356,
+    "added": 1737980344,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/317635.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bWFuZ28=27c80f2a.mp3"
+  },
+  {
+    "id": 24246,
+    "combinedTranslation": "леденец",
+    "wordValue": "lollipop",
+    "transcription": "lˈɒlɪpɒp",
+    "created": 1737990345,
+    "added": 1737980344,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/1067872.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bG9sbGlwb3A=ea4aeb1d.mp3"
+  },
+  {
+    "id": 30703,
+    "combinedTranslation": "ананас",
+    "wordValue": "pineapple",
+    "transcription": "ˈpaɪˌnæpəl",
+    "created": 1737990335,
+    "added": 1737980344,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/263392.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cGluZWFwcGxl157ac0bd.mp3"
+  },
+  {
+    "id": 29967,
+    "combinedTranslation": "пенни",
+    "wordValue": "penny",
+    "transcription": "ˈpɛni",
+    "created": 1737990325,
+    "added": 1737980344,
+    "picture": "https://img.freepik.com/free-psd/close-up-coins-isolated_23-2151337790.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cGVubnk=5d18b64e.mp3"
+  },
+  {
+    "id": 10725,
+    "combinedTranslation": "сладкий заварной крем",
+    "wordValue": "custard",
+    "transcription": "ˈkʌstərd",
+    "created": 1737990304,
+    "added": 1737980344,
+    "picture": "https://img.freepik.com/free-photo/homemade-vanilla-custard-wooden-table-background_123827-27797.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y3VzdGFyZA==9b5ba340.mp3"
+  },
+  {
+    "id": 2963,
+    "combinedTranslation": "объявление",
+    "wordValue": "announcement",
+    "transcription": "əˈnaʊnsmənt",
+    "created": 1737990287,
+    "added": 1737980344,
+    "picture": "https://img.freepik.com/free-photo/megaphone-with-empty-sign-copy-space-symbol-background-3d-illustration_56104-2047.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YW5ub3VuY2VtZW505a8e7218.mp3"
+  },
+  {
+    "id": 4005,
+    "combinedTranslation": "подождать",
+    "wordValue": "await",
+    "transcription": "əwˈeɪːt",
+    "created": 1737990262,
+    "added": 1737980344,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/99293.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YXdhaXQ=5b8f8d07.mp3"
+  },
+  {
+    "id": 20239,
+    "combinedTranslation": "глупость",
+    "wordValue": "humbug",
+    "transcription": "hˈʌmbʌg",
+    "created": 1737990247,
+    "added": 1737980344,
+    "picture": "https://img.freepik.com/free-photo/portrait-young-woman-holding-her-head-near-fireplace_114579-81057.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aHVtYnVna4d206e2.mp3"
+  },
+  {
+    "id": 6387,
+    "combinedTranslation": "бык",
+    "wordValue": "bull",
+    "transcription": "bʊl",
+    "created": 1737990230,
+    "added": 1737980344,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/154557.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YnVsbA==12b92cfc.mp3"
+  },
+  {
+    "id": 44991,
+    "combinedTranslation": "крошечный",
+    "wordValue": "wee",
+    "transcription": "wˈiː",
+    "created": 1737990191,
+    "added": 1737980344,
+    "picture": "https://img.freepik.com/free-vector/fun-pack-smiley-stickers_23-2147676928.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/d2Vlc66a3104.mp3"
+  },
+  {
+    "id": 42190,
+    "combinedTranslation": "тележка",
+    "wordValue": "trolley",
+    "transcription": "ˈtrɑli",
+    "created": 1737990126,
+    "added": 1737980344,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/1730010.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dHJvbGxleQ==ca5e7b0d.mp3"
+  },
+  {
+    "id": 28246,
+    "combinedTranslation": "открывашка",
+    "wordValue": "opener",
+    "transcription": "oupənə",
+    "created": 1737989955,
+    "added": 1737980344,
+    "picture": "https://img.freepik.com/free-psd/elegant-olive-wood-bottle-opener_191095-93124.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/b3BlbmVy5f668156.mp3"
+  },
+  {
+    "id": 11416,
+    "combinedTranslation": "отклонять",
+    "wordValue": "deflect",
+    "transcription": "dɪflˈekt",
+    "created": 1737551639,
+    "added": 1737980344,
+    "picture": "https://img.freepik.com/free-vector/realistic-set-ripped-plastic-wraps-isolated-transparent-background-vector-illustration-polyethylene-rectangles-with-uneven-torn-edge-holes-wrinkled-texture-packaging-damage-overlay-effect_107791-23214.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZGVmbGVjdA==d2ef5425.mp3"
+  },
+  {
+    "id": 1226007108,
+    "combinedTranslation": "на месте",
+    "wordValue": "on premise",
+    "transcription": "ɑn prˈemɪs",
+    "created": 1736173360,
+    "added": 1737980344,
+    "picture": "https://img.freepik.com/free-vector/futuristic-abstract-data-warehouse-cloud-storage-server-room-data-center-database-icon_39422-570.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/b24gcHJlbWlzZQ==226d32c6.mp3"
+  },
+  {
     "id": 201293,
     "combinedTranslation": "не ложиться спать, бодрствовать",
     "wordValue": "stay up",
