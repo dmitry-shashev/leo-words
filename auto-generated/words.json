@@ -1,5 +1,85 @@
 [
   {
+    "id": 225535,
+    "combinedTranslation": "сумашедший, безумный, ненормальный",
+    "wordValue": "round the bend",
+    "transcription": "rˈaʊːnd ðə bˈend",
+    "created": 1740930531,
+    "added": 1740919869,
+    "picture": "https://img.freepik.com/free-vector/doodle-sync-arrows-set-gradient-colour_78370-2838.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cm91bmQgdGhlIGJlbmQ=844a7fd4.mp3"
+  },
+  {
+    "id": 737803,
+    "combinedTranslation": "дело в шляпе; когда все уже решено",
+    "wordValue": "in the bag",
+    "transcription": "ɪn ðə bˈæg",
+    "created": 1740930515,
+    "added": 1740919869,
+    "picture": "https://img.freepik.com/free-vector/drawn-face-mask-storage-cases_23-2148802939.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aW4gdGhlIGJhZw==cf386b81.mp3"
+  },
+  {
+    "id": 203013,
+    "combinedTranslation": "в один миг, мигом",
+    "wordValue": "in a jiffy",
+    "transcription": "ɪn ə dʒˈɪfi",
+    "created": 1740930495,
+    "added": 1740919869,
+    "picture": "https://img.freepik.com/free-photo/still-life-with-gardening-concept_23-2148127976.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aW4gYSBqaWZmeQ==0d0aade2.mp3"
+  },
+  {
+    "id": 20124,
+    "combinedTranslation": "разг. пустая болтовня",
+    "wordValue": "hot air",
+    "transcription": "hˈɒt ˈeəː",
+    "created": 1740930468,
+    "added": 1740919869,
+    "picture": "https://img.freepik.com/free-vector/hot-air-balloon-travel-background_23-2147804188.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aG90IGFpcg==d4b6860b.mp3"
+  },
+  {
+    "id": 1294184,
+    "combinedTranslation": "проще простого",
+    "wordValue": "easy peasy",
+    "transcription": "ˈiːzi pˈesi",
+    "created": 1740930440,
+    "added": 1740919869,
+    "picture": "https://img.freepik.com/free-photo/confident-pretty-caucasian-woman-holds-hand-open-gestures-money-hand-sign-olive-green_141793-69224.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZWFzeSBwZWFzeQ==0bda5517.mp3"
+  },
+  {
+    "id": 102437097,
+    "combinedTranslation": "бережливость",
+    "wordValue": "frugality",
+    "transcription": "",
+    "created": 1740930397,
+    "added": 1740919869,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/11984.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZnJ1Z2FsaXR58472e0be.mp3"
+  },
+  {
+    "id": 3823,
+    "combinedTranslation": "физ. тех. затухание",
+    "wordValue": "attenuation",
+    "transcription": "ətɛnjʊˈeɪːʃən",
+    "created": 1740930388,
+    "added": 1740919869,
+    "picture": "https://img.freepik.com/free-vector/speaker-icon-ear-white-background_1308-105156.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YXR0ZW51YXRpb24=cdf87900.mp3"
+  },
+  {
+    "id": 1485019406,
+    "combinedTranslation": "выпуклый",
+    "wordValue": "convex",
+    "transcription": "kˈɒnvɛks",
+    "created": 1740930380,
+    "added": 1740919869,
+    "picture": "https://img.freepik.com/free-vector/circle-black-lines-background_78370-2128.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y29udmV49d474836.mp3"
+  },
+  {
     "id": 15003,
     "combinedTranslation": "экскурсия",
     "wordValue": "excursion",
