@@ -1,5 +1,95 @@
 [
   {
+    "id": 45802,
+    "combinedTranslation": "Скручивать",
+    "wordValue": "wring",
+    "transcription": "rɪŋ",
+    "created": 1742488544,
+    "added": 1742477861,
+    "picture": "https://img.freepik.com/free-vector/hands-holding-cleaning-tools-flat-illustration-set-cartoon-arms-with-broom-brush-scoop-bottle-with-cleaner-rag-isolated-vector-illustration-collection-household-maintenance-cleanliness-co_74855-10080.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/d3Jpbmc=8bb7205e.mp3"
+  },
+  {
+    "id": 45560,
+    "combinedTranslation": "скрывать",
+    "wordValue": "withhold",
+    "transcription": "wɪðhould",
+    "created": 1742488514,
+    "added": 1742477861,
+    "picture": "https://img.freepik.com/free-photo/framing-landscape-while-traveling_23-2149887695.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/d2l0aGhvbGQ=8cc5f8b4.mp3"
+  },
+  {
+    "id": 42007,
+    "combinedTranslation": "наступить",
+    "wordValue": "tread",
+    "transcription": "trˈed",
+    "created": 1742488428,
+    "added": 1742477861,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/55622.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dHJlYWQ=dee1eee1.mp3"
+  },
+  {
+    "id": 36751,
+    "combinedTranslation": "отрезать",
+    "wordValue": "shear",
+    "transcription": "ʃˈɪəː",
+    "created": 1742488281,
+    "added": 1742477861,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/49011.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c2hlYXI=dbc5a7be.mp3"
+  },
+  {
+    "id": 34626,
+    "combinedTranslation": "избавиться",
+    "wordValue": "rid",
+    "transcription": "rɪd",
+    "created": 1742488253,
+    "added": 1742477861,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3699143.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cmlka07874d4.mp3"
+  },
+  {
+    "id": 18473,
+    "combinedTranslation": "перемалывать",
+    "wordValue": "grind",
+    "transcription": "graɪnd",
+    "created": 1742488126,
+    "added": 1742477861,
+    "picture": "https://img.freepik.com/free-photo/coffee-texture-background_1220-6148.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Z3JpbmQ=8bd21b56.mp3"
+  },
+  {
+    "id": 16699,
+    "combinedTranslation": "отказаться от",
+    "wordValue": "forego",
+    "transcription": "fɔːgou",
+    "created": 1742488096,
+    "added": 1742477861,
+    "picture": "https://img.freepik.com/free-photo/landscape-helmcken-falls-surrounded-by-greenery-canada_181624-11724.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Zm9yZWdv54a26255.mp3"
+  },
+  {
+    "id": 16347,
+    "combinedTranslation": "сбежать",
+    "wordValue": "flee",
+    "transcription": "flˈiː",
+    "created": 1742488056,
+    "added": 1742477861,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/71876.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZmxlZQ==67c0959f.mp3"
+  },
+  {
+    "id": 4966,
+    "combinedTranslation": "осаждать",
+    "wordValue": "beset",
+    "transcription": "bɪsˈet",
+    "created": 1742487969,
+    "added": 1742477861,
+    "picture": "https://img.freepik.com/free-photo/hands-preparing-delicious-burger_23-2148374817.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YmVzZXQ=383001a8.mp3"
+  },
+  {
     "id": 225535,
     "combinedTranslation": "сумашедший, безумный, ненормальный",
     "wordValue": "round the bend",
