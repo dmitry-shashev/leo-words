@@ -1,5 +1,95 @@
 [
   {
+    "id": 1838342479,
+    "combinedTranslation": "рядом",
+    "wordValue": "alongside",
+    "transcription": "əlɒŋsˈaɪd",
+    "created": 1744021216,
+    "added": 1744010519,
+    "picture": "https://img.freepik.com/free-photo/charming-couple-sitting-stairs-outdoors_23-2150656255.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YWxvbmdzaWRlcbf5da4f.mp3"
+  },
+  {
+    "id": 23347,
+    "combinedTranslation": "шнурок (для свистка",
+    "wordValue": "lanyard",
+    "transcription": "lˈænjəd",
+    "created": 1743520343,
+    "added": 1744010519,
+    "picture": "https://img.freepik.com/free-vector/lobster-clasp-hook-lanyard-metal-accessories-badges-id-cards-ribbon-belt-lace-steel-swivel-snap-clips-holder-isolated-transparent-background-3d-vector-illustration-mockup_107791-7834.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bGFueWFyZA==a5785ed4.mp3"
+  },
+  {
+    "id": 41350,
+    "combinedTranslation": "оттенок",
+    "wordValue": "tint",
+    "transcription": "tɪnt",
+    "created": 1743424364,
+    "added": 1744010519,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/133892.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dGludA==c12b5627.mp3"
+  },
+  {
+    "id": 15112,
+    "combinedTranslation": "ускорить",
+    "wordValue": "expedite",
+    "transcription": "ˈekspɪdaɪːt",
+    "created": 1742737799,
+    "added": 1744010519,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/604097.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZXhwZWRpdGU=21ea880b.mp3"
+  },
+  {
+    "id": 1972,
+    "combinedTranslation": "достаточность",
+    "wordValue": "adequacy",
+    "transcription": "ˈædɪkwəsi",
+    "created": 1742737788,
+    "added": 1744010519,
+    "picture": "https://img.freepik.com/free-vector/calm-businessman-meditating-scales-keep-harmony-choose-career-relax-business-family-leisure-money-office-job-home-work-life-balance-concept-flat-cartoon-style_88138-530.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YWRlcXVhY3k=dfaae6ac.mp3"
+  },
+  {
+    "id": 24205,
+    "combinedTranslation": "жильё",
+    "wordValue": "lodge",
+    "transcription": "lɑʤ",
+    "created": 1742737776,
+    "added": 1744010519,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/222260.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bG9kZ2U=c959fbdc.mp3"
+  },
+  {
+    "id": 46836,
+    "combinedTranslation": "зануда",
+    "wordValue": "downer",
+    "transcription": "dˈaʊːnə",
+    "created": 1742737752,
+    "added": 1744010519,
+    "picture": "https://img.freepik.com/free-photo/freelance-worker-using-smartphone_1098-13428.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZG93bmVy22c6091f.mp3"
+  },
+  {
+    "id": 1107252059,
+    "combinedTranslation": "устрашающий",
+    "wordValue": "dissuasive",
+    "transcription": "",
+    "created": 1742737727,
+    "added": 1744010519,
+    "picture": "https://img.freepik.com/free-photo/low-angle-shot-barbed-wire-fence-clear-blue-sky_181624-14816.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZGlzc3Vhc2l2ZQ==7139d5c9.mp3"
+  },
+  {
+    "id": 46745,
+    "combinedTranslation": "вывод из эксплуатации",
+    "wordValue": "decommission",
+    "transcription": "dikəmˈɪʃən",
+    "created": 1742737708,
+    "added": 1744010519,
+    "picture": "https://img.freepik.com/free-photo/assortment-dirty-dumped-objects_23-2148996980.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZGVjb21taXNzaW9u49af31cf.mp3"
+  },
+  {
     "id": 45802,
     "combinedTranslation": "Скручивать",
     "wordValue": "wring",
