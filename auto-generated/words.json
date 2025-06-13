@@ -1,5 +1,65 @@
 [
   {
+    "id": 44630,
+    "combinedTranslation": "палочка",
+    "wordValue": "wand",
+    "transcription": "wɒnd",
+    "created": 1749814317,
+    "added": 1749803603,
+    "picture": "https://img.freepik.com/free-vector/male-hand-holding-long-black-magic-wand-with-pattern-transparent-background-realistic-vector-illustration_1284-19881.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/d2FuZA==f553225a.mp3"
+  },
+  {
+    "id": 15412,
+    "combinedTranslation": "фея",
+    "wordValue": "fairy",
+    "transcription": "ˈfɛri",
+    "created": 1749814291,
+    "added": 1749803603,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/350075.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZmFpcnk=65c7fcb2.mp3"
+  },
+  {
+    "id": 38170,
+    "combinedTranslation": "лопата",
+    "wordValue": "spade",
+    "transcription": "spˈeɪːd",
+    "created": 1749814225,
+    "added": 1749803603,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/93224.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c3BhZGU=6b02ea6f.mp3"
+  },
+  {
+    "id": 1404491376,
+    "combinedTranslation": "великолепная",
+    "wordValue": "magnific",
+    "transcription": "",
+    "created": 1749814188,
+    "added": 1749803603,
+    "picture": "https://img.freepik.com/free-vector/realistic-magnifying-glass_1006-3.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bWFnbmlmaWM=cb5bac79.mp3"
+  },
+  {
+    "id": 1198553763,
+    "combinedTranslation": "блевать",
+    "wordValue": "barf",
+    "transcription": "bˈɑːf",
+    "created": 1749812766,
+    "added": 1749803603,
+    "picture": "https://img.freepik.com/free-photo/healthy-fresh-pet-food-ingredients-dark-surface_1150-42125.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YmFyZg==b93f5032.mp3"
+  },
+  {
+    "id": 26883,
+    "combinedTranslation": "пупок",
+    "wordValue": "navel",
+    "transcription": "ˈneɪvəl",
+    "created": 1749812756,
+    "added": 1749803603,
+    "picture": "https://img.freepik.com/free-photo/beautiful-slim-woman-body-with-tan-white-wall_231208-3769.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bmF2ZWw=d205cb42.mp3"
+  },
+  {
     "id": 1838342479,
     "combinedTranslation": "рядом",
     "wordValue": "alongside",
