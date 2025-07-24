@@ -1,6 +1,6 @@
 {
   "name": "leo-words",
-  "version": "0.0.163",
+  "version": "0.0.164",
   "private": true,
   "scripts": {
     "prepare": "husky",

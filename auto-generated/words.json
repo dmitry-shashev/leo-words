@@ -1,5 +1,295 @@
 [
   {
+    "id": 212583,
+    "combinedTranslation": "быстро, бегом",
+    "wordValue": "on the double",
+    "transcription": "ɒn ðə dˈʌbl",
+    "created": 1753361223,
+    "added": 1753350552,
+    "picture": "https://img.freepik.com/free-photo/romantic-couple-city-night_23-2149215120.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/b24gdGhlIGRvdWJsZQ==e27041e3.mp3"
+  },
+  {
+    "id": 199663,
+    "combinedTranslation": "время от времени, то и дело",
+    "wordValue": "now and then",
+    "transcription": "nˈaʊː w̆ənd ðˈen",
+    "created": 1753360988,
+    "added": 1753350552,
+    "picture": "https://img.freepik.com/free-vector/order-now-banner_23-2148711629.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bm93IGFuZCB0aGVua315b83b.mp3"
+  },
+  {
+    "id": 431131,
+    "combinedTranslation": "понимаешь, что я имею в виду",
+    "wordValue": "get my drift",
+    "transcription": "gˈet mˈaɪ drˈɪft",
+    "created": 1753360953,
+    "added": 1753350552,
+    "picture": "https://img.freepik.com/free-photo/young-woman-enjoys-sunset-while-sitting-trunk-suv_169016-21452.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Z2V0IG15IGRyaWZ090be13c7.mp3"
+  },
+  {
+    "id": 308723,
+    "combinedTranslation": "игра началась",
+    "wordValue": "game on",
+    "transcription": "gˈeɪːm ɒn",
+    "created": 1753360939,
+    "added": 1753350552,
+    "picture": "https://img.freepik.com/free-vector/offline-twitch-banner-template_23-2148594184.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Z2FtZSBvbg==a6db2a04.mp3"
+  },
+  {
+    "id": 31367,
+    "combinedTranslation": "римский папа",
+    "wordValue": "Pope",
+    "transcription": "poʊp",
+    "created": 1753360904,
+    "added": 1753350552,
+    "picture": "https://img.freepik.com/free-photo/pope-walking-corridor_23-2151976010.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cG9wZQ==938a5363.mp3"
+  },
+  {
+    "id": 1606688738,
+    "combinedTranslation": "святость",
+    "wordValue": "holiness",
+    "transcription": "houlɪnəs",
+    "created": 1753360766,
+    "added": 1753350552,
+    "picture": "https://img.freepik.com/free-vector/collection-illustrated-religious-symbols_53876-8151.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aG9saW5lc3M=eb675388.mp3"
+  },
+  {
+    "id": 23597,
+    "combinedTranslation": "выступ",
+    "wordValue": "ledge",
+    "transcription": "lˈedʒ",
+    "created": 1753360716,
+    "added": 1753350552,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/408690.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bGVkZ2U=1b078fe1.mp3"
+  },
+  {
+    "id": 41154,
+    "combinedTranslation": "гангстер",
+    "wordValue": "thug",
+    "transcription": "θˈʌg",
+    "created": 1753357851,
+    "added": 1753350552,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/49348.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dGh1Zw==f4f65fd4.mp3"
+  },
+  {
+    "id": 18697,
+    "combinedTranslation": "пулевое ранение, выстрел",
+    "wordValue": "gunshot",
+    "transcription": "gˈʌnʃɒt",
+    "created": 1753357832,
+    "added": 1753350552,
+    "picture": "https://img.freepik.com/free-vector/bullet-holes-set_1284-46498.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Z3Vuc2hvdA==3122746d.mp3"
+  },
+  {
+    "id": 40728,
+    "combinedTranslation": "напряжённый",
+    "wordValue": "tense",
+    "transcription": "tˈens",
+    "created": 1753357793,
+    "added": 1753350552,
+    "picture": "https://img.freepik.com/free-photo/picture-exhausted-young-man-blue-casual-shirt_176420-15574.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dGVuc2U=8e20d11b.mp3"
+  },
+  {
+    "id": 24098,
+    "combinedTranslation": "средства к существованию",
+    "wordValue": "livelihood",
+    "transcription": "lˈaɪvlɪhʊd",
+    "created": 1753357687,
+    "added": 1753350552,
+    "picture": "https://img.freepik.com/free-vector/flat-world-art-day-illustration_52683-161567.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bGl2ZWxpaG9vZA==598795c5.mp3"
+  },
+  {
+    "id": 12613,
+    "combinedTranslation": "диспетчер",
+    "wordValue": "dispatcher",
+    "transcription": "dɪˈspæʧər",
+    "created": 1753357642,
+    "added": 1753350552,
+    "picture": "https://img.freepik.com/free-vector/cab-online-ordering-process-hands-passenger-using-taxi-service-application-cell-dispatcher-headset-taking-order-mobile-app-taxicab-city-transport-concept_74855-13019.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZGlzcGF0Y2hlcg==e1fb1df1.mp3"
+  },
+  {
+    "id": 47068,
+    "combinedTranslation": "груб. мерзавец",
+    "wordValue": "git",
+    "transcription": "gˈɪt",
+    "created": 1753356939,
+    "added": 1753350552,
+    "picture": "https://img.freepik.com/free-vector/pixel-cursors-icons-mouse-hand-arrow-hourglass-vector-illustration_1284-46057.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Z2l07a36b7c4.mp3"
+  },
+  {
+    "id": 9430,
+    "combinedTranslation": "рассмотрение",
+    "wordValue": "consideration",
+    "transcription": "kənˌsɪdəˈreɪʃən",
+    "created": 1753356767,
+    "added": 1753350552,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/169859.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y29uc2lkZXJhdGlvbg==6caf95ae.mp3"
+  },
+  {
+    "id": 1971598273,
+    "combinedTranslation": "соблазнительный",
+    "wordValue": "seductive",
+    "transcription": "sɪdˈʌktɪv",
+    "created": 1753356671,
+    "added": 1753350552,
+    "picture": "https://img.freepik.com/free-photo/sensual-girl-black-body-lingerie-posing-leaned-mirror-shot-sexy-woman-black-lingerie-home-interior-toned-image_549566-1049.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c2VkdWN0aXZle9841557.mp3"
+  },
+  {
+    "id": 7877,
+    "combinedTranslation": "щебетать",
+    "wordValue": "chirp",
+    "transcription": "tʃˈɜːp",
+    "created": 1753356634,
+    "added": 1753350552,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/329651.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y2hpcnA=004ebec9.mp3"
+  },
+  {
+    "id": 1692426070,
+    "combinedTranslation": "насмешливо",
+    "wordValue": "mockingly",
+    "transcription": "mˈɒkɪŋli",
+    "created": 1753356541,
+    "added": 1753350552,
+    "picture": "https://img.freepik.com/free-psd/smartphone-studio-mockup_23-2151907074.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bW9ja2luZ2x51719c08b.mp3"
+  },
+  {
+    "id": 1779798274,
+    "combinedTranslation": "пышный",
+    "wordValue": "luxuriant",
+    "transcription": "lʌgʒˈʊəːrɪəːnt",
+    "created": 1753356054,
+    "added": 1753350552,
+    "picture": "https://img.freepik.com/free-vector/gradient-golden-linear-background_23-2148944107.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bHV4dXJpYW5008f9cccf.mp3"
+  },
+  {
+    "id": 40375,
+    "combinedTranslation": "загар",
+    "wordValue": "tan",
+    "transcription": "tæn",
+    "created": 1753356040,
+    "added": 1753350552,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/31333.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dGFuc51b42fe.mp3"
+  },
+  {
+    "id": 21435,
+    "combinedTranslation": "лазарет",
+    "wordValue": "infirmary",
+    "transcription": "ɪnfˈɜːməri",
+    "created": 1753356026,
+    "added": 1753350552,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/154978.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aW5maXJtYXJ512e13ba7.mp3"
+  },
+  {
+    "id": 21761,
+    "combinedTranslation": "учреждение",
+    "wordValue": "institution",
+    "transcription": "ˌɪnstɪˈtuʃən",
+    "created": 1753355988,
+    "added": 1753350552,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/2075271.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aW5zdGl0dXRpb24=0ed8e82e.mp3"
+  },
+  {
+    "id": 1870354682,
+    "combinedTranslation": "обломки",
+    "wordValue": "flotsam",
+    "transcription": "flˈɒtsəm",
+    "created": 1753355955,
+    "added": 1753350552,
+    "picture": "https://img.freepik.com/free-photo/debris-cayenne-river-french-guiana_181624-3409.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZmxvdHNhbQ==0e8c3a31.mp3"
+  },
+  {
+    "id": 1162,
+    "combinedTranslation": "Столб, полюс",
+    "wordValue": "pole",
+    "transcription": "poʊl",
+    "created": 1753355909,
+    "added": 1753350552,
+    "picture": "https://img.freepik.com/free-vector/street-lights-realistic-icon-set-white-background-different-styles-city-illustration_1284-31447.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cG9sZQ==e5832483.mp3"
+  },
+  {
+    "id": 6534,
+    "combinedTranslation": "попойка",
+    "wordValue": "buster",
+    "transcription": "bˈʌstə",
+    "created": 1753355868,
+    "added": 1753350552,
+    "picture": "https://img.freepik.com/free-vector/cute-shiba-inu-dog-holding-hammer-lightning-cartoon-vector-icon-illustration-animal-holiday-icon_138676-6310.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YnVzdGVy38b418cd.mp3"
+  },
+  {
+    "id": 141412,
+    "combinedTranslation": "блокировка",
+    "wordValue": "lockup",
+    "transcription": "lˈɒkʌp",
+    "created": 1753355832,
+    "added": 1753350552,
+    "picture": "https://img.freepik.com/free-psd/silver-word-template-red-paper_145275-171.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bG9ja3Vw989d27ff.mp3"
+  },
+  {
+    "id": 10088,
+    "combinedTranslation": "округ",
+    "wordValue": "county",
+    "transcription": "ˈkaʊnti",
+    "created": 1753355814,
+    "added": 1753350552,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/129318.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y291bnR5069ffecb.mp3"
+  },
+  {
+    "id": 19111,
+    "combinedTranslation": "гармошка",
+    "wordValue": "harmonica",
+    "transcription": "hɑːmˈɒnɪkə",
+    "created": 1753355783,
+    "added": 1753350552,
+    "picture": "https://img.freepik.com/free-vector/accordion-musical-instrument-icon-isolated_24640-133984.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aGFybW9uaWNh176c0560.mp3"
+  },
+  {
+    "id": 33556,
+    "combinedTranslation": "опровержение",
+    "wordValue": "rebuttal",
+    "transcription": "rɪbˈʌtl",
+    "created": 1752589859,
+    "added": 1753350552,
+    "picture": "https://img.freepik.com/free-photo/displeased-young-beautiful-woman-showing-stop-stretching-from-camera_176420-9972.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cmVidXR0YWw=019fa1ba.mp3"
+  },
+  {
+    "id": 1166355350,
+    "combinedTranslation": "сушильная машина",
+    "wordValue": "tumble dryer",
+    "transcription": "tˈʌmbl ˈdraɪər",
+    "created": 1752589774,
+    "added": 1753350552,
+    "picture": "https://img.freepik.com/free-photo/washing-machine-minimal-laundry-room-interior-design_53876-145501.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dHVtYmxlIGRyeWVybfa0d138.mp3"
+  },
+  {
     "id": 44630,
     "combinedTranslation": "палочка",
     "wordValue": "wand",
