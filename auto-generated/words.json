@@ -1,5 +1,185 @@
 [
   {
+    "id": 1644909390,
+    "combinedTranslation": "детская погремушка",
+    "wordValue": "baby rattle",
+    "transcription": "ˈbeɪbi rˈætl",
+    "created": 1754923748,
+    "added": 1754912970,
+    "picture": "https://img.freepik.com/free-vector/blue-baby-rattle_53876-67750.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YmFieSByYXR0bGU=e6466c74.mp3"
+  },
+  {
+    "id": 1952947103,
+    "combinedTranslation": "подтянись",
+    "wordValue": "pull yourself up",
+    "transcription": "pʊl jərˈsɛlf ʌp",
+    "created": 1754923290,
+    "added": 1754912970,
+    "picture": "https://img.freepik.com/free-photo/young-man-doing-standing-wall-push-up_23-2147839359.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cHVsbCB5b3Vyc2VsZiB1cA==a18de1cf.mp3"
+  },
+  {
+    "id": 203146,
+    "combinedTranslation": "мочка",
+    "wordValue": "earlobe",
+    "transcription": "ˈɪəːləʊːb",
+    "created": 1754923265,
+    "added": 1754912970,
+    "picture": "https://img.freepik.com/free-vector/ear-piercing-types-positions-background-poster_1284-14558.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZWFybG9iZQ==502a9439.mp3"
+  },
+  {
+    "id": 2025620975,
+    "combinedTranslation": "брусья",
+    "wordValue": "parallel bars",
+    "transcription": "ˈpɛrəˌlɛl bɑrz",
+    "created": 1754923222,
+    "added": 1754912970,
+    "picture": "https://img.freepik.com/free-vector/workout-isometric-set-with-men-doing-push-ups-pulls-ups-bars-isolated-3d-vector-illustration_1284-77881.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cGFyYWxsZWwgYmFycw==4d7ddcd5.mp3"
+  },
+  {
+    "id": 47660,
+    "combinedTranslation": "соска",
+    "wordValue": "pacifier",
+    "transcription": "pˈæsɪfaɪːə",
+    "created": 1754923144,
+    "added": 1754912970,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/54682.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cGFjaWZpZXI=664c8922.mp3"
+  },
+  {
+    "id": 1325544262,
+    "combinedTranslation": "рыбы",
+    "wordValue": "pisces",
+    "transcription": "ˈpɪsiːz",
+    "created": 1754923115,
+    "added": 1754912970,
+    "picture": "https://img.freepik.com/free-vector/linear-flat-zodiac-sign-collection_52683-64335.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cGlzY2Vz667dfe6f.mp3"
+  },
+  {
+    "id": 118,
+    "combinedTranslation": "Водолей (зодиак)",
+    "wordValue": "Aquarius",
+    "transcription": "əˈkweərɪəs",
+    "created": 1754923103,
+    "added": 1754912970,
+    "picture": "https://img.freepik.com/free-vector/zodiac-sign-icons-symbols-astrological-calendar-horoscope-vector-design-element_145391-1435.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YXF1YXJpdXM=0dbaaa93.mp3"
+  },
+  {
+    "id": 2073314780,
+    "combinedTranslation": "козерог",
+    "wordValue": "capricorn",
+    "transcription": "",
+    "created": 1754923086,
+    "added": 1754912970,
+    "picture": "https://img.freepik.com/free-vector/linear-flat-zodiac-sign-collection_52683-64335.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y2Fwcmljb3Jubbbbf302.mp3"
+  },
+  {
+    "id": 1270,
+    "combinedTranslation": "стрелец",
+    "wordValue": "Sagittarius",
+    "transcription": "ˌsæʤɪˈteərɪəs",
+    "created": 1754923073,
+    "added": 1754912970,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/75142.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c2FnaXR0YXJpdXM=32ef4f11.mp3"
+  },
+  {
+    "id": 1300,
+    "combinedTranslation": "Скорпион (зодиак)",
+    "wordValue": "Scorpio",
+    "transcription": "skˈɔːpɪəːə",
+    "created": 1754923061,
+    "added": 1754912970,
+    "picture": "https://img.freepik.com/free-vector/zodiac-sign-icons-symbols-astrological-calendar-horoscope-vector-design-element_145391-1435.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c2NvcnBpbw==27feea5d.mp3"
+  },
+  {
+    "id": 859,
+    "combinedTranslation": "Весы (гороскоп)",
+    "wordValue": "Libra",
+    "transcription": "ˈlaɪbrə",
+    "created": 1754923049,
+    "added": 1754912970,
+    "picture": "https://img.freepik.com/free-vector/linear-flat-zodiac-sign-collection_52683-64335.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bGlicmE=6317ff82.mp3"
+  },
+  {
+    "id": 1491,
+    "combinedTranslation": "Дева (зодиак)",
+    "wordValue": "Virgo",
+    "transcription": "ˈvɜːgəʊ",
+    "created": 1754923034,
+    "added": 1754912970,
+    "picture": "https://img.freepik.com/free-vector/linear-flat-zodiac-sign-collection_52683-64335.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dmlyZ28=31f7665b.mp3"
+  },
+  {
+    "id": 102437517,
+    "combinedTranslation": "лев по зодиаку",
+    "wordValue": "Leo",
+    "transcription": "",
+    "created": 1754923022,
+    "added": 1754912970,
+    "picture": "https://img.freepik.com/free-vector/hand-painted-zodiac-signs-set_52683-64576.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bGVvd47151eb.mp3"
+  },
+  {
+    "id": 103051064,
+    "combinedTranslation": "близнец",
+    "wordValue": "gemini",
+    "transcription": "",
+    "created": 1754922990,
+    "added": 1754912970,
+    "picture": "https://img.freepik.com/free-vector/zodiac-sign-icons-symbols-astrological-calendar-horoscope-vector-design-element_145391-1435.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Z2VtaW5p59344230.mp3"
+  },
+  {
+    "id": 1403,
+    "combinedTranslation": "телец",
+    "wordValue": "Taurus",
+    "transcription": "ˈtɔːrəs",
+    "created": 1754922974,
+    "added": 1754912970,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/1745170.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dGF1cnVzaad7d0a2.mp3"
+  },
+  {
+    "id": 1249315377,
+    "combinedTranslation": "овен",
+    "wordValue": "aries",
+    "transcription": "ˈeəriːz",
+    "created": 1754922963,
+    "added": 1754912970,
+    "picture": "https://img.freepik.com/free-vector/linear-flat-zodiac-sign-collection_52683-64335.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YXJpZXM=50e3e5d6.mp3"
+  },
+  {
+    "id": 29712,
+    "combinedTranslation": "шахм. пешка",
+    "wordValue": "pawn",
+    "transcription": "pɔːn",
+    "created": 1754922911,
+    "added": 1754912970,
+    "picture": "https://img.freepik.com/free-vector/chess_53876-25642.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cGF3bg==78d26b60.mp3"
+  },
+  {
+    "id": 5255,
+    "combinedTranslation": "шахм.слон",
+    "wordValue": "bishop",
+    "transcription": "ˈbɪʃəp",
+    "created": 1754922861,
+    "added": 1754912970,
+    "picture": "https://img.freepik.com/free-photo/chessman-is-changed-shadow-crown_1150-19664.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YmlzaG9wbaedd39e.mp3"
+  },
+  {
     "id": 212583,
     "combinedTranslation": "быстро, бегом",
     "wordValue": "on the double",
@@ -30961,7 +31141,7 @@
   },
   {
     "id": 22342,
-    "combinedTranslation": "домкрат",
+    "combinedTranslation": "карт. валет; домкрат",
     "wordValue": "jack",
     "transcription": "ʤæk",
     "created": 1526860800,
@@ -43661,12 +43841,12 @@
   },
   {
     "id": 1842,
-    "combinedTranslation": "успешно справляться",
+    "combinedTranslation": "туз; успешно справляться",
     "wordValue": "ace",
     "transcription": "eɪs",
     "created": 1479772800,
     "added": 1726564642,
-    "picture": "https://img.freepik.com/free-vector/playing-cards-aces-set_78370-2354.jpg",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/158578.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YWNl719402a2.mp3"
   },
   {
@@ -62331,7 +62511,7 @@
   },
   {
     "id": 42273,
-    "combinedTranslation": "превзойти",
+    "combinedTranslation": "козырь; превзойти",
     "wordValue": "trump",
     "transcription": "trˈʌmp",
     "created": 1453248000,
