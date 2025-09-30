@@ -1,5 +1,65 @@
 [
   {
+    "id": 26599,
+    "combinedTranslation": "жевать, чавкать",
+    "wordValue": "munch",
+    "transcription": "mˈʌntʃ",
+    "created": 1759223679,
+    "added": 1759212923,
+    "picture": "https://img.freepik.com/free-vector/flat-design-van-gogh-painting-illustration_23-2149546540.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bXVuY2g=4d6424be.mp3"
+  },
+  {
+    "id": 26475,
+    "combinedTranslation": "полный рот (чего-либо)",
+    "wordValue": "mouthful",
+    "transcription": "mˈaʊːθfʌl",
+    "created": 1759223624,
+    "added": 1759212923,
+    "picture": "https://img.freepik.com/free-photo/portrait-beautiful-redhead-girl-smiling-showing-tongue-winking_176420-9816.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bW91dGhmdWw=d2bb672b.mp3"
+  },
+  {
+    "id": 50360,
+    "combinedTranslation": "раньше",
+    "wordValue": "sooner",
+    "transcription": "sˈuːnə",
+    "created": 1759223606,
+    "added": 1759212923,
+    "picture": "https://img.freepik.com/free-photo/shocked-fashionable-guy-with-blue-eyes-ginger-beard-white-outfit-taking-off-eyeglasses-looking-into-camera-holding-clock_197531-27732.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c29vbmVy2cfff9d5.mp3"
+  },
+  {
+    "id": 31216,
+    "combinedTranslation": "политика",
+    "wordValue": "policy",
+    "transcription": "ˈpɑləsi",
+    "created": 1759223581,
+    "added": 1759212923,
+    "picture": "https://contentcdn.lingualeo.com/uploads/content/image/1604490071-835973120.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cG9saWN59c2f6d73.mp3"
+  },
+  {
+    "id": 1020483390,
+    "combinedTranslation": "богатый событиями",
+    "wordValue": "eventful",
+    "transcription": "ɪvˈentfl",
+    "created": 1759223568,
+    "added": 1759212923,
+    "picture": "https://img.freepik.com/free-vector/happy-tiny-business-people-dancing-having-fun-drinking-wine-corporate-party-team-building-activity-corporate-event-idea-concept-pinkish-coral-bluevector-isolated-illustration_335657-1414.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZXZlbnRmdWw=5c2a8096.mp3"
+  },
+  {
+    "id": 26802,
+    "combinedTranslation": "подгузник",
+    "wordValue": "nappy",
+    "transcription": "nˈæpi",
+    "created": 1759223537,
+    "added": 1759212923,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3761859.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bmFwcHk=da55c0dd.mp3"
+  },
+  {
     "id": 26491,
     "combinedTranslation": "косить",
     "wordValue": "mow",
