@@ -1,5 +1,55 @@
 [
   {
+    "id": 26491,
+    "combinedTranslation": "косить",
+    "wordValue": "mow",
+    "transcription": "mou",
+    "created": 1759220729,
+    "added": 1759210501,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/79924.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bW932196f539.mp3"
+  },
+  {
+    "id": 38142,
+    "combinedTranslation": "сеять, свинья",
+    "wordValue": "sow",
+    "transcription": "səʊ",
+    "created": 1759220546,
+    "added": 1759210501,
+    "picture": "https://img.freepik.com/free-photo/world-food-day-man-s-hand-embraces-soil-with-paddy-seeds-top_1150-18926.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c293c4f826ac.mp3"
+  },
+  {
+    "id": 39019,
+    "combinedTranslation": "вонять",
+    "wordValue": "stink",
+    "transcription": "stˈɪŋk",
+    "created": 1759220420,
+    "added": 1759210501,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/1860510.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c3Rpbms=aa6bd446.mp3"
+  },
+  {
+    "id": 19866,
+    "combinedTranslation": "кобура",
+    "wordValue": "holster",
+    "transcription": "houlstə",
+    "created": 1759220067,
+    "added": 1759210501,
+    "picture": "https://img.freepik.com/free-psd/tactical-vest-black-modular-protection-gear_191095-86004.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aG9sc3Rlcg==94e78499.mp3"
+  },
+  {
+    "id": 12397,
+    "combinedTranslation": "уволить",
+    "wordValue": "discharge",
+    "transcription": "dɪsˈʧɑrʤ",
+    "created": 1759220042,
+    "added": 1759210501,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/928197.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZGlzY2hhcmdl0706f1c1.mp3"
+  },
+  {
     "id": 1221114843,
     "combinedTranslation": "нерешительный",
     "wordValue": "indecisive",
@@ -771,7 +821,7 @@
   },
   {
     "id": 45560,
-    "combinedTranslation": "скрывать",
+    "combinedTranslation": "скрывать; удерживать, утаивать",
     "wordValue": "withhold",
     "transcription": "wɪðhould",
     "created": 1742488514,
