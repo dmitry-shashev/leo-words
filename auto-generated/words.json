@@ -1,5 +1,65 @@
 [
   {
+    "id": 103174294,
+    "combinedTranslation": "и не говори, полностью согласен",
+    "wordValue": "you can say that again",
+    "transcription": "ju kæn seɪ ðæt ə'gen",
+    "created": 1760005077,
+    "added": 1759994309,
+    "picture": "https://img.freepik.com/free-photo/young-lady-stretching-hand-green-shirt-looking-attractive_176474-81994.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/eW91IGNhbiBzYXkgdGhhdCBhZ2Fpbg==99fd9053.mp3"
+  },
+  {
+    "id": 3961640,
+    "combinedTranslation": "анекдот с бородой, устареть",
+    "wordValue": "old chestnut",
+    "transcription": "ould tʃˈesnʌt",
+    "created": 1760004987,
+    "added": 1759994309,
+    "picture": "https://img.freepik.com/free-photo/view-acorns-still-life_23-2150447406.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/b2xkIGNoZXN0bnV08ce4af0f.mp3"
+  },
+  {
+    "id": 1788427326,
+    "combinedTranslation": "окружать",
+    "wordValue": "hem in",
+    "transcription": "hˈem ɪn",
+    "created": 1760004894,
+    "added": 1759994309,
+    "picture": "https://img.freepik.com/free-photo/full-shot-woman-sitting-desk_23-2148820021.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aGVtIGlu3451b78c.mp3"
+  },
+  {
+    "id": 796994,
+    "combinedTranslation": "действовать, воздействовать",
+    "wordValue": "act on",
+    "transcription": "ˈækt ɒn",
+    "created": 1760004773,
+    "added": 1759994309,
+    "picture": "https://img.freepik.com/free-photo/young-activist-taking-action_23-2149493847.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YWN0IG9uebccc284.mp3"
+  },
+  {
+    "id": 10519,
+    "combinedTranslation": "потрясающее событие, дробилка",
+    "wordValue": "crusher",
+    "transcription": "krˈʌʃə",
+    "created": 1760004704,
+    "added": 1759994309,
+    "picture": "https://img.freepik.com/free-photo/grinding-machine_1048-1774.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y3J1c2hlcg==ddb75401.mp3"
+  },
+  {
+    "id": 24297,
+    "combinedTranslation": "туалет",
+    "wordValue": "loo",
+    "transcription": "lˈuː",
+    "created": 1760004619,
+    "added": 1759994309,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/446528.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bG9v36c81922.mp3"
+  },
+  {
     "id": 26599,
     "combinedTranslation": "жевать, чавкать",
     "wordValue": "munch",
