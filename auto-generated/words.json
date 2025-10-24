@@ -1,5 +1,85 @@
 [
   {
+    "id": 1060839692,
+    "combinedTranslation": "чуточку",
+    "wordValue": "itsy-bitsy",
+    "transcription": "ˈɪtsi bˈɪtsi",
+    "created": 1761305596,
+    "added": 1761294895,
+    "picture": "https://img.freepik.com/free-photo/portrait-disappointed-depressed-young-woman-crying-sitting-bed-with-laptop-eating-comfort-food_1258-253547.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aXRzeS1iaXRzeQ==3fd9a4b1.mp3"
+  },
+  {
+    "id": 285961,
+    "combinedTranslation": "Была не была",
+    "wordValue": "sink or swim",
+    "transcription": "sˈɪŋk ɔː swˈɪm",
+    "created": 1761305557,
+    "added": 1761294895,
+    "picture": "https://img.freepik.com/free-vector/sink-faucet-icon_24877-81902.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c2luayBvciBzd2ltd3c2767b.mp3"
+  },
+  {
+    "id": 1281481721,
+    "combinedTranslation": "никаких если",
+    "wordValue": "no ifs and no buts",
+    "transcription": "noʊ ˈɪfs ænd noʊ bˈʊts",
+    "created": 1761305521,
+    "added": 1761294895,
+    "picture": "https://img.freepik.com/free-photo/medium-shot-blurry-woman-holding-post-its_23-2149321547.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bm8gaWZzIGFuZCBubyBidXRzb2491dcb.mp3"
+  },
+  {
+    "id": 7523555,
+    "combinedTranslation": "если бы да кабы",
+    "wordValue": "shoulda, woulda, coulda",
+    "transcription": "ʃˈeldə wˈʊldə kˈʊdə",
+    "created": 1761305479,
+    "added": 1761294895,
+    "picture": "https://img.freepik.com/free-photo/woman-keeps-hands-chin-keeps-lips-folded-wears-blindfold-casual-shirt-awakes-after-healthy-sleep-isolated-blue_273609-49027.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c2hvdWxkYSwgd291bGRhLCBjb3VsZGE=a75297fa.mp3"
+  },
+  {
+    "id": 1022600577,
+    "combinedTranslation": "совершенно измотанный",
+    "wordValue": "totally knackered",
+    "transcription": "ˈtoʊtəli nˈækəd",
+    "created": 1761305397,
+    "added": 1761294895,
+    "picture": "https://img.freepik.com/free-photo/emotional-young-european-woman-exclaims-loudly-keeps-mouth-opened-raises-hand-holds-green-lollipop_273609-46179.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dG90YWxseSBrbmFja2VyZWQ=de19019c.mp3"
+  },
+  {
+    "id": 1328879187,
+    "combinedTranslation": "выжат как лимон",
+    "wordValue": "I am totally drained",
+    "transcription": "aɪ æm ˈtoʊtəli drˈeɪːnd",
+    "created": 1761305364,
+    "added": 1761294895,
+    "picture": "https://img.freepik.com/free-photo/expressive-young-woman-posing_176474-25800.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/SSBhbSB0b3RhbGx5IGRyYWluZWQ=2644a08f.mp3"
+  },
+  {
+    "id": 2020940009,
+    "combinedTranslation": "Я устал как собака",
+    "wordValue": "I am dog tired",
+    "transcription": "aɪ æm dɔg ˈtaɪərd",
+    "created": 1761305320,
+    "added": 1761294895,
+    "picture": "https://img.freepik.com/free-vector/never-leave-your-pet-concept-with-dog_23-2148526911.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/SSBhbSBkb2cgdGlyZWQ=f14ee990.mp3"
+  },
+  {
+    "id": 1561037453,
+    "combinedTranslation": "я за*бался",
+    "wordValue": "I am cooked",
+    "transcription": "aɪ æm kʊkt",
+    "created": 1761305291,
+    "added": 1761294895,
+    "picture": "https://img.freepik.com/free-vector/text-cooking-time-word-typography_53876-115083.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/SSBhbSBjb29rZWQ=1310300e.mp3"
+  },
+  {
     "id": 103174294,
     "combinedTranslation": "и не говори, полностью согласен",
     "wordValue": "you can say that again",
