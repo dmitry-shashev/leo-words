@@ -1,5 +1,95 @@
 [
   {
+    "id": 1859626704,
+    "combinedTranslation": "не тормози",
+    "wordValue": "don't dilly-dally",
+    "transcription": "dount dˈɪli dˈæli",
+    "created": 1762165856,
+    "added": 1762155109,
+    "picture": "https://img.freepik.com/free-vector/hand-drawn-enter-sign-design_23-2149278214.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZG9uJ3QgZGlsbHktZGFsbHk=7a5fb44f.mp3"
+  },
+  {
+    "id": 3020075,
+    "combinedTranslation": "дело в шляпе",
+    "wordValue": "bob's your uncle",
+    "transcription": "bˈɒbz jɔː rˈʌŋkl",
+    "created": 1762165794,
+    "added": 1762155109,
+    "picture": "https://img.freepik.com/free-vector/fathers-day-with-man-with-beard_23-2148530152.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Ym9iJ3MgeW91ciB1bmNsZQ==3c0cecc6.mp3"
+  },
+  {
+    "id": 1560967919,
+    "combinedTranslation": "поторапливайся",
+    "wordValue": "chop-chop",
+    "transcription": "tʃˈɒp tʃˈɒp",
+    "created": 1762165739,
+    "added": 1762155109,
+    "picture": "https://img.freepik.com/free-photo/japanese-chop-with-cabbage-tonkatsu-sauce_2829-18616.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y2hvcC1jaG9wa0c84112.mp3"
+  },
+  {
+    "id": 1173870459,
+    "combinedTranslation": "плакса",
+    "wordValue": "crybaby",
+    "transcription": "krˈaɪbɛɪːbi",
+    "created": 1762165663,
+    "added": 1762155109,
+    "picture": "https://img.freepik.com/free-vector/cute-baby-boy-crying-cartoon-vector-icon-illustration-people-nature-icon-isolated-flat-vector_138676-11870.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y3J5YmFieQ==9bd27b56.mp3"
+  },
+  {
+    "id": 102436238,
+    "combinedTranslation": "душнила",
+    "wordValue": "killjoy",
+    "transcription": "",
+    "created": 1762165633,
+    "added": 1762155109,
+    "picture": "https://img.freepik.com/free-photo/zoom-shot-grim-reaper-halloween-party-with-his-spooky-friends-dancing-having-fun-background_482257-11314.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/a2lsbGpveQ==7b156695.mp3"
+  },
+  {
+    "id": 48891,
+    "combinedTranslation": "мудак",
+    "wordValue": "wanker",
+    "transcription": "wˈæŋkə",
+    "created": 1762165535,
+    "added": 1762155109,
+    "picture": "https://img.freepik.com/free-photo/optimistic-red-haired-man-with-beard-tells-he-is-perfect-candidate_273609-40879.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/d2Fua2Vy6db1322f.mp3"
+  },
+  {
+    "id": 1205293868,
+    "combinedTranslation": "болван",
+    "wordValue": "plonker",
+    "transcription": "plˈɒŋkə",
+    "created": 1762165366,
+    "added": 1762155109,
+    "picture": "https://img.freepik.com/free-photo/obese-bearded-male-sailor-wiith-fishing-net_273609-48056.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cGxvbmtlcg==21e48c10.mp3"
+  },
+  {
+    "id": 103173210,
+    "combinedTranslation": "или по-моему, или никак",
+    "wordValue": "my way or the highway",
+    "transcription": "maɪ weɪ ɔr ði ˈhaɪˌweɪ",
+    "created": 1762165298,
+    "added": 1762155109,
+    "picture": "https://img.freepik.com/free-photo/vintage-collage-with-hand-holding-road_23-2150169204.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bXkgd2F5IG9yIHRoZSBoaWdod2F52ea3d9f8.mp3"
+  },
+  {
+    "id": 481103,
+    "combinedTranslation": "будь что будет",
+    "wordValue": "come what may",
+    "transcription": "kˈʌm wˈɒt mɛɪː",
+    "created": 1762165170,
+    "added": 1762155109,
+    "picture": "https://img.freepik.com/free-photo/amazed-passionate-lady-with-flowers-head_23-2148054836.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y29tZSB3aGF0IG1heQ==bd938234.mp3"
+  },
+  {
     "id": 1060839692,
     "combinedTranslation": "чуточку",
     "wordValue": "itsy-bitsy",
