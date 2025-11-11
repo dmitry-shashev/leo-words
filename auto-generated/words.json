@@ -1,5 +1,125 @@
 [
   {
+    "id": 1288249145,
+    "combinedTranslation": "Спать с кем попало",
+    "wordValue": "sleep around",
+    "transcription": "slip əˈraʊnd",
+    "created": 1762858780,
+    "added": 1762848017,
+    "picture": "https://img.freepik.com/free-photo/woman-sleeping_231208-12161.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c2xlZXAgYXJvdW5kd526db4e.mp3"
+  },
+  {
+    "id": 283303,
+    "combinedTranslation": "лапать",
+    "wordValue": "feel up",
+    "transcription": "fˈiːl ʌp",
+    "created": 1762858721,
+    "added": 1762848017,
+    "picture": "https://img.freepik.com/free-vector/hand-drawn-comfort-zone-illustration_23-2150135061.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZmVlbCB1cA==a327d8b1.mp3"
+  },
+  {
+    "id": 1277713426,
+    "combinedTranslation": "Переспать, монтировать",
+    "wordValue": "hook up",
+    "transcription": "hʊk ʌp",
+    "created": 1762858697,
+    "added": 1726564642,
+    "picture": "https://img.freepik.com/free-photo/couple-having-public-intimacy-moments_23-2149459112.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aG9vayB1cA==06bb48f5.mp3"
+  },
+  {
+    "id": 174424,
+    "combinedTranslation": "сосаться",
+    "wordValue": "make out",
+    "transcription": "meɪk aʊt",
+    "created": 1762858655,
+    "added": 1762848017,
+    "picture": "https://img.freepik.com/free-photo/happy-lady-beige-outfit-blows-kiss-takes-selfie-office-attractive-woman-white-blouse-poses-good-mood-apartment_197531-27465.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bWFrZSBvdXQ=448920f8.mp3"
+  },
+  {
+    "id": 313220,
+    "combinedTranslation": "забей",
+    "wordValue": "drop it",
+    "transcription": "drˈɒp ɪt",
+    "created": 1762858603,
+    "added": 1762848017,
+    "picture": "https://img.freepik.com/free-vector/hand-drawn-water-drop-cartoon-illustration_23-2150818637.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZHJvcCBpdA==daa97d02.mp3"
+  },
+  {
+    "id": 388358,
+    "combinedTranslation": "повтори",
+    "wordValue": "come again",
+    "transcription": "kˈʌm əgˈen",
+    "created": 1762858543,
+    "added": 1762848017,
+    "picture": "https://img.freepik.com/free-photo/girl-found-something-stunning-amused-speechless-surprised-blond-alluring-woman-yellow-hoodie_1258-115765.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y29tZSBhZ2Fpbg==575e1b4a.mp3"
+  },
+  {
+    "id": 188133,
+    "combinedTranslation": "погоди",
+    "wordValue": "Hang on",
+    "transcription": "haŋ ɒn",
+    "created": 1762858464,
+    "added": 1726564642,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/99293.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aGFuZyBvbg==bcedb010.mp3"
+  },
+  {
+    "id": 1221027362,
+    "combinedTranslation": "высади его",
+    "wordValue": "drop him off",
+    "transcription": "drɑːp hɪm ɔf",
+    "created": 1762858387,
+    "added": 1762848017,
+    "picture": "https://img.freepik.com/free-vector/flashcard-letter-s-is-slip_1308-35406.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZHJvcCBoaW0gb2Zm854ce743.mp3"
+  },
+  {
+    "id": 1550409789,
+    "combinedTranslation": "забрать его",
+    "wordValue": "pick him up",
+    "transcription": "pɪk hɪm ʌp",
+    "created": 1762858379,
+    "added": 1762848017,
+    "picture": "https://img.freepik.com/free-photo/close-up-portrait-young-stylish-ginger-peson-navy-t-shirt-pointing-someone-showing-thumb-up-while-posing-blue-studio-background-human-facial-expressions-sincere-emotions-concept_639032-2120.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cGljayBoaW0gdXA=f7ba2b3d.mp3"
+  },
+  {
+    "id": 281889,
+    "combinedTranslation": "ускориться",
+    "wordValue": "speed up",
+    "transcription": "spˈiːd ʌp",
+    "created": 1762858236,
+    "added": 1762848017,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/604097.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c3BlZWQgdXA=2411cd53.mp3"
+  },
+  {
+    "id": 1336960226,
+    "combinedTranslation": "пристегнись",
+    "wordValue": "buckle up",
+    "transcription": "ˈbʌkl ʌp",
+    "created": 1762858214,
+    "added": 1762848017,
+    "picture": "https://img.freepik.com/free-photo/boy-fastening-his-seat-belt_53876-15267.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YnVja2xlIHVw957a53e8.mp3"
+  },
+  {
+    "id": 189034,
+    "combinedTranslation": "притормозить",
+    "wordValue": "slow down",
+    "transcription": "sloʊ daʊn",
+    "created": 1762858190,
+    "added": 1762848017,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/647720.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c2xvdyBkb3dueb1762ae.mp3"
+  },
+  {
     "id": 1859626704,
     "combinedTranslation": "не тормози",
     "wordValue": "don't dilly-dally",
@@ -20988,16 +21108,6 @@
     "added": 1726564642,
     "picture": "https://img.freepik.com/free-photo/portrait-hopeful-dreamy-girl-close-eyes-making-wish-cross-fingers-good-luck-praying-believe-dreams-come-true-imaging-something-positive-white-background_176420-53454.jpg",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bGV0IHVwf6dabb9f.mp3"
-  },
-  {
-    "id": 1277713426,
-    "combinedTranslation": "монтировать",
-    "wordValue": "hook up",
-    "transcription": "hʊk ʌp",
-    "created": 1710084196,
-    "added": 1726564642,
-    "picture": "https://img.freepik.com/free-photo/couple-having-public-intimacy-moments_23-2149459112.jpg",
-    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aG9vayB1cA==06bb48f5.mp3"
   },
   {
     "id": 286120,
@@ -62418,16 +62528,6 @@
     "added": 1726564642,
     "picture": "https://img.freepik.com/free-photo/person-pressing-power-button_23-2150040437.jpg",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dHVybiBvbg==e5ea651c.mp3"
-  },
-  {
-    "id": 188133,
-    "combinedTranslation": "упорствовать, ждать (у телефона)",
-    "wordValue": "Hang on",
-    "transcription": "haŋ ɒn",
-    "created": 1453420800,
-    "added": 1726564642,
-    "picture": "https://img.freepik.com/free-photo/front-view-young-beautiful-girl-female-hand-holding-hang-white_140725-18607.jpg",
-    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aGFuZyBvbg==bcedb010.mp3"
   },
   {
     "id": 188665,
