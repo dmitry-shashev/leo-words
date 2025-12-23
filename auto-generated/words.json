@@ -1,5 +1,75 @@
 [
   {
+    "id": 102429363,
+    "combinedTranslation": "крестить",
+    "wordValue": "baptise",
+    "transcription": "",
+    "created": 1766512381,
+    "added": 1766501676,
+    "picture": "https://img.freepik.com/free-photo/side-view-baby-baptism-scene_23-2149453498.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YmFwdGlzZQ==481d3346.mp3"
+  },
+  {
+    "id": 39350,
+    "combinedTranslation": "стойка, распорка",
+    "wordValue": "strut",
+    "transcription": "strˈʌt",
+    "created": 1766512280,
+    "added": 1766501676,
+    "picture": "https://img.freepik.com/free-vector/drum-cymbal-instrument-musical_24877-81686.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c3RydXQ=690e824f.mp3"
+  },
+  {
+    "id": 17062,
+    "combinedTranslation": "резвый, игривый",
+    "wordValue": "frisky",
+    "transcription": "frˈɪski",
+    "created": 1766512239,
+    "added": 1766501676,
+    "picture": "https://img.freepik.com/free-photo/closeup-portrait-cute-girl-giving-kiss-posing-enjoying-party-nice-makeup-with-eyeliner-wearing-dress-with-lace-cat-ears-diadem_197531-2584.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZnJpc2t589928554.mp3"
+  },
+  {
+    "id": 1757041768,
+    "combinedTranslation": "сообразительность",
+    "wordValue": "gumption",
+    "transcription": "",
+    "created": 1766512215,
+    "added": 1766501676,
+    "picture": "https://img.freepik.com/free-photo/abraham-lincoln-memorial-washington_268835-4937.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Z3VtcHRpb24=82b8e7e2.mp3"
+  },
+  {
+    "id": 372,
+    "combinedTranslation": "купидон",
+    "wordValue": "cupid",
+    "transcription": "ˈkjuːpɪd",
+    "created": 1766512196,
+    "added": 1766501676,
+    "picture": "https://img.freepik.com/free-vector/hand-drawn-cute-cupid-character-collection_23-2148396444.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y3VwaWQ=1b122f1c.mp3"
+  },
+  {
+    "id": 182885,
+    "combinedTranslation": "обмануть, нарушить обещание",
+    "wordValue": "go back on",
+    "transcription": "gou bˈæk ɒn",
+    "created": 1766512142,
+    "added": 1766501676,
+    "picture": "https://img.freepik.com/free-vector/lets-go-text-icon-white-background_1308-92274.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Z28gYmFjayBvbg==21903083.mp3"
+  },
+  {
+    "id": 9287,
+    "combinedTranslation": "соединять, объединять; объединять два варианта текста",
+    "wordValue": "conflate",
+    "transcription": "kənflˈeɪːt",
+    "created": 1766512118,
+    "added": 1766501676,
+    "picture": "https://img.freepik.com/free-vector/party-popper_78370-557.jpg",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y29uZmxhdGU=fd4c4e67.mp3"
+  },
+  {
     "id": 33731,
     "combinedTranslation": "бюрократия",
     "wordValue": "red tape",
