@@ -22,15 +22,9 @@ async function loadPdfText(path: string): Promise<string> {
   return data.flat().join(' ')
 }
 
-// main
-;(async function (): Promise<void> {
-  const text = await loadPdfText(fileSource!)
-  const parsedWordsData = parseWords(text)
+const text = await loadPdfText(fileSource!)
+const parsedWordsData = parseWords(text)
 
-  writeFileSync(
-    ADD_TO_BLOCK_LIST_PATH,
-    JSON.stringify(parsedWordsData, null, 2)
-  )
+writeFileSync(ADD_TO_BLOCK_LIST_PATH, JSON.stringify(parsedWordsData, null, 2))
 
-  printParseResult(parsedWordsData)
-})()
+printParseResult(parsedWordsData)

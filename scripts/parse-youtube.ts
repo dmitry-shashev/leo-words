@@ -12,24 +12,18 @@ if (!videoID) {
   throw new Error('The source was not specified')
 }
 
-// main
-;(async function (): Promise<void> {
-  const yt = await Innertube.create()
-  const info = await yt.getInfo(videoID)
+const yt = await Innertube.create()
+const info = await yt.getInfo(videoID)
 
-  const transcriptResult = await info.getTranscript()
-  const textFragments =
-    transcriptResult.transcript.content?.body?.initial_segments.map(
-      (v) => v.snippet.text
-    ) ?? []
-  const text = textFragments.join(' ')
+const transcriptResult = await info.getTranscript()
+const textFragments =
+  transcriptResult.transcript.content?.body?.initial_segments.map(
+    (v) => v.snippet.text
+  ) ?? []
+const text = textFragments.join(' ')
 
-  const parsedWordsData = parseWords(text)
+const parsedWordsData = parseWords(text)
 
-  writeFileSync(
-    ADD_TO_BLOCK_LIST_PATH,
-    JSON.stringify(parsedWordsData, null, 2)
-  )
+writeFileSync(ADD_TO_BLOCK_LIST_PATH, JSON.stringify(parsedWordsData, null, 2))
 
-  printParseResult(parsedWordsData)
-})()
+printParseResult(parsedWordsData)
