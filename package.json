@@ -1,6 +1,6 @@
 {
   "name": "leo-words",
-  "version": "0.0.182",
+  "version": "0.0.183",
   "private": true,
   "scripts": {
     "prepare": "husky",
@@ -53,6 +53,7 @@
     "husky": "9.0.11",
     "i": "0.3.7",
     "jsdom": "24.0.0",
+    "lint-staged": "16.3.3",
     "npm": "10.5.1",
     "pdf-data-parser": "1.2.4",
     "playwright": "1.50.0",
@@ -76,5 +77,14 @@
   "engines": {
     "node": ">=20.11.0",
     "pnpm": ">=9.0.0"
+  },
+  "lint-staged": {
+    "*.{ts,tsx}": [
+      "prettier --write",
+      "eslint --fix"
+    ],
+    "*.{json,css,md}": [
+      "prettier --write"
+    ]
   }
 }
