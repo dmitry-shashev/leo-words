@@ -8,7 +8,7 @@ A Next.js 14 app for fast repetition of vocabulary from Lingualeo (a language le
 
 ## Package Manager
 
-Use **pnpm** (not npm or yarn). Node >=20.11.0 required.
+Use **pnpm** (not npm or yarn). Node >=24.12.0, pnpm >=10.26.2 required.
 
 ## Common Commands
 

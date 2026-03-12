@@ -1,6 +1,6 @@
 {
   "name": "leo-words",
-  "version": "0.0.183",
+  "version": "0.0.184",
   "private": true,
   "scripts": {
     "prepare": "husky",
@@ -75,8 +75,8 @@
     "bracketSpacing": true
   },
   "engines": {
-    "node": ">=20.11.0",
-    "pnpm": ">=9.0.0"
+    "node": ">=24.12.0",
+    "pnpm": ">=10.26.2"
   },
   "lint-staged": {
     "*.{ts,tsx}": [
