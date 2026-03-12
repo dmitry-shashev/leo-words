@@ -1,4 +1,4 @@
-FROM node:20.11.0
+FROM node:24.12.0
 SHELL ["/bin/bash", "-c"]
 EXPOSE 3000/tcp
 

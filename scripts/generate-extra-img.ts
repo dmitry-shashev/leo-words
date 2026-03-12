@@ -5,20 +5,19 @@ import { saveWords } from '@/utils/saveWords'
 import { isWordPictureInvalid } from '@/utils/isPictureValid'
 
 interface FoundImgResult {
-  items: Array<{
-    preview?: {
-      url?: string
-    }
+  hits: Array<{
+    webformatURL?: string
   }>
 }
 
+const PIXABAY_API_KEY = '54995697-62f0aec723f7e6fb10edf4b51'
 const WORDS_PATH_FULL = `${path.resolve('./')}/${WORDS_PATH}`
 
 async function findImg(search: string): Promise<string> {
   const searchEnc = encodeURIComponent(search.replace('/', ' '))
-  const url = `https://www.freepik.com/api/regular/search?locale=en&term=${searchEnc}`
+  const url = `https://pixabay.com/api/?key=${PIXABAY_API_KEY}&q=${searchEnc}&image_type=photo&per_page=3`
   const data: FoundImgResult = await fetch(url).then((v) => v.json())
-  return data?.items[0]?.preview?.url ?? ''
+  return data?.hits[0]?.webformatURL ?? ''
 }
 
 // main

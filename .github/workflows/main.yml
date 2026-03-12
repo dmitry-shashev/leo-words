@@ -12,12 +12,12 @@ jobs:
       - name: Setup node
         uses: actions/setup-node@v4
         with:
-          node-version: 20.11.0
+          node-version: 24.12.0
 
       - name: Setup pnpm
         uses: pnpm/action-setup@v3
         with:
-          version: 9.7.0
+          version: 10.26.2
 
       - run: pnpm install
       - run: pnpm tsc
@@ -34,12 +34,12 @@ jobs:
       - name: Setup node
         uses: actions/setup-node@v4
         with:
-          node-version: 20.11.0
+          node-version: 24.12.0
 
       - name: Setup pnpm
         uses: pnpm/action-setup@v3
         with:
-          version: 9.7.0
+          version: 10.26.2
 
       - name: Install dependencies
         run: pnpm install
