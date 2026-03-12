@@ -84,7 +84,7 @@ Zod schemas for runtime validation:
 The pre-commit hook (`.husky/pre-commit`) runs automatically:
 
 1. Bumps patch version in `package.json`
-2. Runs `prettier-format`
+2. Runs `lint-staged` (prettier + eslint --fix on staged files only)
 3. Stages all changes
 4. Runs `tsc`
 
