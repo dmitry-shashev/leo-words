@@ -4,20 +4,25 @@ import path from 'path'
 import { saveWords } from '@/utils/saveWords'
 import { isWordPictureInvalid } from '@/utils/isPictureValid'
 
-interface FoundImgResult {
-  hits: Array<{
-    webformatURL?: string
+interface PexelsResult {
+  photos: Array<{
+    src?: {
+      medium?: string
+    }
   }>
 }
 
-const PIXABAY_API_KEY = '54995697-62f0aec723f7e6fb10edf4b51'
+const PEXELS_API_KEY =
+  '0q1ptLP4xJpoSYHMnUHyReuWe8FaHp1p6Hd5cwQtSEkN5IdW7SShRk3V'
 const WORDS_PATH_FULL = `${path.resolve('./')}/${WORDS_PATH}`
 
 async function findImg(search: string): Promise<string> {
   const searchEnc = encodeURIComponent(search.replace('/', ' '))
-  const url = `https://pixabay.com/api/?key=${PIXABAY_API_KEY}&q=${searchEnc}&image_type=photo&per_page=3`
-  const data: FoundImgResult = await fetch(url).then((v) => v.json())
-  return data?.hits[0]?.webformatURL ?? ''
+  const url = `https://api.pexels.com/v1/search?query=${searchEnc}&per_page=3`
+  const data: PexelsResult = await fetch(url, {
+    headers: { Authorization: PEXELS_API_KEY },
+  }).then((v) => v.json())
+  return data?.photos[0]?.src?.medium ?? ''
 }
 
 // main
