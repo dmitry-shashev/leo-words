@@ -1,7 +1,8 @@
 {
   "name": "leo-words",
-  "version": "0.0.191",
+  "version": "0.0.193",
   "private": true,
+  "type": "module",
   "scripts": {
     "prepare": "husky",
     "dev": "next dev",
