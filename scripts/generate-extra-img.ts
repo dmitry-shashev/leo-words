@@ -4,42 +4,43 @@ import path from 'path'
 import { saveWords } from '@/utils/saveWords'
 import { isWordPictureInvalid } from '@/utils/isPictureValid'
 
-interface FoundImgResult {
-  hits: Array<{
-    webformatURL?: string
+interface PexelsResult {
+  photos: Array<{
+    src?: {
+      medium?: string
+    }
   }>
 }
 
-const PIXABAY_API_KEY = '54995697-62f0aec723f7e6fb10edf4b51'
+const PEXELS_API_KEY =
+  '0q1ptLP4xJpoSYHMnUHyReuWe8FaHp1p6Hd5cwQtSEkN5IdW7SShRk3V'
 const WORDS_PATH_FULL = `${path.resolve('./')}/${WORDS_PATH}`
 
 async function findImg(search: string): Promise<string> {
   const searchEnc = encodeURIComponent(search.replace('/', ' '))
-  const url = `https://pixabay.com/api/?key=${PIXABAY_API_KEY}&q=${searchEnc}&image_type=photo&per_page=3`
-  const data: FoundImgResult = await fetch(url).then((v) => v.json())
-  return data?.hits[0]?.webformatURL ?? ''
+  const url = `https://api.pexels.com/v1/search?query=${searchEnc}&per_page=3`
+  const data: PexelsResult = await fetch(url, {
+    headers: { Authorization: PEXELS_API_KEY },
+  }).then((v) => v.json())
+  return data?.photos[0]?.src?.medium ?? ''
 }
 
 // main
-;(async function (): Promise<void> {
-  const words: Array<Word> = (await import(WORDS_PATH_FULL)).default
+const words: Array<Word> = (await import(WORDS_PATH_FULL)).default
+const wordsWithoutImg = words.filter(isWordPictureInvalid)
 
-  // mutate found words in order to add images
-  const wordsWithoutImg = words.filter(isWordPictureInvalid)
+for (const w of wordsWithoutImg) {
+  try {
+    await new Promise((r) => setTimeout(r, 1000))
+    const img = await findImg(w.wordValue)
+    // @ts-ignore
+    w['picture'] = img
 
-  for (let w of wordsWithoutImg) {
-    try {
-      await new Promise((r) => setTimeout(r, 1000))
-      const img = await findImg(w.wordValue)
-      // @ts-ignore
-      w['picture'] = img
-
-      saveWords(words)
-      // eslint-disable-next-line no-console
-      console.log(`Apply to  ${w.wordValue}[${w.id}] image: ${img}`)
-    } catch (e) {
-      // eslint-disable-next-line no-console
-      console.error(e)
-    }
+    saveWords(words)
+    // eslint-disable-next-line no-console
+    console.log(`Apply to  ${w.wordValue}[${w.id}] image: ${img}`)
+  } catch (e) {
+    // eslint-disable-next-line no-console
+    console.error(e)
   }
-})()
+}
