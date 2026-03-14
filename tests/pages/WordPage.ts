@@ -1,7 +1,11 @@
 import { expect, type Page } from '@playwright/test'
 
 export class WordPage {
-  constructor(private page: Page) {}
+  private page: Page
+
+  constructor(page: Page) {
+    this.page = page
+  }
 
   async check(): Promise<void> {
     await this.page.getByLabel('Check').click()
