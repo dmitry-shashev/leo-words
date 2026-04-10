@@ -2,7 +2,7 @@ import { writeFileSync } from 'fs'
 import path from 'path'
 import { parseWords } from '@/scripts/extra/parse-words'
 import { printParseResult } from '@/scripts/extra/not-accurate-alg'
-import { Innertube } from 'youtubei.js'
+import { fetchYoutubeTranscript } from '@/utils/fetchYoutubeTranscript'
 
 const PROJECT_PATH = path.resolve('./')
 const ADD_TO_BLOCK_LIST_PATH = `${PROJECT_PATH}/content/FOUND.json`
@@ -14,14 +14,11 @@ if (!videoID) {
 
 // main
 ;(async function (): Promise<void> {
-  const yt = await Innertube.create()
-  const info = await yt.getInfo(videoID)
-
-  const transcriptResult = await info.getTranscript()
-  const textFragments =
-    transcriptResult.transcript.content?.body?.initial_segments.map(
-      (v) => v.snippet.text
-    ) ?? []
+  const transcriptItems = await fetchYoutubeTranscript(videoID)
+  const textFragments = transcriptItems.map((item) => item.text.trim())
+  if (textFragments.length === 0) {
+    throw new Error(`No transcript was found for video ${videoID}`)
+  }
   const text = textFragments.join(' ')
 
   const parsedWordsData = parseWords(text)
