@@ -1,5 +1,125 @@
 [
   {
+    "id": 1388656672,
+    "combinedTranslation": "старческий маразм",
+    "wordValue": "dotage",
+    "transcription": "doutɪdʒ",
+    "created": 1779792202,
+    "added": 1779781457,
+    "picture": "https://images.pexels.com/photos/10512586/pexels-photo-10512586.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZG90YWdl4e201e2e.mp3"
+  },
+  {
+    "id": 6188,
+    "combinedTranslation": "рассол",
+    "wordValue": "brine",
+    "transcription": "brˈaɪn",
+    "created": 1779792168,
+    "added": 1779781457,
+    "picture": "https://images.pexels.com/photos/20080821/pexels-photo-20080821.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YnJpbmU=2ddd13dd.mp3"
+  },
+  {
+    "id": 1395551872,
+    "combinedTranslation": "листовидный",
+    "wordValue": "foliose",
+    "transcription": "",
+    "created": 1779792130,
+    "added": 1779781457,
+    "picture": "https://images.pexels.com/photos/9894566/pexels-photo-9894566.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Zm9saW9zZQ==386c2cda.mp3"
+  },
+  {
+    "id": 2706,
+    "combinedTranslation": "накопить",
+    "wordValue": "amass",
+    "transcription": "əmˈæs",
+    "created": 1779792079,
+    "added": 1779781457,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/778154.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YW1hc3M=26ce7d2c.mp3"
+  },
+  {
+    "id": 34132,
+    "combinedTranslation": "исполнение",
+    "wordValue": "rendition",
+    "transcription": "rɛndˈɪʃən",
+    "created": 1779792036,
+    "added": 1779781457,
+    "picture": "https://images.pexels.com/photos/33696522/pexels-photo-33696522.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cmVuZGl0aW9u14d3e71d.mp3"
+  },
+  {
+    "id": 103051101,
+    "combinedTranslation": "происхождение",
+    "wordValue": "provenance",
+    "transcription": "",
+    "created": 1779792004,
+    "added": 1779781457,
+    "picture": "https://images.pexels.com/photos/3636961/pexels-photo-3636961.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cHJvdmVuYW5jZQ==d2c855df.mp3"
+  },
+  {
+    "id": 7002,
+    "combinedTranslation": "похититель",
+    "wordValue": "captor",
+    "transcription": "kˈæptə",
+    "created": 1779791971,
+    "added": 1779781457,
+    "picture": "https://images.pexels.com/photos/8514136/pexels-photo-8514136.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y2FwdG9yc0e8ae05.mp3"
+  },
+  {
+    "id": 3788,
+    "combinedTranslation": "искупить",
+    "wordValue": "atone",
+    "transcription": "ətoun",
+    "created": 1779791948,
+    "added": 1779781457,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3249958.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YXRvbmU=7e1ddb1e.mp3"
+  },
+  {
+    "id": 10333,
+    "combinedTranslation": "трещина в леднике",
+    "wordValue": "crevasse",
+    "transcription": "krɪˈvæs",
+    "created": 1779791906,
+    "added": 1779781457,
+    "picture": "https://images.pexels.com/photos/12071906/pexels-photo-12071906.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y3JldmFzc2U=75942ff9.mp3"
+  },
+  {
+    "id": 1901707976,
+    "combinedTranslation": "злоба",
+    "wordValue": "rancor",
+    "transcription": "rˈæŋkɔː",
+    "created": 1779791814,
+    "added": 1779781457,
+    "picture": "https://images.pexels.com/photos/30776169/pexels-photo-30776169.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cmFuY29y15e6c432.mp3"
+  },
+  {
+    "id": 35484,
+    "combinedTranslation": "сочный, сентиментальный",
+    "wordValue": "sappy",
+    "transcription": "sˈæpi",
+    "created": 1779791776,
+    "added": 1779781457,
+    "picture": "https://images.pexels.com/photos/33202463/pexels-photo-33202463.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c2FwcHk=2c9a4d89.mp3"
+  },
+  {
+    "id": 48300,
+    "combinedTranslation": "чавкать",
+    "wordValue": "slurp",
+    "transcription": "slˈɜːp",
+    "created": 1779791662,
+    "added": 1779781457,
+    "picture": "https://images.pexels.com/photos/6515987/pexels-photo-6515987.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c2x1cnA=b339b870.mp3"
+  },
+  {
     "id": 383961,
     "combinedTranslation": "так держать",
     "wordValue": "way to go",
@@ -10216,7 +10336,7 @@
     "transcription": "rid",
     "created": 1723308737,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3243970.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/76NTI35VKLF2Y643XBWLZQ4IHU_320.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cmVlZA==b8eba259.mp3"
   },
   {
@@ -12856,7 +12976,7 @@
     "transcription": "ˈfreɪgrəns",
     "created": 1719929795,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/662047.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/GBTRXB6EXLP6OUZGM7PNJRMV7Y_320.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZnJhZ3JhbmNl1a972785.mp3"
   },
   {
@@ -29866,7 +29986,7 @@
     "transcription": "gæg",
     "created": 1544745600,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3216111.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/WPBMV3553AIJOEPBRVQ7HNTRJY_320.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Z2Fnc0c8a34c.mp3"
   },
   {
@@ -30126,7 +30246,7 @@
     "transcription": "ˈɔrkəstrə",
     "created": 1544486400,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3245685.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/VA7JMW2SBZ56XLFNJHJ4SDB4XM_320.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/b3JjaGVzdHJhdc48c450.mp3"
   },
   {
@@ -56296,7 +56416,7 @@
     "transcription": "pæˈprikə",
     "created": 1466985600,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3243599.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/U6EUEZ5UVKQCJ4LJ5DOL3HQRTA_320.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cGFwcmlrYQ==7aa778e2.mp3"
   },
   {
@@ -56376,7 +56496,7 @@
     "transcription": "təˈmeɪˌtoʊ",
     "created": 1466985600,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3243626.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/V4E3LIMUDZKVWUZS4QWEMWOK4Q_320.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dG9tYXRvaf183e5e.mp3"
   },
   {
@@ -58746,7 +58866,7 @@
     "transcription": "skwɪnt",
     "created": 1462233600,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/925693.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/1776939993685_0e5cdca49207.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c3F1aW50124d4325.mp3"
   },
   {
@@ -59656,7 +59776,7 @@
     "transcription": "ðɛr",
     "created": 1461283200,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/content/image/1613037658-842678272.jpg",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/1776950670469_4cc822a6ff8d.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dGhlaXI=727b9b4a.mp3"
   },
   {
@@ -61676,7 +61796,7 @@
     "transcription": "ˈɪnvɔɪs",
     "created": 1457654400,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/1473663.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/7HQAUQZHAAKIEXGNIFOQDUVR2A_320.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aW52b2ljZQ==9ec76607.mp3"
   },
   {
@@ -68526,7 +68646,7 @@
     "transcription": "ˈælbəˌtrɑs",
     "created": 1443312000,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3244145.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/RY7TX5GWBMEWFOUDLWXQCV4BNI_320.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YWxiYXRyb3Nz6ad182d9.mp3"
   },
   {
@@ -68876,7 +68996,7 @@
     "transcription": "ˈbɪtən",
     "created": 1443312000,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3244228.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/I4NS3CBMK4NVSOL5IO7P4D2HWE_320.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Yml0dGVybg==5dbf5321.mp3"
   },
   {
@@ -68976,7 +69096,7 @@
     "transcription": "bʊlfɪnʧ",
     "created": 1443312000,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3244233.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/75DROYAF62TAAXELJUWNMCEAH4_320.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YnVsbGZpbmNobf8b664c.mp3"
   },
   {
@@ -69346,7 +69466,7 @@
     "transcription": "ˈkɑkəˌtu",
     "created": 1443312000,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3244239.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/GRFAWKFSRZV6A347HS722Q5IZQ_320.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y29ja2F0b28=2595e827.mp3"
   },
   {
@@ -70666,7 +70786,7 @@
     "transcription": "ʤeɪ",
     "created": 1443312000,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3244276.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/HEZLMLWWLJGS5BCVAAKIDCRGJY_320.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/amF561d1b71a.mp3"
   },
   {
@@ -70856,7 +70976,7 @@
     "transcription": "məˈkɔ",
     "created": 1443312000,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3244283.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/WXUCLC2DKPAL2R5DU2GC64VGZQ_320.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bWFjYXc=1a9f3091.mp3"
   },
   {
@@ -71606,7 +71726,7 @@
     "transcription": "ˈpɑplər",
     "created": 1443312000,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/106152.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/FWMD6DOLT7MH76OEVMIUOMOFFM_320.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cG9wbGFyf6779426.mp3"
   },
   {
@@ -72206,7 +72326,7 @@
     "transcription": "swɪft",
     "created": 1443312000,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3244323.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/CTBSWTL7Y5H2AGOLIHNKPPRRY4_320.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c3dpZnQ=a941e83f.mp3"
   },
   {
@@ -72706,7 +72826,7 @@
     "transcription": "ˈmɑkɪŋˌbɜrd",
     "created": 1443312000,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3244290.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/ARV33L2RKJPP3OMRBIZVVOTCHA_320.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bW9ja2luZ2JpcmQ=a6c923ea.mp3"
   },
   {
@@ -72996,7 +73116,7 @@
     "transcription": "sɑft drɪŋk",
     "created": 1443312000,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3232698.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/1777906041725_61f0e2b6a4bb.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c29mdCBkcmluaw==bcf6480b.mp3"
   },
   {
@@ -73666,7 +73786,7 @@
     "transcription": "aɪ",
     "created": 1435190400,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/YOTZONMWLGRJRTRIVAVK2DNWIA_320.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/1776944526557_1cab09dadb10.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aQ==7ac13433.mp3"
   },
   {
@@ -74656,7 +74776,7 @@
     "transcription": "bi",
     "created": 1435190400,
     "added": 1726564642,
-    "picture": "https://img.freepik.com/free-vector/illustration-alphabet-letter-with-animal-picture_53876-20566.jpg",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/1776951383776_5550f0ffafa3.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YmU=f4c4bc15.mp3"
   },
   {
@@ -75186,7 +75306,7 @@
     "transcription": "ˈkæləndər",
     "created": 1435190400,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3359084.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/A65I5CD34CWVNHDDNBGTIGMKOY_320.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y2FsZW5kYXI=c54b9950.mp3"
   },
   {
@@ -79276,7 +79396,7 @@
     "transcription": "ˈaɪərn",
     "created": 1435190400,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/76123.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/WH6DAU7TOHZXWEPIYXMVVMS7GM_320.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aXJvbg==5267282f.mp3"
   },
   {
@@ -79306,7 +79426,7 @@
     "transcription": "ɪt",
     "created": 1435190400,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/content/image/1611309780-830599168.jpg",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/1776943665266_f2d833d447cb.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aXQ=fec7d31b.mp3"
   },
   {
@@ -79846,7 +79966,7 @@
     "transcription": "laɪk",
     "created": 1435190400,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/BVMCRTXYMFZEKPXOVAHNWZLXMM_320.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/1777023329220_8091e0a0a6ef.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bGlrZQ==798ce083.mp3"
   },
   {
@@ -80306,7 +80426,7 @@
     "transcription": "ˈmɑdərn",
     "created": 1435190400,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/29968.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/YR2WDOYOAC5EAFLL3LY4C7QT7I_320.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bW9kZXJu87ed4608.mp3"
   },
   {
@@ -80456,7 +80576,7 @@
     "transcription": "maɪ",
     "created": 1435190400,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3647609.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/1776948291537_4135a94e6502.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bXk=31e30e0f.mp3"
   },
   {
@@ -80766,7 +80886,7 @@
     "transcription": "ˈaʊər",
     "created": 1435190400,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3647624.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/1776949852140_856a75eeb01f.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/b3Vy710be307.mp3"
   },
   {
@@ -86666,7 +86786,7 @@
     "transcription": "ˈgrædjʊət skuːl",
     "created": 1435190400,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/1890791.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/HDMTOGUGECJAHJIZZMH2I3Q6V4_320.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Z3JhZHVhdGUgc2Nob29sb556d076.mp3"
   },
   {
@@ -88286,7 +88406,7 @@
     "transcription": "ˈkʌtɪŋ bɔrd",
     "created": 1435190400,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/417061.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/1777905289763_f12a7c4f56a3.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y3V0dGluZyBib2FyZA==a8578a15.mp3"
   },
   {
@@ -93996,7 +94116,7 @@
     "transcription": "eɪʤ",
     "created": 1433721600,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/7VTC3Y7PQVXZGTYKS6YVRBRVJI_320.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/XJJPNEWWVFAJN72VTWBTAZ7PBY_320.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YWdl886b1116.mp3"
   },
   {
@@ -94046,7 +94166,7 @@
     "transcription": "ɛr",
     "created": 1433721600,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3236874.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/NBGPWSK4PMIKJVLNTOGCXOBW24_320.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YWly5d13727d.mp3"
   },
   {
@@ -94306,7 +94426,7 @@
     "transcription": "ɑrm",
     "created": 1433721600,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/content/image/1604408732-833658880.jpg",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/1777024288700_827032511732.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YXJtc1e0b70c.mp3"
   },
   {
@@ -94426,7 +94546,7 @@
     "transcription": "ˈbeɪbi",
     "created": 1433721600,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/285104.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/1777024477123_0dd241a17cda.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YmFieQ==5fbb6bf3.mp3"
   },
   {
@@ -94456,7 +94576,7 @@
     "transcription": "bɑr",
     "created": 1433721600,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3250736.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/NY7DVZTBNUM56JVMO3YIN4FNQE_320.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YmFy3a1493f5.mp3"
   },
   {
@@ -94596,7 +94716,7 @@
     "transcription": "bɛst",
     "created": 1433721600,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3264048.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/1776948551817_3dec58346cc0.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YmVzdA==e86517e9.mp3"
   },
   {
@@ -97766,7 +97886,7 @@
     "transcription": "həˈloʊ",
     "created": 1433721600,
     "added": 1726564642,
-    "picture": "https://img.freepik.com/free-photo/young-south-asian-woman-standing-pink-background-waiving-saying-hello-happy-smiling-friendly-welcome-gesture_839833-30631.jpg",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/1776939784504_e6d578fdb9ed.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aGVsbG8=0e1e8dab.mp3"
   },
   {
@@ -97936,7 +98056,7 @@
     "transcription": "ˈhjumən",
     "created": 1433721600,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/532233.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/EGTDXWOM4U6LOAHR43IRSYJLL4_320.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aHVtYW4=68ff80e5.mp3"
   },
   {
@@ -99036,7 +99156,7 @@
     "transcription": "mʌnθ",
     "created": 1433721600,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/Z67QJU6RSEFKQ5ELLK3DR4DXI4_320.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/1777028393542_9e2f8a770298.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bW9udGg=f4a27d7a.mp3"
   },
   {
@@ -99326,7 +99446,7 @@
     "transcription": "noʊt",
     "created": 1433721600,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/3250862.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/66U5GH66BVIMXT5M445OJLGN4I_320.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bm90ZQ==5f60915c.mp3"
   },
   {
@@ -101256,7 +101376,7 @@
     "transcription": "ʃɑp",
     "created": 1433721600,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/WEU7IPRYH3THUGND24KASXMMQM_320.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/MB45SJZNRZMOGBZCCS7XSNBKNQ_320.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c2hvcA==7c86cfaf.mp3"
   },
   {
@@ -101696,7 +101816,7 @@
     "transcription": "ˈsɑri",
     "created": 1433721600,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/408246.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/1776944355582_cbcd81e2dcd8.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c29ycnk=9420315d.mp3"
   },
   {
@@ -102466,7 +102586,7 @@
     "transcription": "θɪŋ",
     "created": 1433721600,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/2MXTIO2IVYJP5MQ3SFALKBS3G4_320.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/ZPLMYWV223HNABZAF5YWQ7JHE4_320.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dGhpbmc=71d34330.mp3"
   },
   {
@@ -102586,7 +102706,7 @@
     "transcription": "taɪm",
     "created": 1433721600,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/5BIQIP6HUJ6EFCUMRBOLQCJVL4_320.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/TP226ZKDXLVQMI5NGS6ZCVD57E_320.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dGltZQ==024f0b93.mp3"
   },
   {
@@ -103116,7 +103236,7 @@
     "transcription": "ˈwɔtər",
     "created": 1433721600,
     "added": 1726564642,
-    "picture": "https://img.freepik.com/free-photo/water-texture-background-pastel-blue-design_53876-146663.jpg",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/1777029267647_ded69ff3b7b7.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/d2F0ZXI=9cddc7b3.mp3"
   },
   {
@@ -103606,7 +103726,7 @@
     "transcription": "ˈblæŋkət",
     "created": 1433548800,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/506323.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/1777904606688_b6023bb6dea4.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YmxhbmtldA==d310e1e4.mp3"
   },
   {
@@ -103766,7 +103886,7 @@
     "transcription": "piˈænoʊ",
     "created": 1433548800,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/509405.png",
+    "picture": "https://contentcdn.lingualeo.comhttps://contentcdn.lingualeo.com/uploads/picture/translation/6W6KXOPOCI7MJTORT5NVNRKQMA_320.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cGlhbm8=cb6415e9.mp3"
   },
   {
@@ -103916,7 +104036,7 @@
     "transcription": "wɔl",
     "created": 1433548800,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/278407.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/1777028990235_62b15efb4f13.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/d2FsbA==da09a449.mp3"
   },
   {
