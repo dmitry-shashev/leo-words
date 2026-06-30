@@ -9,7 +9,10 @@ export const WordScheme = z.object({
   created: z.number().default(0),
   added: z.number().default(0),
   // png
-  picture: z.string(),
+  picture: z
+    .string()
+    .nullish()
+    .transform((val) => val ?? undefined),
   // mp3
   pronunciation: z.string().default(''),
 })
