@@ -1,5 +1,125 @@
 [
   {
+    "id": 2059528675,
+    "combinedTranslation": "жив и здоров",
+    "wordValue": "alive and well",
+    "transcription": "əˈlaɪv ænd wɛl",
+    "created": 1789723366,
+    "added": 1789712621,
+    "picture": "https://images.pexels.com/photos/18051432/pexels-photo-18051432.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YWxpdmUgYW5kIHdlbGw=b0467ed5.mp3"
+  },
+  {
+    "id": 578490,
+    "combinedTranslation": "перекусывать (чем-либо)",
+    "wordValue": "snack on",
+    "transcription": "snˈæk ɒn",
+    "created": 1789723291,
+    "added": 1789712621,
+    "picture": "https://images.pexels.com/photos/9807276/pexels-photo-9807276.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c25hY2sgb24=a8eeabf2.mp3"
+  },
+  {
+    "id": 244064,
+    "combinedTranslation": "ковырять",
+    "wordValue": "pick at",
+    "transcription": "pɪk æt",
+    "created": 1789723253,
+    "added": 1789712621,
+    "picture": "https://images.pexels.com/photos/6444820/pexels-photo-6444820.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cGljayBhdA==952ee99c.mp3"
+  },
+  {
+    "id": 217858,
+    "combinedTranslation": "остыть",
+    "wordValue": "cool off",
+    "transcription": "kˈuːl ˈɒf",
+    "created": 1789723177,
+    "added": 1789712621,
+    "picture": "https://images.pexels.com/photos/3102373/pexels-photo-3102373.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y29vbCBvZmY=c37fa596.mp3"
+  },
+  {
+    "id": 219203,
+    "combinedTranslation": "соберись",
+    "wordValue": "pull yourself together",
+    "transcription": "pˈʊl jɔːsˈelf təgˈeðə",
+    "created": 1789723076,
+    "added": 1789712621,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/WASSB7GABT4G7AYWHIQIY6NZWE_320.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cHVsbCB5b3Vyc2VsZiB0b2dldGhlcg==c5d024f7.mp3"
+  },
+  {
+    "id": 224240,
+    "combinedTranslation": "останавливаться на чём-либо",
+    "wordValue": "dwell on",
+    "transcription": "dwˈel ɒn",
+    "created": 1789723052,
+    "added": 1789712621,
+    "picture": "https://images.pexels.com/photos/39475721/pexels-photo-39475721.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZHdlbGwgb24=c885dfea.mp3"
+  },
+  {
+    "id": 833226,
+    "combinedTranslation": "расплавить",
+    "wordValue": "melt down",
+    "transcription": "mˈelt dˈaʊːn",
+    "created": 1789722958,
+    "added": 1789712621,
+    "picture": "https://images.pexels.com/photos/11626856/pexels-photo-11626856.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bWVsdCBkb3du9b8244be.mp3"
+  },
+  {
+    "id": 339099,
+    "combinedTranslation": "уйти, хлопнув дверью ; вылететь пулей",
+    "wordValue": "storm out",
+    "transcription": "stˈɔːm ˈaʊːt",
+    "created": 1789722916,
+    "added": 1789712621,
+    "picture": "https://images.pexels.com/photos/25202587/pexels-photo-25202587.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c3Rvcm0gb3V0b9771a9a.mp3"
+  },
+  {
+    "id": 288082,
+    "combinedTranslation": "отвлечься, отключаться",
+    "wordValue": "zone out",
+    "transcription": "zoun ˈaʊːt",
+    "created": 1789722882,
+    "added": 1789712621,
+    "picture": "https://images.pexels.com/photos/7605810/pexels-photo-7605810.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/em9uZSBvdXQ=ecfb3441.mp3"
+  },
+  {
+    "id": 893412,
+    "combinedTranslation": "сорвать большой куш",
+    "wordValue": "make a killing",
+    "transcription": "mˈeɪːk ə kˈɪlɪŋ",
+    "created": 1789722755,
+    "added": 1789712621,
+    "picture": "https://images.pexels.com/photos/4707128/pexels-photo-4707128.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bWFrZSBhIGtpbGxpbmc=eee6b76a.mp3"
+  },
+  {
+    "id": 1741823657,
+    "combinedTranslation": "отмахнуться",
+    "wordValue": "brush it off",
+    "transcription": "brʌʃ ɪt ɔf",
+    "created": 1789722719,
+    "added": 1789712621,
+    "picture": "https://images.pexels.com/photos/6977502/pexels-photo-6977502.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YnJ1c2ggaXQgb2Zm45b1fe83.mp3"
+  },
+  {
+    "id": 1011759,
+    "combinedTranslation": "беда не приходит одна",
+    "wordValue": "when it rains, it pours",
+    "transcription": "wˈen ɪt rˈeɪːnz ɪt pˈɔːz",
+    "created": 1789722651,
+    "added": 1789712621,
+    "picture": "https://images.pexels.com/photos/9854856/pexels-photo-9854856.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/d2hlbiBpdCByYWlucywgaXQgcG91cnM=3e763f54.mp3"
+  },
+  {
     "id": 41679,
     "combinedTranslation": "сумка",
     "wordValue": "tote",
@@ -74956,7 +75076,7 @@
     "transcription": "bæg",
     "created": 1435190400,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/DQKTRUQBFTVFZEX5YDME3C7O4Y_320.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/ULNGNLVSB7LHKC2NKH6D23ERJY_320.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YmFnb43dae16.mp3"
   },
   {
