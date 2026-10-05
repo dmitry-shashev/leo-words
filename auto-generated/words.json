@@ -1,5 +1,215 @@
 [
   {
+    "id": 1897358452,
+    "combinedTranslation": "Внутривенно (внутривенная терапия)",
+    "wordValue": "IV (intravenous therapy)",
+    "transcription": "ˈɪv ɪntrəvˈiːnəs ˈθɛrəpi",
+    "created": 1791197657,
+    "added": 1791186895,
+    "picture": "https://images.pexels.com/photos/6191530/pexels-photo-6191530.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/SVYgKGludHJhdmVub3VzIHRoZXJhcHkp1c8ccc99.mp3"
+  },
+  {
+    "id": 5130,
+    "combinedTranslation": "желчь",
+    "wordValue": "bile",
+    "transcription": "bˈaɪl",
+    "created": 1791197576,
+    "added": 1791186895,
+    "picture": "https://images.pexels.com/photos/18852483/pexels-photo-18852483.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YmlsZQ==07cd9abb.mp3"
+  },
+  {
+    "id": 18186,
+    "combinedTranslation": "гурман",
+    "wordValue": "gourmet",
+    "transcription": "ˈgʊrˌmeɪ",
+    "created": 1791197565,
+    "added": 1791186895,
+    "picture": "https://images.pexels.com/photos/8551520/pexels-photo-8551520.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Z291cm1ldA==e4edeeca.mp3"
+  },
+  {
+    "id": 1627007472,
+    "combinedTranslation": "достаточно сказать",
+    "wordValue": "suffice it to say",
+    "transcription": "səfˈaɪs ɪt tu seɪ",
+    "created": 1791197552,
+    "added": 1791186895,
+    "picture": "https://images.pexels.com/photos/5993301/pexels-photo-5993301.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c3VmZmljZSBpdCB0byBzYXk=e3b74b4c.mp3"
+  },
+  {
+    "id": 312196,
+    "combinedTranslation": "боже упаси, не дай Бог",
+    "wordValue": "heaven forbid",
+    "transcription": "hˈevn̩ fəbˈɪd",
+    "created": 1791197529,
+    "added": 1791186895,
+    "picture": "https://images.pexels.com/photos/31852454/pexels-photo-31852454.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aGVhdmVuIGZvcmJpZA==25552bda.mp3"
+  },
+  {
+    "id": 1879845689,
+    "combinedTranslation": "если понадобится",
+    "wordValue": "if need be",
+    "transcription": "ɪf nid bi",
+    "created": 1791197512,
+    "added": 1791186895,
+    "picture": "https://images.pexels.com/photos/9533039/pexels-photo-9533039.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aWYgbmVlZCBiZQ==6654d945.mp3"
+  },
+  {
+    "id": 103172030,
+    "combinedTranslation": "как бы то ни было",
+    "wordValue": "be that as it may",
+    "transcription": "bi ðæt æz ɪt meɪ",
+    "created": 1791197496,
+    "added": 1791186895,
+    "picture": "https://images.pexels.com/photos/6947396/pexels-photo-6947396.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YmUgdGhhdCBhcyBpdCBtYXk=fa0f5026.mp3"
+  },
+  {
+    "id": 219615,
+    "combinedTranslation": "Да будет так, Быть по сему",
+    "wordValue": "so be it",
+    "transcription": "səʊː bi j̆ˈɪt",
+    "created": 1791197463,
+    "added": 1791186895,
+    "picture": "https://images.pexels.com/photos/27363860/pexels-photo-27363860.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c28gYmUgaXQ=5a7d6d9a.mp3"
+  },
+  {
+    "id": 1633872897,
+    "combinedTranslation": "вести себя неадекватно",
+    "wordValue": "off one's meds",
+    "transcription": "ɔf wˈʌnz mˈeds",
+    "created": 1791197297,
+    "added": 1791186895,
+    "picture": "https://images.pexels.com/photos/11931275/pexels-photo-11931275.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/b2ZmIG9uZSdzIG1lZHM=0e738109.mp3"
+  },
+  {
+    "id": 884829,
+    "combinedTranslation": "в полном порядке; здоров как лошадь",
+    "wordValue": "right as rain",
+    "transcription": "rˈaɪt əz rˈeɪːn",
+    "created": 1791196904,
+    "added": 1791186895,
+    "picture": "https://images.pexels.com/photos/4578433/pexels-photo-4578433.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cmlnaHQgYXMgcmFpbg==e81977cf.mp3"
+  },
+  {
+    "id": 317448,
+    "combinedTranslation": "быть как огурчик",
+    "wordValue": "fit as a fiddle",
+    "transcription": "fˈɪt əz ə fˈɪdl",
+    "created": 1791196877,
+    "added": 1791186895,
+    "picture": "https://images.pexels.com/photos/39856940/pexels-photo-39856940.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Zml0IGFzIGEgZmlkZGxl74c01cda.mp3"
+  },
+  {
+    "id": 19148,
+    "combinedTranslation": "бывший",
+    "wordValue": "has-been",
+    "transcription": "hæz bˈiːn",
+    "created": 1791196830,
+    "added": 1791186895,
+    "picture": "https://images.pexels.com/photos/20241152/pexels-photo-20241152.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/aGFzLWJlZW4=d6cd1569.mp3"
+  },
+  {
+    "id": 419927,
+    "combinedTranslation": "неумелый, неловкий",
+    "wordValue": "all thumbs",
+    "transcription": "ˈɔːl θˈʌmz",
+    "created": 1791196751,
+    "added": 1791186895,
+    "picture": "https://images.pexels.com/photos/36109199/pexels-photo-36109199.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YWxsIHRodW1icw==e17d6b89.mp3"
+  },
+  {
+    "id": 102467334,
+    "combinedTranslation": "неуклюжий",
+    "wordValue": "butterfingers",
+    "transcription": "",
+    "created": 1791196726,
+    "added": 1791186895,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/41419.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/YnV0dGVyZmluZ2Vycw==5371e59c.mp3"
+  },
+  {
+    "id": 37955,
+    "combinedTranslation": "одиночество",
+    "wordValue": "solitude",
+    "transcription": "sˈɒlɪtjud",
+    "created": 1791196690,
+    "added": 1791186895,
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/JVFMTBEPT2S5SBMEPNR7N5P3TM_320.png",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/c29saXR1ZGU=a46ce72d.mp3"
+  },
+  {
+    "id": 225636,
+    "combinedTranslation": "кто не рискует, тот не пьет шампанского",
+    "wordValue": "nothing ventured, nothing gained",
+    "transcription": "nˈʌθɪŋ vˈentʃəd nˈʌθɪŋ gˈeɪːnd",
+    "created": 1791196647,
+    "added": 1791186895,
+    "picture": "https://images.pexels.com/photos/4084146/pexels-photo-4084146.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bm90aGluZyB2ZW50dXJlZCwgbm90aGluZyBnYWluZWQ=e957ea47.mp3"
+  },
+  {
+    "id": 201856,
+    "combinedTranslation": "Приступайте к еде",
+    "wordValue": "Dig in",
+    "transcription": "dˈɪg ɪn",
+    "created": 1791196625,
+    "added": 1791186895,
+    "picture": "https://images.pexels.com/photos/38240258/pexels-photo-38240258.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZGlnIGlud186574b.mp3"
+  },
+  {
+    "id": 180375,
+    "combinedTranslation": "есть вне дома",
+    "wordValue": "eat out",
+    "transcription": "it aʊt",
+    "created": 1791196587,
+    "added": 1791186895,
+    "picture": "https://images.pexels.com/photos/27633709/pexels-photo-27633709.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/ZWF0IG91dA==08e1f6bd.mp3"
+  },
+  {
+    "id": 219785,
+    "combinedTranslation": "сократить потребление",
+    "wordValue": "cut down on",
+    "transcription": "kˈʌt dˈaʊːn ɒn",
+    "created": 1791196550,
+    "added": 1791186895,
+    "picture": "https://images.pexels.com/photos/4965817/pexels-photo-4965817.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/Y3V0IGRvd24gb24=c70b5888.mp3"
+  },
+  {
+    "id": 285602,
+    "combinedTranslation": "довести до конца",
+    "wordValue": "polish off",
+    "transcription": "ˈpɑlɪʃ ɔf",
+    "created": 1791196527,
+    "added": 1791186895,
+    "picture": "https://images.pexels.com/photos/10946061/pexels-photo-10946061.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cG9saXNoIG9mZg==50101a0b.mp3"
+  },
+  {
+    "id": 360809,
+    "combinedTranslation": "обжираться",
+    "wordValue": "pig out",
+    "transcription": "pɪg aʊt",
+    "created": 1791196487,
+    "added": 1791186895,
+    "picture": "https://images.pexels.com/photos/26841069/pexels-photo-26841069.jpeg?auto=compress&cs=tinysrgb&h=350",
+    "pronunciation": "https://audiocdn.lingualeo.com/v2/3/cGlnIG91dA==3dca4e1b.mp3"
+  },
+  {
     "id": 2059528675,
     "combinedTranslation": "жив и здоров",
     "wordValue": "alive and well",
@@ -38416,7 +38626,7 @@
     "transcription": "treɪl",
     "created": 1505865600,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/934888.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/ZSMDKDXFK6EYSHAUZ325ZD2Q5Q_320.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/dHJhaWw=09bd6204.mp3"
   },
   {
@@ -80566,7 +80776,7 @@
     "transcription": "mæp",
     "created": 1435190400,
     "added": 1726564642,
-    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/DDSW54ZFRSIUVA2R6NGT2BSUTA_320.png",
+    "picture": "https://contentcdn.lingualeo.com/uploads/picture/translation/AA25VIY5YNLHPZPEAJKZPB3LHE_320.png",
     "pronunciation": "https://audiocdn.lingualeo.com/v2/3/bWFw280e7c77.mp3"
   },
   {
